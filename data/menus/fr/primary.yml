@@ -13,8 +13,8 @@ items:
   target: "/fr/equipe/"
   kind: page
   children: []
-- title: Organisations
-  target: "/fr/organisations/"
+- title: Notre organisation
+  target: "/fr/notre-organisation/"
   kind: page
   children: []
 - title: Chiffres-clés
