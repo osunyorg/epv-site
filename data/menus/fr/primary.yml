@@ -25,4 +25,8 @@ items:
   target: "/fr/nos-missions/"
   kind: page
   children: []
+- title: Le Réseau
+  target: "/fr/le-reseau/"
+  kind: page
+  children: []
 
