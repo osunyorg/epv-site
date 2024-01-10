@@ -29,4 +29,8 @@ items:
   target: "/fr/le-reseau-excellence-en-france/"
   kind: page
   children: []
+- title: L'association
+  target: ''
+  kind: blank
+  children: []
 
