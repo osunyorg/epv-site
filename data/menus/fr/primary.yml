@@ -21,8 +21,8 @@ items:
   target: "/fr/chiffres-cles/"
   kind: page
   children: []
-- title: Missions
-  target: "/fr/missions/"
+- title: Nos missions
+  target: "/fr/nos-missions/"
   kind: page
   children: []
 
