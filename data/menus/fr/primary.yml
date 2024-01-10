@@ -17,4 +17,8 @@ items:
   target: "/fr/organisations/"
   kind: page
   children: []
+- title: Chiffres-clés
+  target: "/fr/chiffres-cles/"
+  kind: page
+  children: []
 
