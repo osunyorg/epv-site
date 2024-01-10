@@ -24,7 +24,11 @@ items:
 - title: Le label EPV
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Actions et engagements
+    target: ''
+    kind: blank
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
@@ -36,10 +40,6 @@ items:
 - title: Équipe
   target: "/fr/equipe/"
   kind: page
-  children: []
-- title: Actions et engagements
-  target: ''
-  kind: blank
   children: []
 - title: Rejoindre le Réseau
   target: ''
