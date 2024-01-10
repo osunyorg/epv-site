@@ -21,10 +21,6 @@ items:
   target: "/fr/nos-missions/"
   kind: page
   children: []
-- title: Le Réseau Excellence en France
-  target: "/fr/le-reseau-excellence-en-france/"
-  kind: page
-  children: []
 - title: L'association
   target: ''
   kind: blank
@@ -33,4 +29,8 @@ items:
     target: "/fr/notre-organisation/"
     kind: page
     children: []
+- title: Le Réseau Excellence en France
+  target: "/fr/le-reseau-excellence-en-france/"
+  kind: page
+  children: []
 
