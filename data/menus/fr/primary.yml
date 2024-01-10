@@ -29,6 +29,10 @@ items:
     target: ''
     kind: blank
     children: []
+- title: Rejoindre le Réseau
+  target: ''
+  kind: blank
+  children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
@@ -40,9 +44,5 @@ items:
 - title: Équipe
   target: "/fr/equipe/"
   kind: page
-  children: []
-- title: Rejoindre le Réseau
-  target: ''
-  kind: blank
   children: []
 
