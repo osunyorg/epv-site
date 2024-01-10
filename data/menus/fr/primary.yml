@@ -33,4 +33,8 @@ items:
     target: "/fr/chiffres-cles/"
     kind: page
     children: []
+- title: Le label EPV
+  target: ''
+  kind: blank
+  children: []
 
