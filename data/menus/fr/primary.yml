@@ -13,10 +13,6 @@ items:
   target: "/fr/equipe/"
   kind: page
   children: []
-- title: Notre organisation
-  target: "/fr/notre-organisation/"
-  kind: page
-  children: []
 - title: Chiffres-clés
   target: "/fr/chiffres-cles/"
   kind: page
@@ -32,5 +28,9 @@ items:
 - title: L'association
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Notre organisation
+    target: "/fr/notre-organisation/"
+    kind: page
+    children: []
 
