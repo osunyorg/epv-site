@@ -45,6 +45,10 @@ items:
     target: "/fr/federer/"
     kind: page
     children: []
+  - title: Développer
+    target: "/fr/developper/"
+    kind: page
+    children: []
 - title: Rejoindre le Réseau
   target: ''
   kind: blank
