@@ -41,4 +41,8 @@ items:
   target: "/fr/agenda/"
   kind: page
   children: []
+- title: Candidater au label
+  target: "/fr/le-label-epv/candidater-au-label/"
+  kind: page
+  children: []
 
