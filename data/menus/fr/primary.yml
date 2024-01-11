@@ -21,6 +21,10 @@ items:
     target: "/fr/chiffres-cles/"
     kind: page
     children: []
+- title: Le label EPV
+  target: "/fr/presentation-du-label/"
+  kind: page
+  children: []
 - title: Actions et engagements
   target: ''
   kind: blank
@@ -35,10 +39,6 @@ items:
   children: []
 - title: Agenda
   target: "/fr/agenda/"
-  kind: page
-  children: []
-- title: Le label EPV
-  target: "/fr/presentation-du-label/"
   kind: page
   children: []
 
