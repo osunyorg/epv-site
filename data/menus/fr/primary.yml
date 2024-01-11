@@ -29,6 +29,10 @@ items:
     target: "/fr/candidater-au-label/"
     kind: page
     children: []
+  - title: Présentation du label
+    target: "/fr/presentation-du-label/"
+    kind: page
+    children: []
 - title: Actions et engagements
   target: ''
   kind: blank
