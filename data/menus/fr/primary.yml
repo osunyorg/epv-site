@@ -26,7 +26,7 @@ items:
   kind: blank
   children:
   - title: Candidater au label
-    target: "/fr/le-label-epv/candidater-au-label/"
+    target: "/fr/presentation-du-label/candidater-au-label/"
     kind: page
     children: []
 - title: Actions et engagements
