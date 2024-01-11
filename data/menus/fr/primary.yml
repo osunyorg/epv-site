@@ -56,7 +56,11 @@ items:
 - title: Rejoindre le Réseau
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Adhérer au Réseau Excellence
+    target: "/fr/adherer-au-reseau-excellence/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
