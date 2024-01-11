@@ -40,7 +40,11 @@ items:
 - title: Actions et engagements
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Fédérer
+    target: "/fr/federer/"
+    kind: page
+    children: []
 - title: Rejoindre le Réseau
   target: ''
   kind: blank
