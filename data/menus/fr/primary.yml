@@ -25,6 +25,10 @@ items:
   target: "/fr/le-label-epv/"
   kind: page
   children: []
+- title: Candidater au label
+  target: "/fr/le-label-epv/candidater-au-label/"
+  kind: page
+  children: []
 - title: Actions et engagements
   target: ''
   kind: blank
@@ -39,10 +43,6 @@ items:
   children: []
 - title: Agenda
   target: "/fr/agenda/"
-  kind: page
-  children: []
-- title: Candidater au label
-  target: "/fr/le-label-epv/candidater-au-label/"
   kind: page
   children: []
 
