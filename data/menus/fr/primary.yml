@@ -22,8 +22,8 @@ items:
     kind: page
     children: []
 - title: Le label EPV
-  target: "/fr/le-label-epv/"
-  kind: page
+  target: ''
+  kind: blank
   children:
   - title: Candidater au label
     target: "/fr/le-label-epv/candidater-au-label/"
