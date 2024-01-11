@@ -22,7 +22,7 @@ items:
     kind: page
     children: []
 - title: Le label EPV
-  target: "/fr/presentation-du-label/"
+  target: "/fr/le-label-epv/"
   kind: page
   children: []
 - title: Actions et engagements
