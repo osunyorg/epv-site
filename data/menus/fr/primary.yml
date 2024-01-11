@@ -41,4 +41,8 @@ items:
   target: "/fr/agenda/"
   kind: page
   children: []
+- title: Le label EPV
+  target: "/fr/presentation-du-label/"
+  kind: page
+  children: []
 
