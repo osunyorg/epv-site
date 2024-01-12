@@ -25,4 +25,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Adhérer au Réseau Excellence
+  target: "/fr/adherer-au-reseau-excellence/"
+  kind: page
+  children: []
 
