@@ -53,12 +53,4 @@ items:
     target: "/fr/rayonner/"
     kind: page
     children: []
-- title: Rejoindre le Réseau
-  target: ''
-  kind: blank
-  children:
-  - title: Adhérer au Réseau Excellence
-    target: "/fr/adherer-au-reseau-excellence/"
-    kind: page
-    children: []
 
