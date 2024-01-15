@@ -1,0 +1,40 @@
+@include media-breakpoint-up(desktop)
+    header#document-header
+        nav 
+            padding-top: $spacing0
+            .logo
+                margin-bottom: $spacing1
+            .container
+                flex-direction: column
+            .menu 
+                .nav-level-1 
+                    > li:last-child 
+                        a, 
+                        span
+                            padding-left: $spacing0
+                            padding-right: $spacing0
+
+.hero
+    img
+        filter: grayscale(100%)
+        transition: filter 0.5s ease
+        &:hover
+            filter: none
+
+.pages__section,
+.page__home,
+.organizations__section
+    .hero
+        position: relative
+        height: 100%
+        &.hero--with-image
+            @include media-breakpoint-up(desktop)
+                .content
+                    flex-direction: column-reverse
+                    padding-top: 0
+                figure, picture, img
+                    display: block
+                    width: 100% !important
+                img
+                    aspect-ratio: 2.39
+                    object-fit: cover
