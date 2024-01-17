@@ -5,4 +5,8 @@ items:
   target: https://www.youtube.com/@associationnationaleepv3156
   kind: url
   children: []
+- title: Suivez-nous
+  target: ''
+  kind: blank
+  children: []
 
