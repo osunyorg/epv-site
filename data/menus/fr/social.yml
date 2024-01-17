@@ -1,12 +1,12 @@
 ---
 title: Liens sociaux
 items:
-- title: Youtube
-  target: https://www.youtube.com/@associationnationaleepv3156
-  kind: url
-  children: []
 - title: Suivez-nous
   target: ''
   kind: blank
+  children: []
+- title: Youtube
+  target: https://www.youtube.com/@associationnationaleepv3156
+  kind: url
   children: []
 
