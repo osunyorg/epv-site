@@ -8,4 +8,7 @@ params:
   summary:
     position: hero
   search:
-    active: false
+    active: true
+  logo:
+    header: "/assets/images/logo.svg"
+    footer: "/assets/images/logo-vertical.svg"
