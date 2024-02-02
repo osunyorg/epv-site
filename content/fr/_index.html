@@ -82,33 +82,6 @@ contents:
 
 
   - kind: block
-    template: pages
-    title: >-
-      
-    ranks:
-      self: false
-      children: 2
-    data:
-      show_main_description: false
-      show_descriptions: true
-      show_images: true
-      layout: grid
-      pages:
-        - path: "/fr/le-reseau-excellence-dans-chaque-region/"
-          slug: "le-reseau-excellence-dans-chaque-region"
-          file: "content/fr/pages/le-reseau-excellence-dans-chaque-region/_index.html"
-          external: false
-        - path: "/fr/portraits-depv/"
-          slug: "portraits-depv"
-          file: "content/fr/pages/portraits-depv/_index.html"
-          external: false
-        - path: "/fr/projets-dexception/"
-          slug: "projets-dexception"
-          file: "content/fr/pages/projets-dexception/_index.html"
-          external: false
-
-
-  - kind: block
     template: key_figures
     title: >-
       Chiffres-clés
@@ -143,11 +116,38 @@ contents:
 
 
   - kind: block
-    template: chapter
+    template: pages
     title: >-
       
     ranks:
       self: false
+      children: 2
+    data:
+      show_main_description: false
+      show_descriptions: true
+      show_images: true
+      layout: grid
+      pages:
+        - path: "/fr/le-reseau-excellence-dans-chaque-region/"
+          slug: "le-reseau-excellence-dans-chaque-region"
+          file: "content/fr/pages/le-reseau-excellence-dans-chaque-region/_index.html"
+          external: false
+        - path: "/fr/portraits-depv/"
+          slug: "portraits-depv"
+          file: "content/fr/pages/portraits-depv/_index.html"
+          external: false
+        - path: "/fr/projets-dexception/"
+          slug: "projets-dexception"
+          file: "content/fr/pages/projets-dexception/_index.html"
+          external: false
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      MANIFESTE
+    ranks:
+      self: 2
     data:
       layout: accent_background
       text: >-
