@@ -1,7 +1,8 @@
 title: >
   Réseau Excellence
-default_image:
-  id: f1862002-84e5-43ac-993e-54ddd16f4f2a
+default:
+  image:
+    id: f1862002-84e5-43ac-993e-54ddd16f4f2a
 social:
   email: >-
     contact@anepv.fr
