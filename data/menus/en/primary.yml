@@ -49,10 +49,6 @@ items:
     target: "/en/foster/"
     kind: page
     children: []
-- title: Join Réseau Excellence
-  target: "/en/join-reseau-excellence/"
-  kind: page
-  children: []
 - title: EPV portraits
   target: "/en/epv-portraits/"
   kind: page
