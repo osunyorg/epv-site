@@ -53,4 +53,8 @@ items:
   target: "/en/epv-portraits/"
   kind: page
   children: []
+- title: Outstanding projects
+  target: "/en/outstanding-projects/"
+  kind: page
+  children: []
 
