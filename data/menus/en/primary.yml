@@ -1,6 +1,10 @@
 ---
 title: Main menu
 items:
+- title: The association
+  target: ''
+  kind: blank
+  children: []
 - title: Our organization
   target: "/en/our-organization/"
   kind: page
@@ -56,9 +60,5 @@ items:
 - title: Posts
   target: "/en/posts/"
   kind: page
-  children: []
-- title: The association
-  target: ''
-  kind: blank
   children: []
 
