@@ -26,7 +26,7 @@ items:
     kind: page
     children: []
   - title: Annuaire des EPV (adhérentes ?)
-    target: "/fr/directory-of-epv-members/"
+    target: "/fr/annuaire-des-epv-adherentes/"
     kind: page
     children: []
   - title: Candidater au label
