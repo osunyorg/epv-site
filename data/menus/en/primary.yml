@@ -13,10 +13,10 @@ items:
     target: "/en/our-missions/"
     kind: page
     children: []
-- title: Réseau Excellence in France
-  target: "/en/reseau-excellence-in-france/"
-  kind: page
-  children: []
+  - title: Réseau Excellence in France
+    target: "/en/reseau-excellence-in-france/"
+    kind: page
+    children: []
 - title: Presentation of the label
   target: "/en/presentation-of-the-label/"
   kind: page
