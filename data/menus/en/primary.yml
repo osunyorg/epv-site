@@ -20,11 +20,11 @@ items:
 - title: The EPV label
   target: ''
   kind: blank
-  children: []
-- title: Presentation of the label
-  target: "/en/presentation-of-the-label/"
-  kind: page
-  children: []
+  children:
+  - title: Presentation of the label
+    target: "/en/presentation-of-the-label/"
+    kind: page
+    children: []
 - title: Apply for the label
   target: "/en/apply-for-the-label/"
   kind: page
