@@ -61,4 +61,8 @@ items:
   target: "/en/posts/"
   kind: page
   children: []
+- title: The EPV label
+  target: ''
+  kind: blank
+  children: []
 
