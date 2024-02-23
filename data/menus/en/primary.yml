@@ -49,8 +49,4 @@ items:
     target: "/en/foster/"
     kind: page
     children: []
-- title: Posts
-  target: "/en/posts/"
-  kind: page
-  children: []
 
