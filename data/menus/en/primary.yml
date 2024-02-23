@@ -49,10 +49,6 @@ items:
     target: "/en/foster/"
     kind: page
     children: []
-- title: EPV portraits
-  target: "/en/epv-portraits/"
-  kind: page
-  children: []
 - title: Outstanding projects
   target: "/en/outstanding-projects/"
   kind: page
