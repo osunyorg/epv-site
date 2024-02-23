@@ -36,11 +36,11 @@ items:
 - title: Actions and commitments
   target: ''
   kind: blank
-  children: []
-- title: Unite
-  target: "/en/unite/"
-  kind: page
-  children: []
+  children:
+  - title: Unite
+    target: "/en/unite/"
+    kind: page
+    children: []
 - title: Grow
   target: "/en/grow/"
   kind: page
