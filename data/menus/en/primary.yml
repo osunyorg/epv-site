@@ -9,10 +9,10 @@ items:
     target: "/en/our-organization/"
     kind: page
     children: []
-- title: Our missions
-  target: "/en/our-missions/"
-  kind: page
-  children: []
+  - title: Our missions
+    target: "/en/our-missions/"
+    kind: page
+    children: []
 - title: Réseau Excellence in France
   target: "/en/reseau-excellence-in-france/"
   kind: page
