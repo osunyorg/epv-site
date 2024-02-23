@@ -49,10 +49,6 @@ items:
     target: "/en/foster/"
     kind: page
     children: []
-- title: Agenda
-  target: "/en/agenda/"
-  kind: page
-  children: []
 - title: Posts
   target: "/en/posts/"
   kind: page
