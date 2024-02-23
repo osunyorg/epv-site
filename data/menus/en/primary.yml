@@ -45,10 +45,10 @@ items:
     target: "/en/grow/"
     kind: page
     children: []
-- title: Foster
-  target: "/en/foster/"
-  kind: page
-  children: []
+  - title: Foster
+    target: "/en/foster/"
+    kind: page
+    children: []
 - title: Join Réseau Excellence
   target: "/en/join-reseau-excellence/"
   kind: page
