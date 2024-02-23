@@ -29,4 +29,8 @@ items:
   target: "/en/apply-for-the-label/"
   kind: page
   children: []
+- title: Unite
+  target: "/en/unite/"
+  kind: page
+  children: []
 
