@@ -9,8 +9,8 @@ items:
   target: "/en/posts/"
   kind: page
   children: []
-- title: Organizations
-  target: "/en/organizations/"
+- title: Our organization
+  target: "/en/our-organization/"
   kind: page
   children: []
 - title: Our missions
