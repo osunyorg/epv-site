@@ -29,10 +29,10 @@ items:
     target: "/en/apply-for-the-label/"
     kind: page
     children: []
-- title: Directory of EPV members
-  target: "/en/directory-of-epv-members/"
-  kind: page
-  children: []
+  - title: Directory of EPV members
+    target: "/en/directory-of-epv-members/"
+    kind: page
+    children: []
 - title: Unite
   target: "/en/unite/"
   kind: page
