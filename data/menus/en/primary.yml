@@ -33,6 +33,10 @@ items:
     target: "/en/directory-of-epv-members/"
     kind: page
     children: []
+- title: Actions and commitments
+  target: ''
+  kind: blank
+  children: []
 - title: Unite
   target: "/en/unite/"
   kind: page
@@ -64,9 +68,5 @@ items:
 - title: Posts
   target: "/en/posts/"
   kind: page
-  children: []
-- title: Actions and commitments
-  target: ''
-  kind: blank
   children: []
 
