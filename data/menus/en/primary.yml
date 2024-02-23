@@ -1,6 +1,10 @@
 ---
 title: Main menu
 items:
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  children: []
 - title: Our organization
   target: "/en/our-organization/"
   kind: page
