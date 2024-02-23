@@ -17,6 +17,10 @@ items:
     target: "/en/reseau-excellence-in-france/"
     kind: page
     children: []
+- title: The EPV label
+  target: ''
+  kind: blank
+  children: []
 - title: Presentation of the label
   target: "/en/presentation-of-the-label/"
   kind: page
@@ -60,9 +64,5 @@ items:
 - title: Posts
   target: "/en/posts/"
   kind: page
-  children: []
-- title: The EPV label
-  target: ''
-  kind: blank
   children: []
 
