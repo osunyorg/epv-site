@@ -25,7 +25,7 @@ items:
     target: "/fr/presentation-du-label/"
     kind: page
     children: []
-  - title: Annuaire des EPV (adhérentes ?)
+  - title: 'Annuaire des EPV adhérentes '
     target: "/fr/annuaire-des-epv-adherentes/"
     kind: page
     children: []
