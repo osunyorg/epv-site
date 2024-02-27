@@ -5,12 +5,12 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Our organization
-    target: "/en/our-organization/"
-    kind: page
-    children: []
   - title: Our missions
     target: "/en/our-missions/"
+    kind: page
+    children: []
+  - title: Our organization
+    target: "/en/our-organization/"
     kind: page
     children: []
   - title: Réseau Excellence in France
