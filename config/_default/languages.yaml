@@ -21,6 +21,7 @@ en:
     events_categories: /agenda/:slug/
     organizations: /our-organization/:slug/
     persons: /team/:slug/
+    authors: /team/:slug/posts/
   taxonomies:
     administrator: administrators
     author: authors
@@ -51,6 +52,7 @@ fr:
     events_categories: /agenda/:slug/
     organizations: /notre-organisation/:slug/
     persons: /equipe/:slug/
+    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
