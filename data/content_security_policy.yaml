@@ -9,5 +9,3 @@ allowed_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
-  - "static.genial.ly"
-  - "view.genial.ly"
