@@ -15,13 +15,13 @@ en:
       youtube: >-
         https://www.youtube.com/@associationnationaleepv3156
   permalinks:
-    posts: /posts/:year-:month-:day-:slug/
-    posts_categories: /posts/:slug/
+    posts: /news/:year-:month-:day-:slug/
+    posts_categories: /news/:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     organizations: /our-organization/:slug/
     persons: /team/:slug/
-    authors: /team/:slug/posts/
+    authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors
