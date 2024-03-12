@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: Le Réseau Excellence en France
-    target: "/fr/le-reseau-excellence-en-france/"
+    target: "/fr/reseau-excellence-en-france/"
     kind: page
     children: []
 - title: Le label EPV
