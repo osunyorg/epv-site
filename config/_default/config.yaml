@@ -11,4 +11,4 @@ params:
     active: true
   logo:
     header: "/assets/images/logo.svg"
-    footer: "/assets/images/logo-vertical.svg"
+    footer: "/assets/images/logo-cercle.svg"
