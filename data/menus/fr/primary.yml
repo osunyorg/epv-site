@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: Notre organisation
-    target: "/fr/notre-organisation-annuaire/"
+    target: "/fr/notre-organisation/"
     kind: page
     children: []
   - title: Le Réseau Excellence en France
@@ -23,10 +23,6 @@ items:
   children:
   - title: Présentation du label
     target: "/fr/presentation-du-label/"
-    kind: page
-    children: []
-  - title: 'Annuaire des EPV adhérentes '
-    target: "/fr/annuaire-des-epv-adherentes/"
     kind: page
     children: []
   - title: Candidater au label

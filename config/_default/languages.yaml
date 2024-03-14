@@ -55,7 +55,7 @@ fr:
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
-    organizations: /notre-organisation-annuaire/:slug/
+    organizations: /annuaire-des-epv-adherentes/:slug/
     persons: /equipe/:slug/
     authors: /equipe/:slug/actualites/
   taxonomies:
