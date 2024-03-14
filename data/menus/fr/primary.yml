@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: Notre organisation
-    target: "/fr/notre-organisation/"
+    target: "/fr/notre-organisation-annuaire/"
     kind: page
     children: []
   - title: Le Réseau Excellence en France
