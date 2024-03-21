@@ -41,4 +41,8 @@ items:
     target: "/en/foster/"
     kind: page
     children: []
+- title: Directory of EPV members
+  target: "/en/directory-of-epv-members-1/"
+  kind: page
+  children: []
 
