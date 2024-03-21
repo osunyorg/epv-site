@@ -9,10 +9,6 @@ items:
     target: "/en/our-missions/"
     kind: page
     children: []
-  - title: Our organization
-    target: "/en/directory-of-epv-members/"
-    kind: page
-    children: []
   - title: Réseau Excellence in France
     target: "/en/reseau-excellence-in-france/"
     kind: page
