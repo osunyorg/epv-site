@@ -41,4 +41,8 @@ items:
   target: "/en/directory-of-epv-members/"
   kind: page
   children: []
+- title: Apply for the label
+  target: "/en/apply-for-the-label/"
+  kind: page
+  children: []
 
