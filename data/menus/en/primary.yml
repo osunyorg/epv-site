@@ -21,10 +21,6 @@ items:
     target: "/en/presentation-of-the-label/"
     kind: page
     children: []
-  - title: Directory of EPV members
-    target: "/en/directory-of-epv-members-1/"
-    kind: page
-    children: []
 - title: Actions and commitments
   target: ''
   kind: blank
