@@ -21,7 +21,7 @@ en:
     events_categories: /agenda/:slug/
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
-    organizations: /directory-of-epv-members/:slug/
+    organizations: /directory-of-epv-members-v1/:slug/
     persons: /team/:slug/
     authors: /team/:slug/news/
   taxonomies:
@@ -55,7 +55,7 @@ fr:
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
-    organizations: /annuaire-des-epv-adherentes/:slug/
+    organizations: /annuaire-des-epv-adherentes-v1/:slug/
     persons: /equipe/:slug/
     authors: /equipe/:slug/actualites/
   taxonomies:
