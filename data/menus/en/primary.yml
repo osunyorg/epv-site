@@ -9,14 +9,14 @@ items:
     target: "/en/our-missions/"
     kind: page
     children: []
+  - title: Our organisation
+    target: "/en/our-organisation/"
+    kind: page
+    children: []
   - title: Réseau Excellence in France
     target: "/en/reseau-excellence-in-france/"
     kind: page
     children: []
-- title: Our organisation
-  target: "/en/our-organisation/"
-  kind: page
-  children: []
 - title: The EPV label
   target: ''
   kind: blank
