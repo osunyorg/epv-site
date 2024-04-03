@@ -56,7 +56,7 @@ fr:
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
-    organizations: /annuaire/:slug/
+    organizations: /organisations/:slug/
     persons: /equipe/:slug/
     authors: /equipe/:slug/actualites/
   taxonomies:
