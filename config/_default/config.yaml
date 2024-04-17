@@ -11,7 +11,7 @@ params:
     active: true
   logo:
     header: "/assets/images/logo.svg"
-    footer: "/assets/images/logo-cadre.svg"
+    footer: "/assets/images/logo-noir.svg"
   menu:
     dropdown:
       linkToLevel1: true
