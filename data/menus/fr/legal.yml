@@ -17,4 +17,8 @@ items:
   target: "/fr/plan-du-site/"
   kind: page
   children: []
+- title: Abonnez-vous à notre newsletter
+  target: https://a4ff1953.sibforms.com/serve/MUIFAHX8g8k6QZqDIKbSQf385UTk-ZQGRlhxm7ZGs3TN5tzOf1GYXIIsKQfuQMBWPxycNR_sTZO2XkGQNKZNIi4lGxDcbnO2MuKU9XZW8WyGKM37nNoKUUxU9EHyoUVnmUcyfmx7fZsp0Z7PEAoIZhXWA6Z4y85Tk8K3L7UMiWqYHy5SStFlU5lhm0BWT6KAzJVfU80Xwu9y4j3W
+  kind: url
+  children: []
 
