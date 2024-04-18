@@ -22,7 +22,9 @@ en:
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
     organizations: /organizations/:slug/
+    organizations_categories: /organizations/:slug/
     persons: /team/:slug/
+    persons_categories: /team/:slug/
     authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
@@ -30,6 +32,8 @@ en:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
@@ -57,7 +61,9 @@ fr:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
     persons: /equipe/:slug/
+    persons_categories: /equipe/:slug/
     authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
@@ -65,6 +71,8 @@ fr:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
