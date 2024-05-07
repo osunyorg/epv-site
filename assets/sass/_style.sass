@@ -22,13 +22,18 @@
                 .chapter
                     .rich-text
                         font-size: pxToRem(48)
+                        line-height: pxToRem(57.6)
                     .notes
                         *
                             font-size: pxToRem(24)
                             line-height: 180%
             @include in-page-without-sidebar
-                .chapter
+                .chapter > *
                     width: 100%
+        &--with-image
+            @include in-page-without-sidebar
+                .chapter
+                    flex-direction: row-reverse
     .block-posts
         &--highlight
             background-color: $color-text
@@ -103,3 +108,7 @@
                     .lead
                         width: columns(8)
                         margin: 0 auto
+    .block-chapter
+        .chapter
+            a
+                @include icon(arrow-right)
