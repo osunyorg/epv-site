@@ -2,51 +2,51 @@
 title: Main menu
 items:
 - title: The association
-  target: ''
-  kind: blank
+  target: "/en/lassociation/"
+  kind: page
   children:
   - title: Our missions
-    target: "/en/our-missions/"
+    target: "/en/lassociation/our-missions/"
     kind: page
     children: []
   - title: Our organisation
-    target: "/en/our-organisation/"
+    target: "/en/lassociation/our-organisation/"
     kind: page
     children: []
   - title: Réseau Excellence in France
-    target: "/en/reseau-excellence-in-france/"
+    target: "/en/lassociation/reseau-excellence-in-france/"
     kind: page
     children: []
 - title: The EPV label
-  target: ''
-  kind: blank
+  target: "/en/the-epv-label/"
+  kind: page
   children:
   - title: Presentation of the label
-    target: "/en/presentation-of-the-label/"
+    target: "/en/the-epv-label/presentation-of-the-label/"
     kind: page
     children: []
   - title: Apply for the label
-    target: "/en/apply-for-the-label/"
+    target: "/en/the-epv-label/apply-for-the-label/"
     kind: page
     children: []
   - title: Directory of EPV members
-    target: "/en/directory-of-epv-members/"
+    target: "/en/the-epv-label/directory-of-epv-members/"
     kind: page
     children: []
 - title: Actions and commitments
-  target: ''
-  kind: blank
+  target: "/en/actions-and-commitments/"
+  kind: page
   children:
   - title: Unite
-    target: "/en/unite/"
+    target: "/en/actions-and-commitments/unite/"
     kind: page
     children: []
   - title: Grow
-    target: "/en/grow/"
+    target: "/en/actions-and-commitments/grow/"
     kind: page
     children: []
   - title: Foster
-    target: "/en/foster/"
+    target: "/en/actions-and-commitments/foster/"
     kind: page
     children: []
 - title: News

@@ -2,51 +2,51 @@
 title: Menu principal
 items:
 - title: L'association
-  target: ''
-  kind: blank
+  target: "/fr/lassociation/"
+  kind: page
   children:
   - title: Nos missions
-    target: "/fr/nos-missions/"
+    target: "/fr/lassociation/nos-missions/"
     kind: page
     children: []
   - title: Notre organisation
-    target: "/fr/notre-organisation/"
+    target: "/fr/lassociation/notre-organisation/"
     kind: page
     children: []
   - title: Le Réseau Excellence en France
-    target: "/fr/reseau-excellence-en-france/"
+    target: "/fr/lassociation/reseau-excellence-en-france/"
     kind: page
     children: []
 - title: Le label EPV
-  target: ''
-  kind: blank
+  target: "/fr/le-label-epv/"
+  kind: page
   children:
   - title: Présentation du label
-    target: "/fr/presentation-du-label/"
+    target: "/fr/le-label-epv/presentation-du-label/"
     kind: page
     children: []
   - title: Candidater au label
-    target: "/fr/candidater-au-label/"
+    target: "/fr/le-label-epv/candidater-au-label/"
     kind: page
     children: []
   - title: Annuaire des EPV adhérentes
-    target: "/fr/annuaire-des-epv-adherentes/"
+    target: "/fr/le-label-epv/annuaire-des-epv-adherentes/"
     kind: page
     children: []
 - title: Actions et engagements
-  target: ''
-  kind: blank
+  target: "/fr/actions-et-engagements/"
+  kind: page
   children:
   - title: Fédérer
-    target: "/fr/federer/"
+    target: "/fr/actions-et-engagements/federer/"
     kind: page
     children: []
   - title: Développer
-    target: "/fr/developper/"
+    target: "/fr/actions-et-engagements/developper/"
     kind: page
     children: []
   - title: Rayonner
-    target: "/fr/rayonner/"
+    target: "/fr/actions-et-engagements/rayonner/"
     kind: page
     children: []
 - title: Actualités
