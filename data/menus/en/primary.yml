@@ -17,6 +17,10 @@ items:
     target: "/en/lassociation/reseau-excellence-in-france/"
     kind: page
     children: []
+  - title: Join Réseau Excellence
+    target: "/en/lassociation/join-reseau-excellence/"
+    kind: page
+    children: []
 - title: The EPV label
   target: "/en/the-epv-label/"
   kind: page
