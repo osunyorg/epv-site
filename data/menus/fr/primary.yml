@@ -17,6 +17,10 @@ items:
     target: "/fr/lassociation/reseau-excellence-en-france/"
     kind: page
     children: []
+  - title: Adhérer au Réseau Excellence
+    target: "/fr/lassociation/adherer-au-reseau-excellence/"
+    kind: page
+    children: []
 - title: Le label EPV
   target: "/fr/le-label-epv/"
   kind: page
