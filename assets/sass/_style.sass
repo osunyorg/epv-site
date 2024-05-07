@@ -45,13 +45,37 @@
                 .post-categories a
                     @include link(white)
             .list 
+                border-color: rgba(white, .3)
                 .post
                     border-bottom: 1px solid rgba(white, .3)
                     @include media-breakpoint-up(desktop)
                         padding-bottom: $spacing-5
                         &:not(:last-child)
                             margin-bottom: $spacing-5
-
+    .block-call_to_action
+        @include in-page-without-sidebar
+            .call_to_action
+                align-items: center
+                display: flex
+                flex-direction: column-reverse
+                .block-title
+                    font-size: pxToRem(96)
+                > div
+                    text-align: center
+                    width: columns(8)
+                > picture,
+                > figure
+                    max-width: columns(3)
+        .call_to_action
+            .block-title
+                font-family: $h1-font-family
+                font-weight: 300
+                text-transform: none
+            .description p
+                font-weight: normal
+            @include media-breakpoint-down(desktop)
+                .block-title
+                    font-size: $h1-size
 .events__page 
     .hero 
         h1 
