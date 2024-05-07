@@ -30,6 +30,27 @@
                         *
                             font-size: pxToRem(24)
                             line-height: 180%
+    .block-posts
+        &--highlight
+            background-color: $color-text
+            padding: space(25) 0
+            *
+                color: white
+            .highlight
+                .media
+                    margin-bottom: $spacing-3
+            .post
+                .post-title
+                    font-family: $h1-font-family
+                .post-categories a
+                    @include link(white)
+            .list 
+                .post
+                    border-bottom: 1px solid rgba(white, .3)
+                    @include media-breakpoint-up(desktop)
+                        padding-bottom: $spacing-5
+                        &:not(:last-child)
+                            margin-bottom: $spacing-5
 
 .events__page 
     .hero 
@@ -46,3 +67,14 @@
             text-align: center
             img
                 mix-blend-mode: multiply
+            .hero-text
+                width: columns(9)
+            > figure
+                width: columns(7)
+            @include media-breakpoint-up(desktop)
+                .hero-text
+                    h1
+                        font-size: pxToRem(124)
+                    .lead
+                        margin-left: $spacing-5
+                        margin-right: $spacing-5
