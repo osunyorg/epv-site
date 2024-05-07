@@ -19,17 +19,16 @@
                     font-family: $h1-font-family
                     font-style: italic
             @include media-breakpoint-up(desktop)
-                margin-top: $spacing-7
-                margin-bottom: $spacing-7
                 .chapter
-                    flex-direction: row-reverse !important
                     .rich-text
-                        font-size: pxToRem(50)
-                        margin-bottom: $spacing-5
+                        font-size: pxToRem(48)
                     .notes
                         *
                             font-size: pxToRem(24)
                             line-height: 180%
+            @include in-page-without-sidebar
+                .chapter
+                    width: 100%
     .block-posts
         &--highlight
             background-color: $color-text
@@ -83,7 +82,8 @@
                 color: white
                 font-style: italic
 
-.page__home
+.page__home,
+.page-page__home
     .hero
         .content
             flex-direction: column-reverse
@@ -92,7 +92,8 @@
             img
                 mix-blend-mode: multiply
             .hero-text
-                width: columns(9)
+                width: 100%
+                text-align: center
             > figure
                 width: columns(7)
             @include media-breakpoint-up(desktop)
@@ -100,5 +101,5 @@
                     h1
                         font-size: pxToRem(124)
                     .lead
-                        margin-left: $spacing-5
-                        margin-right: $spacing-5
+                        width: columns(8)
+                        margin: 0 auto
