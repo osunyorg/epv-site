@@ -38,6 +38,7 @@
             @include in-page-without-sidebar
                 .chapter
                     flex-direction: row-reverse
+
     .block-posts
         &--highlight
             background-color: $color-text
@@ -148,3 +149,20 @@
                     p, i
                         font-family: $h1-font-family
                         font-size: pxToRem(36)
+    .block-testimonials
+        blockquote p
+            font-size: pxToRem(96)
+        figure
+            display: flex
+            flex-direction: column-reverse
+            text-align: center
+        figcaption
+            text-transform: uppercase
+        figure,
+        figcaption
+            margin-left: auto
+            margin-right: auto
+        @include media-breakpoint-up(desktop)
+            figure
+                padding-right: 0 !important
+                width: columns(7)
