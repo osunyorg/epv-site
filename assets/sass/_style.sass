@@ -84,6 +84,17 @@
             @include media-breakpoint-down(desktop)
                 .block-title
                     font-size: $h1-size
+    .block-pages
+        &--grid
+            @include in-page-without-sidebar
+                .grid
+                    @include grid(2, md)
+            .page-title
+                @include h2
+                font-family: $h1-font-family
+                a::after
+                    display: none
+
 .events__page 
     .hero 
         h1 
@@ -105,12 +116,21 @@
                 text-align: center
             > figure
                 width: columns(7)
+            .btn
+                @include icon(arrow-right, after)
+                    margin-left: $spacing-1
+                background-color: $color-background
+                color: $color-accent
+                &:hover
+                    background-color: $color-text
+                    border-color: $color-text
+                    color: $color-background
             @include media-breakpoint-up(desktop)
                 .hero-text
                     h1
                         font-size: pxToRem(124)
                     .lead
-                        width: columns(8)
+                        width: columns(6)
                         margin: 0 auto
     .block-chapter
         .chapter
