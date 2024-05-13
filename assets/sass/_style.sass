@@ -97,9 +97,9 @@
                     font-size: $h1-size
     .block-pages
         &--grid
-            @include in-page-without-sidebar
+            @include in-page-with-or-without-sidebar
                 .grid
-                    @include grid(2, md)
+                    // @include grid(2, md)
             .page-title
                 @include h2
                 font-family: $h1-font-family
@@ -155,9 +155,17 @@
                 .text
                     display: flex
                     flex-direction: column-reverse
+                    a
+                        font-size: $h4-size
                 .notes
+                    margin-bottom: $spacing-2
                     p, i
                         font-family: $h1-font-family
+                        font-size: $h2-size
+                @include media-breakpoint-up(desktop)
+                    .text a
+                        font-size: $h3-size-desktop
+                    p, i
                         font-size: pxToRem(36)
     .block-image
         .image-landscape
