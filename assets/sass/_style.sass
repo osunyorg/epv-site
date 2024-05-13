@@ -166,13 +166,21 @@
             width: columns(8)
     .block-embed
         .block-content
-            font-family: $h1-font-family
+            p
+                font-family: $h1-font-family
+            a
+                background: $block-call-to-action-button-background
+                color: $block-call-to-action-button-color
+                &:hover
+                    background: $block-call-to-action-button-hover-background
+
             @include media-breakpoint-up(desktop)
-                font-size: pxToRem(32)
-                line-height: pxToRem(38.4)
                 margin-left: auto
                 margin-right: auto
                 width: columns(6)
+                p
+                    font-size: pxToRem(32)
+                    line-height: pxToRem(38.4)
     .block-testimonials
         figure
             display: flex
