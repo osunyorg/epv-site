@@ -42,12 +42,15 @@
     .block-posts
         &--highlight
             background-color: $color-text
-            padding: space(25) 0
+            padding: $spacing-3 0
             *
                 color: white
             .highlight
                 .media
                     margin-bottom: $spacing-3
+            .top
+                a::after
+                    display: none
             .post
                 .post-title
                     font-family: $h1-font-family
@@ -57,10 +60,17 @@
                 border-color: rgba(white, .3)
                 .post
                     border-bottom: 1px solid rgba(white, .3)
-                    @include media-breakpoint-up(desktop)
+            @include media-breakpoint-up(desktop)
+                padding: space(25) 0
+                .list
+                    .post
                         padding-bottom: $spacing-5
                         &:not(:last-child)
                             margin-bottom: $spacing-5
+            @include media-breakpoint-down(desktop)
+                .post-title
+                    margin-bottom: $spacing-2
+
     .block-call_to_action
         @include in-page-without-sidebar
             .call_to_action
@@ -149,13 +159,26 @@
                     p, i
                         font-family: $h1-font-family
                         font-size: pxToRem(36)
+    .block-image
+        .image-landscape
+            margin-left: auto
+            margin-right: auto
+            width: columns(8)
+    .block-embed
+        .block-content
+            font-family: $h1-font-family
+            @include media-breakpoint-up(desktop)
+                font-size: pxToRem(32)
+                line-height: pxToRem(38.4)
+                margin-left: auto
+                margin-right: auto
+                width: columns(6)
     .block-testimonials
-        blockquote p
-            font-size: pxToRem(96)
         figure
             display: flex
             flex-direction: column-reverse
             text-align: center
+            gap: $spacing-3
         figcaption
             text-transform: uppercase
         figure,
@@ -163,6 +186,11 @@
             margin-left: auto
             margin-right: auto
         @include media-breakpoint-up(desktop)
+            blockquote p
+                font-size: pxToRem(96)
             figure
                 padding-right: 0 !important
                 width: columns(7)
+        @include media-breakpoint-down(desktop)
+            blockquote p
+                font-size: $h1-size
