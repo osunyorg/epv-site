@@ -22,9 +22,9 @@ en:
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
     organizations: /organizations/:slug/
-    organizations_categories: /organizations/:slug/
+    organizations_categories: /organizations/categories/:slug/
     persons: /team/:slug/
-    persons_categories: /team/:slug/
+    persons_categories: /team/categories/:slug/
     authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
@@ -61,9 +61,9 @@ fr:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
