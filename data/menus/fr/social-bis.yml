@@ -1,4 +1,8 @@
 ---
 title: Social
-items: []
+items:
+- title: Newsletter
+  target: https://www.linkedin.com/company/noesyacoop
+  kind: url
+  children: []
 
