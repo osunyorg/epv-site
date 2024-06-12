@@ -9,8 +9,4 @@ allowed_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
-  - "dailymotion.com"
-  - "www.dailymotion.com"
-  - "dai.ly"
-  - "*.dmcdn.net"
   - "arsen-normandie.com"
