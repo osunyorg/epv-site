@@ -77,9 +77,9 @@ contents:
   - kind: block
     template: chapter
     title: >-
-      MISSIONS &amp; ACTIONS
+      
     ranks:
-      self: 3
+      self: false
     data:
       layout: no_background
       text: >-
@@ -110,10 +110,10 @@ contents:
   - kind: block
     template: persons
     title: >-
-      MEMBRES DU BUREAU
+      
     ranks:
-      self: 3
-      children: 4
+      self: false
+      children: 3
     data:
       description: >-
         
@@ -149,9 +149,9 @@ contents:
   - kind: block
     template: contact
     title: >-
-      CONTACT
+      
     ranks:
-      self: 3
+      self: false
     data:
       description: >-
         
@@ -187,6 +187,59 @@ contents:
       timetable:
 
 
+
+  - kind: heading
+    title: >-
+      Adhérents
+    slug: "adh"
+    position: 3
+    rank: 2
+  - kind: block
+    template: organizations
+    title: >-
+      
+    ranks:
+      self: false
+    data:
+      layout: grid
+      description: >-
+        
+
+      with_link: true
+      organizations:
+
+
+
+  - kind: heading
+    title: >-
+      Partenaires
+    slug: "partenaires"
+    position: 4
+    rank: 2
+  - kind: block
+    template: organizations
+    title: >-
+      
+    ranks:
+      self: false
+      children: 3
+    data:
+      layout: grid
+      description: >-
+        
+
+      with_link: true
+      organizations:
+        - slug: "institut-pour-les-savoir-faire-francais"
+
+
+
+  - kind: heading
+    title: >-
+      Galerie photo
+    slug: "galerie-photo"
+    position: 5
+    rank: 2
   - kind: block
     template: gallery
     title: >-
@@ -225,38 +278,43 @@ contents:
 
 
 
-  - kind: block
-    template: organizations
+
+  - kind: heading
     title: >-
-      NOS ADHÉRENTS
+      Agenda
+    slug: "agenda"
+    position: 6
+    rank: 2
+  - kind: block
+    template: agenda
+    title: >-
+      
     ranks:
-      self: 3
+      self: false
     data:
+      mode: category
       layout: grid
       description: >-
         
 
-      with_link: true
-      organizations:
-
-
-  - kind: block
-    template: organizations
-    title: >-
-      NOS PARTENAIRES
-    ranks:
-      self: 3
-      children: 4
-    data:
-      layout: grid
-      description: >-
+      no_event_message: >-
         
 
-      with_link: true
-      organizations:
-        - slug: "institut-pour-les-savoir-faire-francais"
+      show_summary: false
+      show_category: false
+      show_status: false
+      title_link: "/fr/agenda/agenda-provence-alpes-cote-dazur/"
+      category: "/agenda-provence-alpes-cote-dazur/"
+      events:
 
 
+
+  - kind: heading
+    title: >-
+      Actualités
+    slug: "actualites"
+    position: 7
+    rank: 2
   - kind: block
     template: posts
     title: >-
@@ -283,7 +341,7 @@ contents:
     title: >-
       Chiffres clés
     slug: "chiffres-cles"
-    position: 3
+    position: 8
     rank: 2
   - kind: block
     template: key_figures
@@ -361,41 +419,6 @@ contents:
 
 
 
-
-  - kind: heading
-    title: >-
-      Adhérents
-    slug: "adh"
-    position: 4
-    rank: 2
-
-  - kind: heading
-    title: >-
-      Partenaires
-    slug: "partenaires"
-    position: 5
-    rank: 2
-
-  - kind: heading
-    title: >-
-      Galerie photo
-    slug: "galerie-photo"
-    position: 6
-    rank: 2
-
-  - kind: heading
-    title: >-
-      Agenda
-    slug: "agenda"
-    position: 7
-    rank: 2
-
-  - kind: heading
-    title: >-
-      Actualités
-    slug: "actualites"
-    position: 8
-    rank: 2
 
 
 ---
