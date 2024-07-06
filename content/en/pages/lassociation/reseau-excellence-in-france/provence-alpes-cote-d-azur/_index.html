@@ -32,7 +32,7 @@ full_width: true
 design:
   full_width: true
   toc:
-    present: false
+    present: true
     offcanvas: true
 
 position: 12
@@ -68,12 +68,18 @@ contents_reading_time:
   text: >-
     1 minute
 contents:
+  - kind: heading
+    title: >-
+      Missions
+    slug: "missions"
+    position: 0
+    rank: 2
   - kind: block
     template: chapter
     title: >-
-      MISSIONS &amp; ACTIONS
+      
     ranks:
-      self: 2
+      self: false
     data:
       layout: no_background
       text: >-
@@ -94,12 +100,19 @@ contents:
 
 
 
+
+  - kind: heading
+    title: >-
+      Board
+    slug: "board"
+    position: 1
+    rank: 2
   - kind: block
     template: persons
     title: >-
-      BOARD MEMBERS
+      
     ranks:
-      self: 2
+      self: false
       children: 3
     data:
       description: >-
@@ -131,7 +144,7 @@ contents:
     title: >-
       CONTACT
     ranks:
-      self: 2
+      self: 3
     data:
       description: >-
         
@@ -210,7 +223,7 @@ contents:
     title: >-
       OUR MEMBERS
     ranks:
-      self: 2
+      self: 3
     data:
       layout: map
       description: >-
@@ -225,8 +238,8 @@ contents:
     title: >-
       OUR PARTNERS
     ranks:
-      self: 2
-      children: 3
+      self: 3
+      children: 4
     data:
       layout: grid
       description: >-
@@ -242,8 +255,8 @@ contents:
     title: >-
       NEWS FROM PROVENCE-ALPES-CÔTE D'AZUR
     ranks:
-      self: 2
-      children: 3
+      self: 3
+      children: 4
     data:
       mode: category
       hide_image: false
@@ -263,7 +276,7 @@ contents:
     title: >-
       KEY FIGURES
     ranks:
-      self: 2
+      self: 3
     data:
       description: >-
         <p>Réseau Excellence is a network of EPVs working every day in the heart of our territories.</p>
@@ -308,7 +321,7 @@ contents:
     title: >-
       SUBSCRIBE
     ranks:
-      self: 2
+      self: 3
     data:
       layout: accent_background
       text: >-
@@ -332,6 +345,7 @@ contents:
             
 
           target_blank: true
+
 
 
 
