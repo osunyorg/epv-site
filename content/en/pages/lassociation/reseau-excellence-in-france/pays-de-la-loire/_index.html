@@ -384,54 +384,6 @@ contents:
 
 
   - kind: block
-    template: agenda
-    title: >-
-      AGENDA
-    ranks:
-      self: 3
-      children: 4
-    data:
-      mode: category
-      layout: grid
-      description: >-
-        
-
-      no_event_message: >-
-        
-
-      show_summary: false
-      show_category: false
-      show_status: false
-      title_link: "/en/agenda/agenda-pays-de-la-loire/"
-      category: "/agenda-pays-de-la-loire/"
-      events:
-        - path: "/en/agenda/2024-07-11-matinale-1-1-1/"
-          file: "events/2024-07-11-matinale-1-1-1.html"
-
-
-  - kind: block
-    template: posts
-    title: >-
-      NEWS FROM PAYS DE LA LOIRE
-    ranks:
-      self: 3
-      children: 4
-    data:
-      mode: category
-      hide_image: false
-      hide_summary: false
-      hide_category: false
-      hide_author: false
-      hide_date: false
-      category: "/news-from-pays-de-la-loire/"
-      layout: carousel
-      posts:
-        - "2024/2024-05-24-visite-de-lentreprise-chantier-des-ileaux"
-        - "2024/2024-03-19-visite-de-lentreprise-gravor"
-        - "2023/2023-12-12-remise-officielle-du-label-epv"
-
-
-  - kind: block
     template: key_figures
     title: >-
       IN A FEW FIGURES...
@@ -475,6 +427,61 @@ contents:
     slug: "agenda"
     position: 5
     rank: 2
+  - kind: block
+    template: agenda
+    title: >-
+      
+    ranks:
+      self: false
+      children: 3
+    data:
+      mode: category
+      layout: grid
+      description: >-
+        
+
+      no_event_message: >-
+        
+
+      show_summary: false
+      show_category: false
+      show_status: false
+      title_link: "/en/agenda/agenda-pays-de-la-loire/"
+      category: "/agenda-pays-de-la-loire/"
+      events:
+        - path: "/en/agenda/2024-07-11-matinale-1-1-1/"
+          file: "events/2024-07-11-matinale-1-1-1.html"
+
+
+
+  - kind: heading
+    title: >-
+      News
+    slug: "news"
+    position: 6
+    rank: 2
+  - kind: block
+    template: posts
+    title: >-
+      NEWS FROM PAYS DE LA LOIRE
+    ranks:
+      self: 3
+      children: 4
+    data:
+      mode: category
+      hide_image: false
+      hide_summary: false
+      hide_category: false
+      hide_author: false
+      hide_date: false
+      category: "/news-from-pays-de-la-loire/"
+      layout: carousel
+      posts:
+        - "2024/2024-05-24-visite-de-lentreprise-chantier-des-ileaux"
+        - "2024/2024-03-19-visite-de-lentreprise-gravor"
+        - "2023/2023-12-12-remise-officielle-du-label-epv"
+
+
 
 
 ---
