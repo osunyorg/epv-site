@@ -118,6 +118,11 @@ contents:
 
       with_link: false
       with_photo: true
+      options:
+        image: true
+        summary: true
+        link: false
+
       persons:
         - slug: "olivier-verriele"
           role: >-
@@ -214,6 +219,11 @@ contents:
         
 
       with_link: true
+      options:
+        link: true
+        logo: true
+        summary: false
+
       organizations:
         - slug: "abc-leroyer"
         - slug: "andree-jardin-brosserie-julio"
@@ -275,6 +285,11 @@ contents:
         
 
       with_link: true
+      options:
+        link: true
+        logo: true
+        summary: false
+
       organizations:
         - slug: "drac-pays-de-la-loire"
         - slug: "institut-pour-les-savoir-faire-francais"
@@ -352,9 +367,16 @@ contents:
       
     ranks:
       self: false
-      children: 3
     data:
       mode: category
+      options:
+        categories: false
+        dates: true
+        image: true
+        subtitle: true
+        summary: false
+        status: false
+
       layout: grid
       description: >-
         
@@ -368,8 +390,6 @@ contents:
       title_link: "/fr/agenda/agenda-pays-de-la-loire/"
       category: "/agenda-pays-de-la-loire/"
       events:
-        - path: "/fr/agenda/2024-07-11-matinale-1-1-1/"
-          file: "events/2024-07-11-matinale-1-1-1.html"
 
 
 
@@ -395,6 +415,14 @@ contents:
       hide_date: false
       category: "/actualites-des-pays-de-la-loire/"
       layout: carousel
+      options:
+        author: true
+        categories: true
+        date: true
+        image: true
+        reading_time: false
+        summary: true
+
       posts:
         - "2024/2024-05-24-visite-de-lentreprise-chantier-des-ileaux"
         - "2024/2024-03-19-visite-de-lentreprise-gravor"
