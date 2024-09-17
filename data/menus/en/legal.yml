@@ -1,4 +1,8 @@
 ---
 title: Legal
-items: []
+items:
+- title: Accessibility
+  target: "/en/accessibility/"
+  kind: page
+  children: []
 
