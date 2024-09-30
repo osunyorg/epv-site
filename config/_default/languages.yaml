@@ -15,12 +15,12 @@ en:
       youtube: >-
         https://www.youtube.com/@associationnationaleepv3156
   permalinks:
-    posts: /news/:year-:month-:day-:slug/
-    posts_categories: /news/:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
+    posts: /news/:year-:month-:day-:slug/
+    posts_categories: /news/:slug/
     organizations: /organizations/:slug/
     organizations_categories: /organizations/categories/:slug/
     persons: /team/:slug/
@@ -54,12 +54,12 @@ fr:
       youtube: >-
         https://www.youtube.com/@associationnationaleepv3156
   permalinks:
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
