@@ -63,19 +63,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 70
+  seconds: 72
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Missions
-    slug: "missions"
-    position: 1
-    rank: 2
+    slug: >-
+      missions
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -99,16 +107,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Board
-    slug: "board"
-    position: 2
-    rank: 2
+    slug: >-
+      board
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -149,16 +164,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Contact
-    slug: "contact"
-    position: 3
-    rank: 2
+    slug: >-
+      contact
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: contact
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -208,16 +230,23 @@ contents:
       timetable:
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Members
-    slug: "members"
-    position: 4
-    rank: 2
+    slug: >-
+      members
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -277,6 +306,8 @@ contents:
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -333,16 +364,23 @@ contents:
         - slug: "vitrail-france"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Partners
-    slug: "partners"
-    position: 5
-    rank: 2
+    slug: >-
+      partners
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -368,6 +406,8 @@ contents:
     template: gallery
     title: >-
       PHOTOS GALLERY
+    slug: >-
+      photos-gallery
     ranks:
       self: 3
     data:
@@ -414,16 +454,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Key Figures
-    slug: "key-figures"
-    position: 6
-    rank: 2
+    slug: >-
+      key-figures
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: key_figures
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -458,52 +505,37 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Agenda
-    slug: "agenda"
-    position: 7
-    rank: 2
-  - kind: block
-    template: agenda
-    title: >-
-      
+    slug: >-
+      agenda
     ranks:
-      self: false
+      self: 2
     data:
-      mode: category
-      options:
-        categories: false
-        dates: true
-        image: true
-        subtitle: true
-        summary: false
-        status: false
-
-      layout: grid
-      description: >-
-        
-
-      no_event_message: >-
-        
-
-      title_link: "/en/agenda/agenda-pays-de-la-loire/"
-      category: "/agenda-pays-de-la-loire/"
-      events:
+      layout: classic
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       News
-    slug: "news"
-    position: 8
-    rank: 2
+    slug: >-
+      news
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
       NEWS FROM PAYS DE LA LOIRE
+    slug: >-
+      news-from-pays-de-la-loire
     ranks:
       self: 3
       children: 4
@@ -526,16 +558,23 @@ contents:
         - "2023/2023-12-12-remise-officielle-du-label-epv"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Join
-    slug: "join"
-    position: 9
-    rank: 2
+    slug: >-
+      join
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: call_to_action
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -562,7 +601,6 @@ contents:
             https://www.helloasso.com/associations/savoir-faire-d-excellence-en-pays-de-la-loire/adhesions/adhesion-2024
 
           target_blank: true
-
 
 
 
