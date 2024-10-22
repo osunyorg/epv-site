@@ -64,19 +64,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 45
+  seconds: 38
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Missions
-    slug: "missions"
-    position: 1
-    rank: 2
+    slug: >-
+      missions
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -97,16 +105,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Board
-    slug: "board"
-    position: 2
-    rank: 2
+    slug: >-
+      board
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -127,17 +142,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Members
-    slug: "members"
-    position: 3
-    rank: 2
+    slug: >-
+      members
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
       OUR MEMBERS
+    slug: >-
+      our-members
     ranks:
       self: 3
       children: 4
@@ -162,6 +184,8 @@ contents:
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -184,17 +208,24 @@ contents:
         - slug: "serres-et-ferronneries-d-antan"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Partners
-    slug: "partners"
-    position: 4
-    rank: 2
+    slug: >-
+      partners
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
       OUR PARTNERS
+    slug: >-
+      our-partners
     ranks:
       self: 3
       children: 4
@@ -212,17 +243,24 @@ contents:
         - slug: "institut-pour-les-savoir-faire-francais"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Join
-    slug: "join"
-    position: 5
-    rank: 2
+    slug: >-
+      join
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: call_to_action
     title: >-
       JOIN US
+    slug: >-
+      join-us
     ranks:
       self: 3
     data:
@@ -248,7 +286,6 @@ contents:
             https://www.helloasso.com/associations/association-nationale-des-entreprises-du-patrimoine-vivant/adhesions/cotisation-anepv
 
           target_blank: true
-
 
 
 

@@ -63,19 +63,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 62
+  seconds: 64
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Missions
-    slug: "missions"
-    position: 1
-    rank: 2
+    slug: >-
+      missions
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -99,16 +107,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Board
-    slug: "board"
-    position: 2
-    rank: 2
+    slug: >-
+      board
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -141,16 +156,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Contact
-    slug: "contact"
-    position: 3
-    rank: 2
+    slug: >-
+      contact
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: contact
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -199,6 +221,8 @@ contents:
     template: gallery
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -233,16 +257,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Members
-    slug: "members"
-    position: 4
-    rank: 2
+    slug: >-
+      members
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -263,16 +294,23 @@ contents:
         - slug: "la-savonnerie-du-midi"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Partners
-    slug: "partners"
-    position: 5
-    rank: 2
+    slug: >-
+      partners
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -291,16 +329,23 @@ contents:
         - slug: "institut-pour-les-savoir-faire-francais"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Key Figures
-    slug: "key-figures"
-    position: 6
-    rank: 2
+    slug: >-
+      key-figures
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: key_figures
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -314,7 +359,7 @@ contents:
             jobs
 
           description: >-
-            <p>non relocatable</p>
+            non relocatable
 
 
         - number: 10
@@ -322,7 +367,7 @@ contents:
             millions
 
           description: >-
-            <p>of € in cumulative sales</p>
+            of € in cumulative sales
 
 
         - number: 90
@@ -330,7 +375,7 @@ contents:
             % on average
 
           description: >-
-            <p>of this sales to exports</p>
+            of this sales to exports
 
 
         - number: 5
@@ -338,22 +383,29 @@ contents:
             company visits every year
 
           description: >-
-            <p>to bring know-how to the general public</p>
+            to bring know-how to the general public
 
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       News
-    slug: "news"
-    position: 7
-    rank: 2
+    slug: >-
+      news
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
       NEWS FROM PROVENCE-ALPES-CÔTE D'AZUR
+    slug: >-
+      news-from-provence-alpes-cote-d-azur
     ranks:
       self: 3
       children: 4
@@ -373,7 +425,6 @@ contents:
       posts:
         - "2024/2024-05-04-le-label-entreprise-du-patrimoine-vivant-incite-a-ne-pas-opposer-innovation-et-tradition-guillaume-f"
         - "2023/2023-11-30-epv-diploma-ceremony-at-the-prefecture-of-the-southern-region"
-
 
 
 

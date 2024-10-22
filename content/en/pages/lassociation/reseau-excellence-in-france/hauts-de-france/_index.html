@@ -63,19 +63,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 74
+  seconds: 76
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Missions
-    slug: "missions"
-    position: 1
-    rank: 2
+    slug: >-
+      missions
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -99,17 +107,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Board
-    slug: "board"
-    position: 2
-    rank: 2
+    slug: >-
+      board
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
       BOARD MEMBERS
+    slug: >-
+      board-members
     ranks:
       self: 3
       children: 4
@@ -153,17 +168,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Contact
-    slug: "contact"
-    position: 3
-    rank: 2
+    slug: >-
+      contact
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: contact
     title: >-
       CONTACT
+    slug: >-
+      contact
     ranks:
       self: 3
     data:
@@ -207,17 +229,24 @@ contents:
       timetable:
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Members
-    slug: "members"
-    position: 4
-    rank: 2
+    slug: >-
+      members
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
       OUR MEMBERS
+    slug: >-
+      our-members
     ranks:
       self: 3
     data:
@@ -237,6 +266,8 @@ contents:
     template: organizations
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -255,6 +286,8 @@ contents:
   - kind: block
     template: gallery
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -290,17 +323,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Join
-    slug: "join"
-    position: 5
-    rank: 2
+    slug: >-
+      join
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: call_to_action
     title: >-
       JOIN US
+    slug: >-
+      join-us
     ranks:
       self: 3
     data:
@@ -326,7 +366,6 @@ contents:
             https://www.helloasso.com/associations/arepv-hauts-de-france/adhesions/hauts-de-france-adhesions-cotisation-2024
 
           target_blank: true
-
 
 
 

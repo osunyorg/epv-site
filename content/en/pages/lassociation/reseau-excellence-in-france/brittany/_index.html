@@ -64,19 +64,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 30
+  seconds: 18
   text: >-
-    1 minute
+    less than a minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Members
-    slug: "members"
-    position: 1
-    rank: 2
+    slug: >-
+      members
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -102,6 +110,8 @@ contents:
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -124,17 +134,24 @@ contents:
         - slug: "maison-chancerelle"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       News
-    slug: "news"
-    position: 2
-    rank: 2
+    slug: >-
+      news
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
       NEWS FROM BRITTANY
+    slug: >-
+      news-from-brittany
     ranks:
       self: 3
       children: 4
@@ -155,17 +172,24 @@ contents:
         - "2023/2023-06-15-how-can-we-make-tomorrow-s-arts-and-crafts-shine"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Join
-    slug: "join"
-    position: 3
-    rank: 2
+    slug: >-
+      join
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: call_to_action
     title: >-
       JOIN US
+    slug: >-
+      join-us
     ranks:
       self: 3
     data:
@@ -191,7 +215,6 @@ contents:
             https://www.helloasso.com/associations/association-nationale-des-entreprises-du-patrimoine-vivant/adhesions/cotisation-anepv
 
           target_blank: true
-
 
 
 

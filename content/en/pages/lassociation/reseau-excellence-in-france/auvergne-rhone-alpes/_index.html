@@ -63,19 +63,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 51
+  seconds: 40
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Missions
-    slug: "missions"
-    position: 1
-    rank: 2
+    slug: >-
+      missions
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -99,16 +107,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Board
-    slug: "board"
-    position: 2
-    rank: 2
+    slug: >-
+      board
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -161,16 +176,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Contact
-    slug: "contact"
-    position: 3
-    rank: 2
+    slug: >-
+      contact
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: contact
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -215,17 +237,24 @@ contents:
       timetable:
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Members
-    slug: "members"
-    position: 4
-    rank: 2
+    slug: >-
+      members
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
       OUR MEMBERS
+    slug: >-
+      our-members
     ranks:
       self: 3
       children: 4
@@ -351,6 +380,8 @@ contents:
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -474,17 +505,24 @@ contents:
         - slug: "vp-dolex"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Partners
-    slug: "partners"
-    position: 5
-    rank: 2
+    slug: >-
+      partners
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
       PARTNERS
+    slug: >-
+      partners
     ranks:
       self: 3
       children: 4
@@ -503,17 +541,24 @@ contents:
         - slug: "institut-pour-les-savoir-faire-francais"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       News
-    slug: "news"
-    position: 6
-    rank: 2
+    slug: >-
+      news
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
       NEWS FROM AUVERGNE-RHÔNE-ALPES
+    slug: >-
+      news-from-auvergne-rhone-alpes
     ranks:
       self: 3
       children: 4
@@ -534,24 +579,36 @@ contents:
         - "2023/2023-03-27-richesses-report-on-the-epv-auvergne-rhone-alpes"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Key Figures
-    slug: "key-figures"
-    position: 7
-    rank: 2
+    slug: >-
+      key-figures
+    ranks:
+      self: 2
+    data:
+      layout: classic
 
-  - kind: heading
+
+  - kind: block
+    template: title
     title: >-
       Join
-    slug: "join"
-    position: 8
-    rank: 2
+    slug: >-
+      join
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: call_to_action
     title: >-
       JOIN US
+    slug: >-
+      join-us
     ranks:
       self: 3
     data:
@@ -577,7 +634,6 @@ contents:
             
 
           target_blank: true
-
 
 
 
