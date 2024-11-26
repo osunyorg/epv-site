@@ -9,18 +9,23 @@ items:
     target: "/fr/lassociation/nos-missions/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/nos-missions/_index.html
   - title: Notre organisation
     target: "/fr/lassociation/notre-organisation/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/notre-organisation/_index.html
   - title: Le Réseau Excellence en France
     target: "/fr/lassociation/reseau-excellence-en-france/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/reseau-excellence-en-france/_index.html
   - title: Adhérer au Réseau Excellence
     target: "/fr/lassociation/adherer-au-reseau-excellence/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/adherer-au-reseau-excellence/_index.html
+  file: content/fr/pages/lassociation/_index.html
 - title: Le label EPV
   target: "/fr/le-label-epv/"
   kind: page
@@ -29,14 +34,18 @@ items:
     target: "/fr/le-label-epv/presentation-du-label/"
     kind: page
     children: []
+    file: content/fr/pages/le-label-epv/presentation-du-label/_index.html
   - title: Candidater au label
     target: "/fr/le-label-epv/candidater-au-label/"
     kind: page
     children: []
+    file: content/fr/pages/le-label-epv/candidater-au-label/_index.html
   - title: Annuaire des EPV adhérentes
     target: "/fr/le-label-epv/annuaire-des-epv-adherentes/"
     kind: page
     children: []
+    file: content/fr/pages/le-label-epv/annuaire-des-epv-adherentes/_index.html
+  file: content/fr/pages/le-label-epv/_index.html
 - title: Actions et engagements
   target: "/fr/actions-et-engagements/"
   kind: page
@@ -45,20 +54,26 @@ items:
     target: "/fr/actions-et-engagements/federer/"
     kind: page
     children: []
+    file: content/fr/pages/actions-et-engagements/federer/_index.html
   - title: Développer
     target: "/fr/actions-et-engagements/developper/"
     kind: page
     children: []
+    file: content/fr/pages/actions-et-engagements/developper/_index.html
   - title: Rayonner
     target: "/fr/actions-et-engagements/rayonner/"
     kind: page
     children: []
+    file: content/fr/pages/actions-et-engagements/rayonner/_index.html
+  file: content/fr/pages/actions-et-engagements/_index.html
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Agenda
   target: "/fr/agenda/"
   kind: page
   children: []
+  file: content/fr/events/_index.html
 
