@@ -7,13 +7,25 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      email: >-
-        contact@anepv.fr
-      linkedin: >-
-        https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant
-      youtube: >-
-        https://www.youtube.com/@associationnationaleepv3156
+    contact_details:
+      emails:
+        email:
+          label: >-
+            contact@anepv.fr
+          value: >-
+            mailto:contact@anepv.fr
+      social_networks:
+        linkedin:
+          label: >-
+            association-national-des-entreprises-du-patrimoine-vivant
+          value: >-
+            https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant
+        youtube:
+          label: >-
+            associationnationaleepv3156
+          value: >-
+            https://www.youtube.com/@associationnationaleepv3156
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -46,13 +58,25 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        contact@anepv.fr
-      linkedin: >-
-        https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant
-      youtube: >-
-        https://www.youtube.com/@associationnationaleepv3156
+    contact_details:
+      emails:
+        email:
+          label: >-
+            contact@anepv.fr
+          value: >-
+            mailto:contact@anepv.fr
+      social_networks:
+        linkedin:
+          label: >-
+            association-national-des-entreprises-du-patrimoine-vivant
+          value: >-
+            https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant
+        youtube:
+          label: >-
+            associationnationaleepv3156
+          value: >-
+            https://www.youtube.com/@associationnationaleepv3156
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
