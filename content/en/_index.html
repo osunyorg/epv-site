@@ -4,13 +4,14 @@ breadcrumb_title: >-
 title: >-
   Home
 url: "/en/"
+slug: ""
 date: 2024-02-12T09:43:21+01:00
 lastmod: 2024-09-30T10:56:45+02:00
 meta:
   hugo:
     permalink: "/en/"
+    path: "/"
     file: "content/en/_index.html"
-    path: ""
     slug: ""
   dates:
     created_at: 2024-01-10T17:56:23+01:00
@@ -177,14 +178,15 @@ contents:
 
       layout: grid
       pages:
-        - path: "/en/epv-portraits/"
+        - permalink: "/en/epv-portraits/"
+          path: "/pages/epv-portraits"
           slug: "epv-portraits"
-          file: "pages/epv-portraits/_index.html"
-          external: false
-        - path: "/en/outstanding-projects/"
+          file: "content/en/pages/epv-portraits/_index.html"
+        - permalink: "/en/outstanding-projects/"
+          path: "/pages/outstanding-projects"
           slug: "outstanding-projects"
-          file: "pages/outstanding-projects/_index.html"
-          external: false
+          file: "content/en/pages/outstanding-projects/_index.html"
+
 
 
   - kind: block
@@ -209,10 +211,23 @@ contents:
         summary: true
 
       posts:
-        - "2024/2024-06-06-founding-of-the-epv-grand-est-association"
-        - "2024/2024-05-03-management-of-the-entreprise-du-patrimoine-vivant-epv-label-changes-hands"
-        - "2024/2024-01-09-osaka-2025-tripartite-partnership-agreement-signed"
-        - "2023/2023-12-14-epv-x-wilmotte-industries-evening-meeting"
+        - permalink: "/en/news/2024-06-06-founding-of-the-epv-grand-est-association/"
+          path: "/posts/2024/2024-06-06-founding-of-the-epv-grand-est-association"
+          slug: "founding-of-the-epv-grand-est-association"
+          file: "content/en/posts/2024/2024-06-06-founding-of-the-epv-grand-est-association.html"
+        - permalink: "/en/news/2024-05-03-management-of-the-entreprise-du-patrimoine-vivant-epv-label-changes-hands/"
+          path: "/posts/2024/2024-05-03-management-of-the-entreprise-du-patrimoine-vivant-epv-label-changes-hands"
+          slug: "management-of-the-entreprise-du-patrimoine-vivant-epv-label-changes-hands"
+          file: "content/en/posts/2024/2024-05-03-management-of-the-entreprise-du-patrimoine-vivant-epv-label-changes-hands.html"
+        - permalink: "/en/news/2024-01-09-osaka-2025-tripartite-partnership-agreement-signed/"
+          path: "/posts/2024/2024-01-09-osaka-2025-tripartite-partnership-agreement-signed"
+          slug: "osaka-2025-tripartite-partnership-agreement-signed"
+          file: "content/en/posts/2024/2024-01-09-osaka-2025-tripartite-partnership-agreement-signed.html"
+        - permalink: "/en/news/2023-12-14-epv-x-wilmotte-industries-evening-meeting/"
+          path: "/posts/2023/2023-12-14-epv-x-wilmotte-industries-evening-meeting"
+          slug: "epv-x-wilmotte-industries-evening-meeting"
+          file: "content/en/posts/2023/2023-12-14-epv-x-wilmotte-industries-evening-meeting.html"
+
 
 
   - kind: block

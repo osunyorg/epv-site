@@ -4,13 +4,14 @@ breadcrumb_title: >-
 title: >-
   Accueil
 url: "/fr/"
+slug: ""
 date: 2024-01-10T18:55:59+01:00
 lastmod: 2024-11-07T11:17:25+01:00
 meta:
   hugo:
     permalink: "/fr/"
+    path: "/"
     file: "content/fr/_index.html"
-    path: ""
     slug: ""
   dates:
     created_at: 2024-01-09T12:42:04+01:00
@@ -174,14 +175,15 @@ contents:
 
       layout: grid
       pages:
-        - path: "/fr/portraits-depv/"
+        - permalink: "/fr/portraits-depv/"
+          path: "/pages/portraits-depv"
           slug: "portraits-depv"
-          file: "pages/portraits-depv/_index.html"
-          external: false
-        - path: "/fr/projets-dexception/"
+          file: "content/fr/pages/portraits-depv/_index.html"
+        - permalink: "/fr/projets-dexception/"
+          path: "/pages/projets-dexception"
           slug: "projets-dexception"
-          file: "pages/projets-dexception/_index.html"
-          external: false
+          file: "content/fr/pages/projets-dexception/_index.html"
+
 
 
   - kind: block
@@ -206,10 +208,23 @@ contents:
         summary: true
 
       posts:
-        - "2024/2024-06-06-creation-de-l-association-epv-grand-est"
-        - "2024/2024-05-03-la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains"
-        - "2023/2023-12-14-soiree-rencontre-epv-x-wilmotteindustries"
-        - "2024/2024-01-09-osaka-2025-signature-d-une-convention-tripartite-de-partenariat"
+        - permalink: "/fr/actualites/2024-06-06-creation-de-l-association-epv-grand-est/"
+          path: "/posts/2024/2024-06-06-creation-de-l-association-epv-grand-est"
+          slug: "creation-de-l-association-epv-grand-est"
+          file: "content/fr/posts/2024/2024-06-06-creation-de-l-association-epv-grand-est.html"
+        - permalink: "/fr/actualites/2024-05-03-la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains/"
+          path: "/posts/2024/2024-05-03-la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains"
+          slug: "la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains"
+          file: "content/fr/posts/2024/2024-05-03-la-gestion-du-label-entreprise-du-patrimoine-vivant-epv-change-de-mains.html"
+        - permalink: "/fr/actualites/2023-12-14-soiree-rencontre-epv-x-wilmotteindustries/"
+          path: "/posts/2023/2023-12-14-soiree-rencontre-epv-x-wilmotteindustries"
+          slug: "soiree-rencontre-epv-x-wilmotteindustries"
+          file: "content/fr/posts/2023/2023-12-14-soiree-rencontre-epv-x-wilmotteindustries.html"
+        - permalink: "/fr/actualites/2024-01-09-osaka-2025-signature-d-une-convention-tripartite-de-partenariat/"
+          path: "/posts/2024/2024-01-09-osaka-2025-signature-d-une-convention-tripartite-de-partenariat"
+          slug: "osaka-2025-signature-d-une-convention-tripartite-de-partenariat"
+          file: "content/fr/posts/2024/2024-01-09-osaka-2025-signature-d-une-convention-tripartite-de-partenariat.html"
+
 
 
   - kind: block
