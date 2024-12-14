@@ -9,22 +9,27 @@ items:
     target: "/en/lassociation/our-missions/"
     kind: page
     children: []
+    path: "/pages/lassociation/our-missions"
     file: content/en/pages/lassociation/our-missions/_index.html
   - title: Our organisation
     target: "/en/lassociation/our-organisation/"
     kind: page
     children: []
+    path: "/pages/lassociation/our-organisation"
     file: content/en/pages/lassociation/our-organisation/_index.html
   - title: Réseau Excellence in France
     target: "/en/lassociation/reseau-excellence-in-france/"
     kind: page
     children: []
+    path: "/pages/lassociation/reseau-excellence-in-france"
     file: content/en/pages/lassociation/reseau-excellence-in-france/_index.html
   - title: Join Réseau Excellence
     target: "/en/lassociation/join-reseau-excellence/"
     kind: page
     children: []
+    path: "/pages/lassociation/join-reseau-excellence"
     file: content/en/pages/lassociation/join-reseau-excellence/_index.html
+  path: "/pages/lassociation"
   file: content/en/pages/lassociation/_index.html
 - title: The EPV label
   target: "/en/the-epv-label/"
@@ -34,17 +39,21 @@ items:
     target: "/en/the-epv-label/presentation-of-the-label/"
     kind: page
     children: []
+    path: "/pages/the-epv-label/presentation-of-the-label"
     file: content/en/pages/the-epv-label/presentation-of-the-label/_index.html
   - title: Apply for the label
     target: "/en/the-epv-label/apply-for-the-label/"
     kind: page
     children: []
+    path: "/pages/the-epv-label/apply-for-the-label"
     file: content/en/pages/the-epv-label/apply-for-the-label/_index.html
   - title: Directory of EPV members
     target: "/en/the-epv-label/directory-of-epv-members/"
     kind: page
     children: []
+    path: "/pages/the-epv-label/directory-of-epv-members"
     file: content/en/pages/the-epv-label/directory-of-epv-members/_index.html
+  path: "/pages/the-epv-label"
   file: content/en/pages/the-epv-label/_index.html
 - title: Actions and commitments
   target: "/en/actions-and-commitments/"
@@ -54,26 +63,32 @@ items:
     target: "/en/actions-and-commitments/unite/"
     kind: page
     children: []
+    path: "/pages/actions-and-commitments/unite"
     file: content/en/pages/actions-and-commitments/unite/_index.html
   - title: Grow
     target: "/en/actions-and-commitments/grow/"
     kind: page
     children: []
+    path: "/pages/actions-and-commitments/grow"
     file: content/en/pages/actions-and-commitments/grow/_index.html
   - title: Foster
     target: "/en/actions-and-commitments/foster/"
     kind: page
     children: []
+    path: "/pages/actions-and-commitments/foster"
     file: content/en/pages/actions-and-commitments/foster/_index.html
+  path: "/pages/actions-and-commitments"
   file: content/en/pages/actions-and-commitments/_index.html
 - title: News
   target: "/en/news/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 - title: Agenda
   target: "/en/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/en/events/_index.html
 
