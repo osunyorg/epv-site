@@ -4,28 +4,33 @@ items:
 - title: L'association
   target: "/fr/lassociation/"
   kind: page
+  new_tab: false
   children:
   - title: Nos missions
     target: "/fr/lassociation/nos-missions/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/lassociation/nos-missions"
     file: content/fr/pages/lassociation/nos-missions/_index.html
   - title: Notre organisation
     target: "/fr/lassociation/notre-organisation/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/lassociation/notre-organisation"
     file: content/fr/pages/lassociation/notre-organisation/_index.html
   - title: Le Réseau Excellence en France
     target: "/fr/lassociation/reseau-excellence-en-france/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/lassociation/reseau-excellence-en-france"
     file: content/fr/pages/lassociation/reseau-excellence-en-france/_index.html
   - title: Adhérer au Réseau Excellence
     target: "/fr/lassociation/adherer-au-reseau-excellence/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/lassociation/adherer-au-reseau-excellence"
     file: content/fr/pages/lassociation/adherer-au-reseau-excellence/_index.html
@@ -34,22 +39,26 @@ items:
 - title: Le label EPV
   target: "/fr/le-label-epv/"
   kind: page
+  new_tab: false
   children:
   - title: Présentation du label
     target: "/fr/le-label-epv/presentation-du-label/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/le-label-epv/presentation-du-label"
     file: content/fr/pages/le-label-epv/presentation-du-label/_index.html
   - title: Candidater au label
     target: "/fr/le-label-epv/candidater-au-label/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/le-label-epv/candidater-au-label"
     file: content/fr/pages/le-label-epv/candidater-au-label/_index.html
   - title: Annuaire des EPV adhérentes
     target: "/fr/le-label-epv/annuaire-des-epv-adherentes/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/le-label-epv/annuaire-des-epv-adherentes"
     file: content/fr/pages/le-label-epv/annuaire-des-epv-adherentes/_index.html
@@ -58,22 +67,26 @@ items:
 - title: Actions et engagements
   target: "/fr/actions-et-engagements/"
   kind: page
+  new_tab: false
   children:
   - title: Fédérer
     target: "/fr/actions-et-engagements/federer/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/actions-et-engagements/federer"
     file: content/fr/pages/actions-et-engagements/federer/_index.html
   - title: Développer
     target: "/fr/actions-et-engagements/developper/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/actions-et-engagements/developper"
     file: content/fr/pages/actions-et-engagements/developper/_index.html
   - title: Rayonner
     target: "/fr/actions-et-engagements/rayonner/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/actions-et-engagements/rayonner"
     file: content/fr/pages/actions-et-engagements/rayonner/_index.html
@@ -82,12 +95,14 @@ items:
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
   target: "/fr/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
