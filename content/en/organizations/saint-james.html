@@ -117,12 +117,16 @@ contact_details:
 logo: "7f6716c6-1c90-4d9e-9b98-9298f081841a"
 organizations_categories:
   - "epv-normandie"
-free_categories:
-  - permalink: "/en/organizations/categories/epv-normandie/"
-    path: "/organizations_categories/epv-normandie"
-    slug: "epv-normandie"
-    file: "content/en/organizations_categories/epv-normandie/_index.html"
-    name: "EPV Normandie"
+taxonomies:
+  - name: "Catégories"
+    slug: ""
+    categories:
+      - permalink: "/en/organizations/categories/epv-normandie/"
+        path: "/organizations_categories/epv-normandie"
+        slug: "epv-normandie"
+        file: "content/en/organizations_categories/epv-normandie/_index.html"
+        name: "EPV Normandie"
+
 
 contents_reading_time:
   seconds: 215
@@ -156,7 +160,7 @@ contents:
           
 
         credit: >-
-          <p><a href="https://www.pinterest.fr/pin/304696731025501986/" target="_blank">Pinterest<span class="sr-only"> - external link</span></a></p>
+          <p><a href="https://www.pinterest.fr/pin/304696731025501986/" target="_blank">Pinterest <span class="sr-only">(external link)</span></a></p>
 
 
 
@@ -329,10 +333,12 @@ contents:
       description: >-
         
 
+      layout: grid
       options:
         image: true
         summary: true
         link: true
+        contact: false
 
       persons:
         - permalink: "/en/team/luc-lesenecal/"
@@ -364,6 +370,7 @@ contents:
       video_title: >-
         Atelier raccoutrage
 
+      layout: player
       transcription: >-
         
 
@@ -404,6 +411,7 @@ contents:
       video_title: >-
         EPV - Film institutionnel
 
+      layout: player
       transcription: >-
         
 
