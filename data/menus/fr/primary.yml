@@ -26,12 +26,12 @@ items:
     new_tab: false
     children: []
   - title: Adhérer au Réseau Excellence
-    target: "/fr/actualites/portraits-d-epv/"
-    kind: category
+    target: "/fr/lassociation/adherer-au-reseau-excellence/"
+    kind: page
     new_tab: false
     children: []
-    path: "/posts_categories/portraits-d-epv"
-    file: content/fr/posts_categories/portraits-d-epv/_index.html
+    path: "/pages/lassociation/adherer-au-reseau-excellence"
+    file: content/fr/pages/lassociation/adherer-au-reseau-excellence/_index.html
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Le label EPV
