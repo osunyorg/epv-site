@@ -30,10 +30,8 @@ items:
   - title: Adhérer au Réseau Excellence
     target: https://www.helloasso.com/associations/association-regionale-des-entreprises-du-patrimoine-vivant-d-auvergne-rhone-alpes/adhesions/association-regional-des-entreprises-du-patrimoine-vivant-auvergne-rhone-alpes-1
     kind: url
-    new_tab: false
+    new_tab: true
     children: []
-    path: "/pages/lassociation/reseau-excellence-en-france/auvergne-rhone-alpes"
-    file: content/fr/pages/lassociation/reseau-excellence-en-france/auvergne-rhone-alpes/_index.html
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Le label EPV
