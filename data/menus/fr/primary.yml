@@ -21,10 +21,12 @@ items:
     path: "/pages/lassociation/notre-organisation"
     file: content/fr/pages/lassociation/notre-organisation/_index.html
   - title: Le Réseau Excellence en France
-    target: ''
-    kind: url
+    target: "/fr/lassociation/reseau-excellence-en-france/"
+    kind: page
     new_tab: false
     children: []
+    path: "/pages/lassociation/reseau-excellence-en-france"
+    file: content/fr/pages/lassociation/reseau-excellence-en-france/_index.html
   - title: Adhérer au Réseau Excellence
     target: "/fr/lassociation/adherer-au-reseau-excellence/"
     kind: page
