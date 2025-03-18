@@ -1,3 +1,4 @@
 theme: epv-hugo-theme
+_merge: deep
 params:
   plausible: reseauexcellence.fr
