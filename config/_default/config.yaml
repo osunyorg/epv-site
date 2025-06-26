@@ -1,4 +1,17 @@
 theme: epv-hugo-theme
 _merge: deep
+outputFormats:
+  pagedjs:
+    baseName: pagedjs
+    isHTML: true
+    mediaType: text/html
+    permalinkable: true
+    rel: pagedjs
+outputs:
+  page:
+  - html
+  section:
+  - html
+  - rss
 params:
   plausible: reseauexcellence.fr
