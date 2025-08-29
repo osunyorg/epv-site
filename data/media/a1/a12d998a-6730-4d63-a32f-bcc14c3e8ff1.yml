@@ -1,7 +1,10 @@
 ---
 name: LOGO-MERO.jpg
 size: 23103
-format: square
+width: 666
+height: 219
+ratio: 3.041095890410959
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImExMmQ5OThhLTY3MzAtNGQ2My1hMzJmLWJjYzE0YzNlOGZmMSIsInB1ciI6ImJsb2JfaWQifX0=--0f355223e0692ceefaa16cc7fd8aec5cafe4052e/LOGO-MERO.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/65otv24k856ac11w9nvc4bycte20
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImExMmQ5OThhLTY3MzAtNGQ2My1hMzJmLWJjYzE0YzNlOGZmMSIsInB1ciI6ImJsb2JfaWQifX0=--0f355223e0692ceefaa16cc7fd8aec5cafe4052e

@@ -1,7 +1,10 @@
 ---
 name: Logo-MC.png
 size: 403880
-format: square
+width: 1027
+height: 646
+ratio: 1.589783281733746
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ4NzhkMzM3LThhZTUtNDJhNi05ODdhLWQwZTc4NjEyMTY1ZSIsInB1ciI6ImJsb2JfaWQifX0=--d5c3eb088618548152a20d766573c59ed5e95eaa/Logo-MC.png
 direct_url: https://osuny.s3.fr-par.scw.cloud/59ahdb6th9y9eeqqmhyrokk80zr1
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjQ4NzhkMzM3LThhZTUtNDJhNi05ODdhLWQwZTc4NjEyMTY1ZSIsInB1ciI6ImJsb2JfaWQifX0=--d5c3eb088618548152a20d766573c59ed5e95eaa

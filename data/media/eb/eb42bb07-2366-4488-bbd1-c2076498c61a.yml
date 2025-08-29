@@ -1,7 +1,10 @@
 ---
 name: Logo-Bourson.jpg
 size: 125180
-format: square
+width: 2417
+height: 400
+ratio: 6.0425
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImViNDJiYjA3LTIzNjYtNDQ4OC1iYmQxLWMyMDc2NDk4YzYxYSIsInB1ciI6ImJsb2JfaWQifX0=--87109ded9ed27adedc8c72ed1018ce681bcd50ad/Logo-Bourson.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/sejx9zecg3plsmu62jjfpozuwg43
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImViNDJiYjA3LTIzNjYtNDQ4OC1iYmQxLWMyMDc2NDk4YzYxYSIsInB1ciI6ImJsb2JfaWQifX0=--87109ded9ed27adedc8c72ed1018ce681bcd50ad

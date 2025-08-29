@@ -1,7 +1,10 @@
 ---
 name: logo_pyrenex.png
 size: 30801
-format: square
+width: 140
+height: 116
+ratio: 1.206896551724138
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcwMThjOWExLWVmZDgtNDAwMS05MDUxLWMwMmYxYjM4NDI2YyIsInB1ciI6ImJsb2JfaWQifX0=--6eed2cd171d3ba1674b1b45e4ace89d33850e666/logo_pyrenex.png
 direct_url: https://osuny.s3.fr-par.scw.cloud/9x9ixk8vo3v357w5glhblryog2uu
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjcwMThjOWExLWVmZDgtNDAwMS05MDUxLWMwMmYxYjM4NDI2YyIsInB1ciI6ImJsb2JfaWQifX0=--6eed2cd171d3ba1674b1b45e4ace89d33850e666

@@ -1,6 +1,9 @@
 ---
 name: images.png
 size: 10732
+width: 225
+height: 225
+ratio: 1.0
 format: square
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlMDIyZTAzLTJlZGYtNGRhYy05N2YxLWZiNTMwYWIwNDBkOCIsInB1ciI6ImJsb2JfaWQifX0=--50fa5c53b670984afed1b0d02649e44aebba1cd5/images.png
 direct_url: https://osuny.s3.fr-par.scw.cloud/186s5n9rbxvz6rv2gaqxc5i6idx4

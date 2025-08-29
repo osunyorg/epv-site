@@ -1,7 +1,10 @@
 ---
 name: Logo.jpg
 size: 3134
-format: square
+width: 156
+height: 180
+ratio: 0.8666666666666667
+format: portrait
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjkwZGEyYWFlLThkMWQtNDljZS1iYWIyLThkNzA3MDA4Y2U1MiIsInB1ciI6ImJsb2JfaWQifX0=--3d033c22b97b0c2e119e4a53085f01718405c4c3/Logo.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/jwgqddpn04yibi33scnr2kkbavo0
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjkwZGEyYWFlLThkMWQtNDljZS1iYWIyLThkNzA3MDA4Y2U1MiIsInB1ciI6ImJsb2JfaWQifX0=--3d033c22b97b0c2e119e4a53085f01718405c4c3

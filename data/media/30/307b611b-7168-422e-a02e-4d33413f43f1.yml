@@ -1,7 +1,10 @@
 ---
 name: logo-atelier-bernet.png
 size: 10456
-format: square
+width: 403
+height: 400
+ratio: 1.0075
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMwN2I2MTFiLTcxNjgtNDIyZS1hMDJlLTRkMzM0MTNmNDNmMSIsInB1ciI6ImJsb2JfaWQifX0=--51f726d90317842d5e2186f07577abbed8839674/logo-atelier-bernet.png
 direct_url: https://osuny.s3.fr-par.scw.cloud/wcnuwbnz4gqj38pdfo195v6couk1
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjMwN2I2MTFiLTcxNjgtNDIyZS1hMDJlLTRkMzM0MTNmNDNmMSIsInB1ciI6ImJsb2JfaWQifX0=--51f726d90317842d5e2186f07577abbed8839674

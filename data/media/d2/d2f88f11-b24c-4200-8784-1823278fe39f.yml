@@ -1,7 +1,10 @@
 ---
 name: logo-meert.jpg
 size: 88422
-format: square
+width: 915
+height: 299
+ratio: 3.060200668896321
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQyZjg4ZjExLWIyNGMtNDIwMC04Nzg0LTE4MjMyNzhmZTM5ZiIsInB1ciI6ImJsb2JfaWQifX0=--9e9517da89437e1a9b05c8d41365957ea760356c/logo-meert.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/7f8sknedcfy14w50amgd982w71vs
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQyZjg4ZjExLWIyNGMtNDIwMC04Nzg0LTE4MjMyNzhmZTM5ZiIsInB1ciI6ImJsb2JfaWQifX0=--9e9517da89437e1a9b05c8d41365957ea760356c

@@ -1,6 +1,9 @@
 ---
 name: LOGO.png
 size: 4456
+width: 225
+height: 225
+ratio: 1.0
 format: square
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFmNTQ3ZGI3LTZlY2MtNGMxYS05MGY3LTFmNjdkY2Q5MmRlOCIsInB1ciI6ImJsb2JfaWQifX0=--d6c8eeea2f9e9609a8ece18a5d03c21877b51c2b/LOGO.png
 direct_url: https://osuny.s3.fr-par.scw.cloud/tqp8eszouorkbchbnrv8ggkm6jkk
