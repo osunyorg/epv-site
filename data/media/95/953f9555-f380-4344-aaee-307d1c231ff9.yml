@@ -1,7 +1,10 @@
 ---
 name: cropped-logo.jpg
 size: 38760
-format: square
+width: 1200
+height: 390
+ratio: 3.076923076923077
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk1M2Y5NTU1LWYzODAtNDM0NC1hYWVlLTMwN2QxYzIzMWZmOSIsInB1ciI6ImJsb2JfaWQifX0=--fee7117d4474d3aa33ebf745c77bf03ce8ff2c53/cropped-logo.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/cgqlazysr4pvjog9sycaabn9gdy5
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6Ijk1M2Y5NTU1LWYzODAtNDM0NC1hYWVlLTMwN2QxYzIzMWZmOSIsInB1ciI6ImJsb2JfaWQifX0=--fee7117d4474d3aa33ebf745c77bf03ce8ff2c53

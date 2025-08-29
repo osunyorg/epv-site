@@ -1,7 +1,10 @@
 ---
 name: LOGO-lmec-250_250x0.jpg
 size: 6206
-format: square
+width: 250
+height: 127
+ratio: 1.968503937007874
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQxNmQ2NzJmLWU1ZDktNDFlYi05YWJmLWVlODA1ZWQ5ZmU5ZCIsInB1ciI6ImJsb2JfaWQifX0=--a8d3e154a853b08815fc0aceb2ade091d4511c4a/LOGO-lmec-250_250x0.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/zswo42ytw6znat4m4h16kyrhhqv1
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQxNmQ2NzJmLWU1ZDktNDFlYi05YWJmLWVlODA1ZWQ5ZmU5ZCIsInB1ciI6ImJsb2JfaWQifX0=--a8d3e154a853b08815fc0aceb2ade091d4511c4a

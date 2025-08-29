@@ -1,7 +1,10 @@
 ---
 name: JCC_accueil-transparent.png
 size: 174708
-format: square
+width: 630
+height: 540
+ratio: 1.1666666666666667
+format: landscape
 url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU1MzUxODcyLWI5NjEtNGM4MS04MzcyLWRlYTJkN2NkMWE3ZiIsInB1ciI6ImJsb2JfaWQifX0=--d07d0c2fafad81aed2600f6e80a232e99cb1a605/JCC_accueil-transparent.png
 direct_url: https://osuny.s3.fr-par.scw.cloud/bjj2nnslwrydrlgjoehrw728nyvr
 download_url: https://epv.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjU1MzUxODcyLWI5NjEtNGM4MS04MzcyLWRlYTJkN2NkMWE3ZiIsInB1ciI6ImJsb2JfaWQifX0=--d07d0c2fafad81aed2600f6e80a232e99cb1a605
