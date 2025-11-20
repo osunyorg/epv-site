@@ -51,33 +51,12 @@ items:
   path: "/pages/our-epvs"
   file: content/en/pages/our-epvs/_index.html
 - title: Actions and commitments
-  target: "/en/actions-and-commitments/"
+  target: "/en/our-actions/"
   kind: page
   new_tab: false
-  children:
-  - title: Unite
-    target: "/en/actions-and-commitments/unite/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-and-commitments/unite"
-    file: content/en/pages/actions-and-commitments/unite/_index.html
-  - title: Grow
-    target: "/en/actions-and-commitments/grow/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-and-commitments/grow"
-    file: content/en/pages/actions-and-commitments/grow/_index.html
-  - title: Foster
-    target: "/en/actions-and-commitments/foster/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-and-commitments/foster"
-    file: content/en/pages/actions-and-commitments/foster/_index.html
-  path: "/pages/actions-and-commitments"
-  file: content/en/pages/actions-and-commitments/_index.html
+  children: []
+  path: "/pages/our-actions"
+  file: content/en/pages/our-actions/_index.html
 - title: News
   target: "/en/news/"
   kind: page

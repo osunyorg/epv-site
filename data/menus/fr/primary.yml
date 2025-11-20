@@ -51,33 +51,12 @@ items:
   path: "/pages/nos-epv"
   file: content/fr/pages/nos-epv/_index.html
 - title: Actions et engagements
-  target: "/fr/actions-et-engagements/"
+  target: "/fr/nos-actions/"
   kind: page
   new_tab: false
-  children:
-  - title: Fédérer
-    target: "/fr/actions-et-engagements/federer/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-et-engagements/federer"
-    file: content/fr/pages/actions-et-engagements/federer/_index.html
-  - title: Développer
-    target: "/fr/actions-et-engagements/developper/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-et-engagements/developper"
-    file: content/fr/pages/actions-et-engagements/developper/_index.html
-  - title: Rayonner
-    target: "/fr/actions-et-engagements/rayonner/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-et-engagements/rayonner"
-    file: content/fr/pages/actions-et-engagements/rayonner/_index.html
-  path: "/pages/actions-et-engagements"
-  file: content/fr/pages/actions-et-engagements/_index.html
+  children: []
+  path: "/pages/nos-actions"
+  file: content/fr/pages/nos-actions/_index.html
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
