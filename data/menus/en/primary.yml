@@ -41,20 +41,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Presentation of the label
-    target: "/en/our-epvs/presentation-of-the-label/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/our-epvs/presentation-of-the-label"
-    file: content/en/pages/our-epvs/presentation-of-the-label/_index.html
-  - title: Apply for the label
-    target: "/en/our-epvs/apply-for-the-label/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/our-epvs/apply-for-the-label"
-    file: content/en/pages/our-epvs/apply-for-the-label/_index.html
   - title: Directory of EPV members
     target: "/en/our-epvs/directory-of-epv-members/"
     kind: page

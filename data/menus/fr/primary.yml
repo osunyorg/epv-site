@@ -41,20 +41,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Présentation du label
-    target: "/fr/nos-epv/presentation-du-label/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/nos-epv/presentation-du-label"
-    file: content/fr/pages/nos-epv/presentation-du-label/_index.html
-  - title: Candidater au label
-    target: "/fr/nos-epv/candidater-au-label/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/nos-epv/candidater-au-label"
-    file: content/fr/pages/nos-epv/candidater-au-label/_index.html
   - title: Annuaire des EPV adhérentes
     target: "/fr/nos-epv/annuaire-des-epv-adherentes/"
     kind: page
