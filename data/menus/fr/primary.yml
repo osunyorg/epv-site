@@ -6,7 +6,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Nos missions
+  - title: Notre histoire et nos missions
     target: "/fr/lassociation/notre-histoire-et-nos-missions/"
     kind: page
     new_tab: false
@@ -36,11 +36,25 @@ items:
     file: content/fr/pages/lassociation/adherer-au-reseau-excellence/_index.html
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
-- title: Le label EPV
+- title: Nos EPV
   target: "/fr/nos-epv/"
   kind: page
   new_tab: false
   children:
+  - title: Portraits d'EPV
+    target: "/fr/nos-epv/portraits-depv/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/nos-epv/portraits-depv"
+    file: content/fr/pages/nos-epv/portraits-depv/_index.html
+  - title: Projets d'exception
+    target: "/fr/nos-epv/projets-dexception/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/nos-epv/projets-dexception"
+    file: content/fr/pages/nos-epv/projets-dexception/_index.html
   - title: Annuaire des EPV adhérentes
     target: "/fr/nos-epv/annuaire-des-epv-adherentes/"
     kind: page
@@ -50,11 +64,32 @@ items:
     file: content/fr/pages/nos-epv/annuaire-des-epv-adherentes/_index.html
   path: "/pages/nos-epv"
   file: content/fr/pages/nos-epv/_index.html
-- title: Actions et engagements
+- title: Nos actions
   target: "/fr/nos-actions/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: RSE & Formation
+    target: "/fr/nos-actions/rse-formation/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/nos-actions/rse-formation"
+    file: content/fr/pages/nos-actions/rse-formation/_index.html
+  - title: Réseau Excellence Contract
+    target: "/fr/nos-actions/reseau-excellence-contract/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/nos-actions/reseau-excellence-contract"
+    file: content/fr/pages/nos-actions/reseau-excellence-contract/_index.html
+  - title: Communication
+    target: "/fr/nos-actions/communication/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/nos-actions/communication"
+    file: content/fr/pages/nos-actions/communication/_index.html
   path: "/pages/nos-actions"
   file: content/fr/pages/nos-actions/_index.html
 - title: Actualités

@@ -6,7 +6,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Our missions
+  - title: Our history and our missions
     target: "/en/lassociation/our-history-and-our-missions/"
     kind: page
     new_tab: false
@@ -36,11 +36,25 @@ items:
     file: content/en/pages/lassociation/join-reseau-excellence/_index.html
   path: "/pages/lassociation"
   file: content/en/pages/lassociation/_index.html
-- title: The EPV label
+- title: Our EPVs
   target: "/en/our-epvs/"
   kind: page
   new_tab: false
   children:
+  - title: EPV portraits
+    target: "/en/our-epvs/epv-portraits/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/our-epvs/epv-portraits"
+    file: content/en/pages/our-epvs/epv-portraits/_index.html
+  - title: Outstanding projects
+    target: "/en/our-epvs/outstanding-projects/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/our-epvs/outstanding-projects"
+    file: content/en/pages/our-epvs/outstanding-projects/_index.html
   - title: Directory of EPV members
     target: "/en/our-epvs/directory-of-epv-members/"
     kind: page
@@ -50,11 +64,32 @@ items:
     file: content/en/pages/our-epvs/directory-of-epv-members/_index.html
   path: "/pages/our-epvs"
   file: content/en/pages/our-epvs/_index.html
-- title: Actions and commitments
+- title: Our actions
   target: "/en/our-actions/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: CSR & Training
+    target: "/en/our-actions/csr-training/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/our-actions/csr-training"
+    file: content/en/pages/our-actions/csr-training/_index.html
+  - title: Réseau Excellence Contract
+    target: "/en/our-actions/reseau-excellence-contract/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/our-actions/reseau-excellence-contract"
+    file: content/en/pages/our-actions/reseau-excellence-contract/_index.html
+  - title: Communications
+    target: "/en/our-actions/communications/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/our-actions/communications"
+    file: content/en/pages/our-actions/communications/_index.html
   path: "/pages/our-actions"
   file: content/en/pages/our-actions/_index.html
 - title: News
