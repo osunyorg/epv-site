@@ -7,12 +7,12 @@ items:
   new_tab: false
   children:
   - title: Our missions
-    target: "/en/lassociation/our-missions/"
+    target: "/en/lassociation/our-history-and-our-missions/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/lassociation/our-missions"
-    file: content/en/pages/lassociation/our-missions/_index.html
+    path: "/pages/lassociation/our-history-and-our-missions"
+    file: content/en/pages/lassociation/our-history-and-our-missions/_index.html
   - title: Our organisation
     target: "/en/lassociation/our-organisation/"
     kind: page
@@ -37,33 +37,33 @@ items:
   path: "/pages/lassociation"
   file: content/en/pages/lassociation/_index.html
 - title: The EPV label
-  target: "/en/the-epv-label/"
+  target: "/en/our-epvs/"
   kind: page
   new_tab: false
   children:
   - title: Presentation of the label
-    target: "/en/the-epv-label/presentation-of-the-label/"
+    target: "/en/our-epvs/presentation-of-the-label/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-epv-label/presentation-of-the-label"
-    file: content/en/pages/the-epv-label/presentation-of-the-label/_index.html
+    path: "/pages/our-epvs/presentation-of-the-label"
+    file: content/en/pages/our-epvs/presentation-of-the-label/_index.html
   - title: Apply for the label
-    target: "/en/the-epv-label/apply-for-the-label/"
+    target: "/en/our-epvs/apply-for-the-label/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-epv-label/apply-for-the-label"
-    file: content/en/pages/the-epv-label/apply-for-the-label/_index.html
+    path: "/pages/our-epvs/apply-for-the-label"
+    file: content/en/pages/our-epvs/apply-for-the-label/_index.html
   - title: Directory of EPV members
-    target: "/en/the-epv-label/directory-of-epv-members/"
+    target: "/en/our-epvs/directory-of-epv-members/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-epv-label/directory-of-epv-members"
-    file: content/en/pages/the-epv-label/directory-of-epv-members/_index.html
-  path: "/pages/the-epv-label"
-  file: content/en/pages/the-epv-label/_index.html
+    path: "/pages/our-epvs/directory-of-epv-members"
+    file: content/en/pages/our-epvs/directory-of-epv-members/_index.html
+  path: "/pages/our-epvs"
+  file: content/en/pages/our-epvs/_index.html
 - title: Actions and commitments
   target: "/en/actions-and-commitments/"
   kind: page

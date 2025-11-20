@@ -7,12 +7,12 @@ items:
   new_tab: false
   children:
   - title: Nos missions
-    target: "/fr/lassociation/nos-missions/"
+    target: "/fr/lassociation/notre-histoire-et-nos-missions/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/lassociation/nos-missions"
-    file: content/fr/pages/lassociation/nos-missions/_index.html
+    path: "/pages/lassociation/notre-histoire-et-nos-missions"
+    file: content/fr/pages/lassociation/notre-histoire-et-nos-missions/_index.html
   - title: Notre organisation
     target: "/fr/lassociation/notre-organisation/"
     kind: page
@@ -37,33 +37,33 @@ items:
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Le label EPV
-  target: "/fr/le-label-epv/"
+  target: "/fr/nos-epv/"
   kind: page
   new_tab: false
   children:
   - title: Présentation du label
-    target: "/fr/le-label-epv/presentation-du-label/"
+    target: "/fr/nos-epv/presentation-du-label/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/le-label-epv/presentation-du-label"
-    file: content/fr/pages/le-label-epv/presentation-du-label/_index.html
+    path: "/pages/nos-epv/presentation-du-label"
+    file: content/fr/pages/nos-epv/presentation-du-label/_index.html
   - title: Candidater au label
-    target: "/fr/le-label-epv/candidater-au-label/"
+    target: "/fr/nos-epv/candidater-au-label/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/le-label-epv/candidater-au-label"
-    file: content/fr/pages/le-label-epv/candidater-au-label/_index.html
+    path: "/pages/nos-epv/candidater-au-label"
+    file: content/fr/pages/nos-epv/candidater-au-label/_index.html
   - title: Annuaire des EPV adhérentes
-    target: "/fr/le-label-epv/annuaire-des-epv-adherentes/"
+    target: "/fr/nos-epv/annuaire-des-epv-adherentes/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/le-label-epv/annuaire-des-epv-adherentes"
-    file: content/fr/pages/le-label-epv/annuaire-des-epv-adherentes/_index.html
-  path: "/pages/le-label-epv"
-  file: content/fr/pages/le-label-epv/_index.html
+    path: "/pages/nos-epv/annuaire-des-epv-adherentes"
+    file: content/fr/pages/nos-epv/annuaire-des-epv-adherentes/_index.html
+  path: "/pages/nos-epv"
+  file: content/fr/pages/nos-epv/_index.html
 - title: Actions et engagements
   target: "/fr/actions-et-engagements/"
   kind: page
