@@ -15,3 +15,7 @@ outputs:
   - rss
 params:
   plausible: reseauexcellence.fr
+  categories:
+    single:
+      taxonomies:
+        display: true
