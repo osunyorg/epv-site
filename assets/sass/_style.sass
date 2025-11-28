@@ -26,3 +26,11 @@
     display: flex
     align-items: baseline
     justify-content: space-between
+    gap: var(--grid-gutter)
+    .taxonomies-list--dropdown
+        margin-top: 0
+        margin-bottom: 0
+    @include media-breakpoint-down(desktop)
+        flex-direction: column
+        .taxonomies-list--dropdown
+            width: 100%
