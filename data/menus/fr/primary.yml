@@ -56,8 +56,8 @@ items:
     path: "/pages/nos-epv/projets-dexception"
     file: content/fr/pages/nos-epv/projets-dexception/_index.html
   - title: Annuaire des EPV adhérentes
-    target: "/fr/nos-epv/annuaire-des-epv-adherentes/"
-    kind: page
+    target: "/fr/organisations/categories/type-dorganisation/entreprise-du-patrimoine-vivant/"
+    kind: url
     new_tab: false
     children: []
     path: "/pages/nos-epv/annuaire-des-epv-adherentes"
