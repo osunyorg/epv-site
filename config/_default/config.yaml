@@ -17,7 +17,3 @@ pagination:
   pagerSize: 72
 params:
   plausible: reseauexcellence.fr
-  categories:
-    single:
-      taxonomies:
-        display: true
