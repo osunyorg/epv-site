@@ -55,13 +55,6 @@ items:
     children: []
     path: "/pages/nos-epv/projets-dexception"
     file: content/fr/pages/nos-epv/projets-dexception/_index.html
-  - title: Annuaire des EPV adhérentes
-    target: "/fr/nos-epv/annuaire-des-epv-adherentes/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/nos-epv/annuaire-des-epv-adherentes"
-    file: content/fr/pages/nos-epv/annuaire-des-epv-adherentes/_index.html
   path: "/pages/nos-epv"
   file: content/fr/pages/nos-epv/_index.html
 - title: Nos actions
