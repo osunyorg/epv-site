@@ -15,6 +15,8 @@ outputs:
   section:
   - html
   - rss
+pagination:
+  pagerSize: 72
 params:
   plausible: reseauexcellence.fr
   categories:
