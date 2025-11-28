@@ -1,4 +1,4 @@
-// Paginated Map for organizations section
+// Paginated Map for organizations section and organizations_categories
 .organizations__section
     main#main
         padding-bottom: 0
@@ -12,3 +12,8 @@
     @media (max-width: $grid-max-width)
         .block-organizations
             margin-bottom: 0
+    @media (min-width: $grid-max-width)
+        .block-organizations
+            .map
+                margin-left: 0 !important
+                margin-right: 0 !important

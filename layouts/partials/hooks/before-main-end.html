@@ -1,4 +1,7 @@
-{{ if and (eq .Type "organizations") (eq .Kind "section") }}
+{{ $is_organizations_section := and (eq .Type "organizations") (eq .Kind "section") }}
+{{ $is_organizations_category := and (eq .Type "organizations_categories") (eq .Kind "term") }}
+
+{{ if or $is_organizations_section $is_organizations_category }}
   {{ $organizations := partial "GetPathSliceFromObjects" .Paginator.Pages }}
   <div class="block block-organizations block-organizations--map">
     <div class="organizations-map container">

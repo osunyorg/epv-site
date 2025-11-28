@@ -26,4 +26,8 @@
   {{ $is_interactive_map_present = true }}
 {{ end }}
 
+{{ if and (eq .Kind "term") (eq .Type "organizations_categories") }}
+  {{ $is_interactive_map_present = true }}
+{{ end }}
+
 {{ return $is_interactive_map_present }}
