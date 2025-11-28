@@ -1,6 +1,4 @@
-theme: 
-  - osuny
-  - epv-hugo-theme
+theme: epv-hugo-theme
 _merge: deep
 outputFormats:
   pagedjs:
