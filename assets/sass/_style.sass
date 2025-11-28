@@ -18,3 +18,11 @@
             .map
                 margin-left: 0 !important
                 margin-right: 0 !important
+
+#search-button-taxonomies
+    @include link
+
+.section-taxonomies-container:has(#search-button-taxonomies)
+    display: flex
+    align-items: baseline
+    justify-content: space-between
