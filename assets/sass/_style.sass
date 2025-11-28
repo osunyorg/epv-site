@@ -1,0 +1,14 @@
+// Paginated Map for organizations section
+.organizations__section
+    main#main
+        padding-bottom: 0
+    .transcription
+        display: none !important
+    @include media-breakpoint-down(desktop)
+        .block-organizations
+            .container
+                padding-left: 0
+                padding-right: 0
+    @media (max-width: $grid-max-width)
+        .block-organizations
+            margin-bottom: 0

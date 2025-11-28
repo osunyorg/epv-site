@@ -1,0 +1,14 @@
+{{ if and (eq .Type "organizations") (eq .Kind "section") }}
+  {{ $organizations := partial "GetPathSliceFromObjects" .Paginator.Pages }}
+  <div class="block block-organizations block-organizations--map">
+    <div class="organizations-map container">
+      {{ partial "organizations/partials/layouts/map/map.html" (dict
+        "block_index" 1
+        "heading_level" 2
+        "title" ""
+        "logo_index" 1
+        "organizations" $organizations
+      ) }}
+    </div>
+  </div>
+{{ end }}
