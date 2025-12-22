@@ -16,4 +16,6 @@ outputs:
 pagination:
   pagerSize: 72
 params:
+  debug:
+    productionUrl: https://www.reseauexcellence.fr
   plausible: reseauexcellence.fr
