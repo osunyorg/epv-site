@@ -10,7 +10,7 @@ bodyclass: >-
 url: "/fr/agenda/"
 slug: "agenda"
 date: 2024-03-18T17:38:55+01:00
-lastmod: 2026-01-08T15:54:05+01:00
+lastmod: 2026-01-08T16:28:23+01:00
 meta:
   hugo:
     permalink: "/fr/agenda/"
@@ -19,7 +19,7 @@ meta:
     slug: "agenda"
   dates:
     created_at: 2024-01-09T12:42:04+01:00
-    updated_at: 2026-01-08T15:54:05+01:00
+    updated_at: 2026-01-08T16:28:23+01:00
     published_at: 2024-03-18T17:38:55+01:00
 search:
   id: "75f9674f-4815-4fb2-a29b-d4c98288d11f"
@@ -32,7 +32,7 @@ search:
   summary: >-
     <p>En régions, en France ou à l'international, retrouvez ici les dates de nos prochains événements à ne pas manquer.</p>
   body: >-
-    <p>Les prochains appels à candidature </p>  <p>Il n'y a pas d'appels à projet ou candidature pour le moment</p>
+    <p>Les prochains appels à candidature ou projet  <br> Les prochains appels à candidature </p>  <p>Il n'y a pas d'appels à projet ou candidature pour le moment</p>  <p> Notre agenda  </p>
 
 breadcrumbs:
   - title: >-
@@ -44,7 +44,7 @@ breadcrumbs:
 design:
   full_width: true
   toc:
-    present: false
+    present: true
     offcanvas: true
 
 next_months:
@@ -560,7 +560,7 @@ section_taxonomies:
         file: "content/fr/events_categories/toutes-regions/_index.html"
         name: >-
           Toutes régions
-        count: 23
+        count: 22
       - permalink: "/fr/agenda/contract/"
         path: "/events_categories/contract"
         slug: "contract"
@@ -585,10 +585,29 @@ section_taxonomies:
 
 
 contents_reading_time:
-  seconds: 4
+  seconds: 6
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: title
+    title: >-
+      Les prochains appels à candidature ou projet
+    slug: >-
+      les-prochains-appels-a-candidature-ou-projet
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Les prochains appels à candidature ou projet
+        heading: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: agenda
     title: >-
@@ -596,15 +615,15 @@ contents:
     slug: >-
       les-prochains-appels-a-candidature
     ranks:
-      base: 2
-      self: 2
-      children: 3
+      base: 3
+      self: 3
+      children: 4
     top:
       active: true
       title: 
         value: >-
           Les prochains appels à candidature
-        heading: 2
+        heading: 3
         link: "/fr/agenda/appel-a-candidature-et-projet/"
     data:
       mode: category
@@ -660,6 +679,25 @@ contents:
             Appel à Candidature - Mission économique française dans le Dongbei (Nord-Est de la Chine)
 
       quantity: 4
+
+  - kind: block
+    template: title
+    title: >-
+      Notre agenda
+    slug: >-
+      notre-agenda
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Notre agenda
+        heading: 2
+    data:
+      layout: classic
+
 
 
 ---
