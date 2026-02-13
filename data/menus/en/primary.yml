@@ -2,101 +2,138 @@
 title: Main menu
 items:
 - title: The association
+  slug: the-association
   target: "/en/lassociation/"
   kind: page
   new_tab: false
   children:
   - title: Our history and our missions
+    slug: our-history-and-our-missions
     target: "/en/lassociation/our-history-and-our-missions/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/our-history-and-our-missions"
     file: content/en/pages/lassociation/our-history-and-our-missions/_index.html
   - title: Our organisation
+    slug: our-organisation
     target: "/en/lassociation/our-organisation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/our-organisation"
     file: content/en/pages/lassociation/our-organisation/_index.html
   - title: Réseau Excellence in France
+    slug: reseau-excellence-in-france
     target: "/en/lassociation/reseau-excellence-in-france/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/reseau-excellence-in-france"
     file: content/en/pages/lassociation/reseau-excellence-in-france/_index.html
   - title: Join Réseau Excellence
+    slug: join-reseau-excellence
     target: "/en/lassociation/join-reseau-excellence/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/join-reseau-excellence"
     file: content/en/pages/lassociation/join-reseau-excellence/_index.html
+  descendants_targets:
+  - "/en/lassociation/join-reseau-excellence/"
+  - "/en/lassociation/our-history-and-our-missions/"
+  - "/en/lassociation/our-organisation/"
+  - "/en/lassociation/reseau-excellence-in-france/"
   path: "/pages/lassociation"
   file: content/en/pages/lassociation/_index.html
 - title: Our EPVs
+  slug: our-epvs
   target: "/en/our-epvs/"
   kind: page
   new_tab: false
   children:
   - title: EPV portraits
+    slug: epv-portraits
     target: "/en/our-epvs/epv-portraits/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-epvs/epv-portraits"
     file: content/en/pages/our-epvs/epv-portraits/_index.html
   - title: Outstanding projects
+    slug: outstanding-projects
     target: "/en/our-epvs/outstanding-projects/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-epvs/outstanding-projects"
     file: content/en/pages/our-epvs/outstanding-projects/_index.html
+  descendants_targets:
+  - "/en/our-epvs/epv-portraits/"
+  - "/en/our-epvs/outstanding-projects/"
   path: "/pages/our-epvs"
   file: content/en/pages/our-epvs/_index.html
 - title: Our actions
+  slug: our-actions
   target: "/en/our-actions/"
   kind: page
   new_tab: false
   children:
   - title: CSR & Training
+    slug: csr-training
     target: "/en/our-actions/csr-training/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-actions/csr-training"
     file: content/en/pages/our-actions/csr-training/_index.html
   - title: Réseau Excellence Contract
+    slug: reseau-excellence-contract
     target: "/en/our-actions/reseau-excellence-contract/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-actions/reseau-excellence-contract"
     file: content/en/pages/our-actions/reseau-excellence-contract/_index.html
   - title: Communications
+    slug: communications
     target: "/en/our-actions/communications/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-actions/communications"
     file: content/en/pages/our-actions/communications/_index.html
+  descendants_targets:
+  - "/en/our-actions/communications/"
+  - "/en/our-actions/csr-training/"
+  - "/en/our-actions/reseau-excellence-contract/"
   path: "/pages/our-actions"
   file: content/en/pages/our-actions/_index.html
 - title: News
+  slug: news
   target: "/en/news/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/en/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/en/events/_index.html
 

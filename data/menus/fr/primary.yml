@@ -2,106 +2,146 @@
 title: Menu principal
 items:
 - title: L'association
+  slug: l-association
   target: "/fr/lassociation/"
   kind: page
   new_tab: false
   children:
   - title: Notre histoire et nos missions
+    slug: notre-histoire-et-nos-missions
     target: "/fr/lassociation/notre-histoire-et-nos-missions/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/notre-histoire-et-nos-missions"
     file: content/fr/pages/lassociation/notre-histoire-et-nos-missions/_index.html
   - title: Notre organisation
+    slug: notre-organisation
     target: "/fr/lassociation/notre-organisation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/notre-organisation"
     file: content/fr/pages/lassociation/notre-organisation/_index.html
   - title: Le Réseau Excellence en France
+    slug: le-reseau-excellence-en-france
     target: "/fr/lassociation/reseau-excellence-en-france/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/reseau-excellence-en-france"
     file: content/fr/pages/lassociation/reseau-excellence-en-france/_index.html
   - title: Adhérer au Réseau Excellence
+    slug: adherer-au-reseau-excellence
     target: "/fr/lassociation/adherer-au-reseau-excellence/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/adherer-au-reseau-excellence"
     file: content/fr/pages/lassociation/adherer-au-reseau-excellence/_index.html
+  descendants_targets:
+  - "/fr/lassociation/adherer-au-reseau-excellence/"
+  - "/fr/lassociation/notre-histoire-et-nos-missions/"
+  - "/fr/lassociation/notre-organisation/"
+  - "/fr/lassociation/reseau-excellence-en-france/"
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Nos EPV
+  slug: nos-epv
   target: "/fr/nos-epv/"
   kind: page
   new_tab: false
   children:
   - title: Portraits d'EPV
+    slug: portraits-d-epv
     target: "/fr/nos-epv/portraits-depv/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-epv/portraits-depv"
     file: content/fr/pages/nos-epv/portraits-depv/_index.html
   - title: Projets d'exception
+    slug: projets-d-exception
     target: "/fr/nos-epv/projets-dexception/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-epv/projets-dexception"
     file: content/fr/pages/nos-epv/projets-dexception/_index.html
   - title: Annuaire des EPV adhérentes
+    slug: annuaire-des-epv-adherentes
     target: "/fr/organisations/categories/type-dorganisation/entreprise-du-patrimoine-vivant/"
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
+  descendants_targets:
+  - "/fr/nos-epv/portraits-depv/"
+  - "/fr/nos-epv/projets-dexception/"
+  - "/fr/organisations/categories/type-dorganisation/entreprise-du-patrimoine-vivant/"
   path: "/pages/nos-epv"
   file: content/fr/pages/nos-epv/_index.html
 - title: Nos actions
+  slug: nos-actions
   target: "/fr/nos-actions/"
   kind: page
   new_tab: false
   children:
   - title: RSE & Formation
+    slug: rse-formation
     target: "/fr/nos-actions/rse-formation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-actions/rse-formation"
     file: content/fr/pages/nos-actions/rse-formation/_index.html
   - title: Réseau Excellence Contract
+    slug: reseau-excellence-contract
     target: "/fr/nos-actions/reseau-excellence-contract/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-actions/reseau-excellence-contract"
     file: content/fr/pages/nos-actions/reseau-excellence-contract/_index.html
   - title: Communication
+    slug: communication
     target: "/fr/nos-actions/communication/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-actions/communication"
     file: content/fr/pages/nos-actions/communication/_index.html
+  descendants_targets:
+  - "/fr/nos-actions/communication/"
+  - "/fr/nos-actions/reseau-excellence-contract/"
+  - "/fr/nos-actions/rse-formation/"
   path: "/pages/nos-actions"
   file: content/fr/pages/nos-actions/_index.html
 - title: Actualités
+  slug: actualites
   target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/fr/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 
