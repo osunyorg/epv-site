@@ -7,6 +7,11 @@ osuny:
   website:
     id: d1771d16-5c9c-485d-a9d1-dc154638d0b5
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "reseauexcellence.fr"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
