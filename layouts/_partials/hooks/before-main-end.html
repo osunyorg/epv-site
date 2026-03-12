@@ -2,7 +2,7 @@
 {{ $is_organizations_category := and (eq .Type "organizations_categories") (eq .Kind "term") }}
 
 {{ if or $is_organizations_section $is_organizations_category }}
-  {{ $organizations := partial "GetPathSliceFromObjects" .Paginator.Pages }}
+  {{ $organizations := partial "helpers/objects/GetPathSlice" .Paginator.Pages }}
   <div class="block block-organizations block-organizations--map">
     <div class="organizations-map container">
       {{ partial "organizations/partials/layouts/map/map.html" (dict
