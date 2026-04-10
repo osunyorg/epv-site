@@ -76,17 +76,15 @@ items:
     file: content/en/pages/our-epvs/outstanding-projects/_index.html
   - title: Directory of EPV members
     slug: directory-of-epv-members
-    target: "/organizations/categories/organizations-type/entreprises-du-patrimoine-vivant/"
+    target: "/en/organizations/categories/organizations-type/entreprises-du-patrimoine-vivant/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/our-epvs/directory-of-epv-members"
-    file: content/en/pages/our-epvs/directory-of-epv-members/_index.html
   descendants_targets:
+  - "/en/organizations/categories/organizations-type/entreprises-du-patrimoine-vivant/"
   - "/en/our-epvs/epv-portraits/"
   - "/en/our-epvs/outstanding-projects/"
-  - "/organizations/categories/organizations-type/entreprises-du-patrimoine-vivant/"
   path: "/pages/our-epvs"
   file: content/en/pages/our-epvs/_index.html
 - title: Our actions
