@@ -76,7 +76,7 @@ items:
     file: content/fr/pages/nos-epv/projets-dexception/_index.html
   - title: Annuaire des EPV adhérentes
     slug: annuaire-des-epv-adherentes
-    target: "/fr/organisations/categories/type-dorganisation/entreprise-du-patrimoine-vivant/"
+    target: "/fr/organisations/categories/type-dorganisation/entreprises-du-patrimoine-vivant/"
     kind: url
     new_tab: false
     children: []
@@ -84,7 +84,7 @@ items:
   descendants_targets:
   - "/fr/nos-epv/portraits-depv/"
   - "/fr/nos-epv/projets-dexception/"
-  - "/fr/organisations/categories/type-dorganisation/entreprise-du-patrimoine-vivant/"
+  - "/fr/organisations/categories/type-dorganisation/entreprises-du-patrimoine-vivant/"
   path: "/pages/nos-epv"
   file: content/fr/pages/nos-epv/_index.html
 - title: Nos actions
