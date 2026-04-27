@@ -13,3 +13,4728 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
+
+[[redirects]]
+from = "/fr/organisations/serres-et-ferronneries-dantan/index.html"
+to = "/fr/organisations/serres-et-ferronneries-d-antan/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/doreur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/doreur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/escalieteur/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/escalieteur/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-nouvelle-aquitaine/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/tonnellerie-du-pays-dauge/index.html"
+to = "/fr/organisations/tonnellerie-du-pays-d-auge/"
+
+[[redirects]]
+from = "/fr/notre-organisation/ets-roze/index.html"
+to = "/fr/organisations/ets-roze/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-bourgogne-franche-comte/index.html"
+to = "/fr/organisations/categories/regions/epv-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/arthema/index.html"
+to = "/fr/organisations/arthema/"
+
+[[redirects]]
+from = "/fr/annuaire/ravier-riccoboni/index.html"
+to = "/fr/organisations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-bretagne/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/bretagne/"
+
+[[redirects]]
+from = "/fr/actualites/2024-10-22-maison-grevet-visite-inter-entreprises-epv-pays-de-la-loire/index.html"
+to = "/fr/actualites/2024-10-22-maison-grevet-visite-inter-entreprises-epv/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-ameublement-et-decoration/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-hauts-de-france/index.html"
+to = "/fr/equipe/categories/administrateurs-re-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/facteur-etou-restaurateur-dorgues/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-dorgues/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-gastronomie/index.html"
+to = "/fr/organisations/categories/domaines/gastronomie-1/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/arthema/index.html"
+to = "/fr/organisations/arthema/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/cofrex/index.html"
+to = "/fr/organisations/cofrex/"
+
+[[redirects]]
+from = "/fr/agenda/2024-04-11-matinale/index.html"
+to = "/fr/agenda/2024/matinale/"
+
+[[redirects]]
+from = "/en/lassociation/our-missions/index.html"
+to = "/en/lassociation/our-history-and-our-missions/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-coralie-barbe/index.html"
+to = "/en/organizations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/fr/agenda/2025/reseau-excellence-contract-au-mobolier-national/index.html"
+to = "/fr/agenda/2025/reseau-excellence-contract-au-mobilier-national/"
+
+[[redirects]]
+from = "/fr/notre-organisation/nortier-emballages/index.html"
+to = "/fr/organisations/nortier-emballages/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/graveur-et-imprimeur-en-gaufrage/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/graveur-et-imprimeur-en-gaufrage/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/staffeur-stucateur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/staffeur-stucateur/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-bretagne/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-facture-instrumentale/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/"
+
+[[redirects]]
+from = "/fr/annuaire/andree-jardin-brosserie-julio/index.html"
+to = "/fr/organisations/andree-jardin-brosserie-julio/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-provence-alpes-cote-d-azur/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/provence-alpes-cote-d-azur/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/le-papier-darmenie/index.html"
+to = "/fr/organisations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-promethee/index.html"
+to = "/fr/organisations/atelier-promethee/"
+
+[[redirects]]
+from = "/fr/annuaire/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/fr/organisations/reseau-excellence-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/fonderie-dart-macheret/index.html"
+to = "/en/organizations/fonderie-d-art-macheret/"
+
+[[redirects]]
+from = "/fr/notre-organisation/maison-gatti/index.html"
+to = "/fr/organisations/maison-gatti/"
+
+[[redirects]]
+from = "/en/our-organization/maison-fey/index.html"
+to = "/en/organizations/maison-fey/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-textile/brodeur/index.html"
+to = "/fr/organisations/categories/domaines/textile/brodeur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/doreur-1/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/doreur-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/"
+
+[[redirects]]
+from = "/fr/annuaire/le-papier-darmenie/index.html"
+to = "/fr/organisations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/organisations/molinelli-metallerie-dart/index.html"
+to = "/fr/organisations/molinelli-metallerie-d-art/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-centre-val-de-loire/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/posts/news-from-brittany/index.html"
+to = "/en/news/news-from-brittany/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/farines-alimentaires/index.html"
+to = "/fr/organisations/categories/produits/alimentation/farines-alimentaires/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/tourneur-sur-bois/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/tourneur-sur-bois/"
+
+[[redirects]]
+from = "/fr/organisations/ressources-marchand-de-couleur/index.html"
+to = "/fr/organisations/ressource-marchand-de-couleur/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-bourgogne-franche-comte/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/arthema/index.html"
+to = "/fr/organisations/arthema/"
+
+[[redirects]]
+from = "/fr/notre-organisation/atelier-thiery/index.html"
+to = "/fr/organisations/atelier-thiery/"
+
+[[redirects]]
+from = "/fr/organisations/poterie-dalbi/index.html"
+to = "/fr/organisations/poterie-d-albi/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/maison-fey/index.html"
+to = "/fr/organisations/maison-fey/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-coralie-barbe/index.html"
+to = "/fr/organisations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ceramique/sculpteur-sur-terre/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/sculpteur-sur-terre/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-du-bracelet-parisien/index.html"
+to = "/fr/organisations/atelier-du-bracelet-parisien/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-du-bracelet-parisien/index.html"
+to = "/en/organizations/atelier-du-bracelet-parisien/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-hauts-de-france/index.html"
+to = "/en/team/categories/administrateurs-re-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/chantier-des-ileaux/index.html"
+to = "/fr/organisations/chantier-des-ileaux/"
+
+[[redirects]]
+from = "/fr/organisations/categories/luminaire/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/restauration/index.html"
+to = "/fr/organisations/categories/domaines/restauration/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/tous-les-moteurs/index.html"
+to = "/en/organizations/tous-les-moteurs/"
+
+[[redirects]]
+from = "/fr/portraits-depv/index.html"
+to = "/fr/nos-epv/portraits-depv/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-normandie/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/normandie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/ateliers-perrault-freres/index.html"
+to = "/fr/organisations/ateliers-perrault-freres/"
+
+[[redirects]]
+from = "/en/organizations/les-delices-dalienor-croustadoc/index.html"
+to = "/en/organizations/les-delices-d-alienor-croustad-oc/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/produits-laitiers/index.html"
+to = "/fr/organisations/categories/produits/alimentation/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/peintures/index.html"
+to = "/fr/organisations/categories/domaines/restauration/peintures/"
+
+[[redirects]]
+from = "/fr/organisations/epv-aura/index.html"
+to = "/fr/organisations/categories/regions/epv-aura/"
+
+[[redirects]]
+from = "/en/organizations/epv-aura/index.html"
+to = "/en/organizations/categories/regions/epv-aura/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/graveur-et-imprimeur-en-gaufrage/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/graveur-et-imprimeur-en-gaufrage/"
+
+[[redirects]]
+from = "/en/organizations/le-papier-darmenie/index.html"
+to = "/en/organizations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/atelier-tourtoulou/index.html"
+to = "/fr/organisations/atelier-tourtoulou/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-mode-et-accessoires/modiste/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/modiste/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/gauthier-cie/index.html"
+to = "/fr/organisations/gauthier-cie/"
+
+[[redirects]]
+from = "/fr/lassociation/adherer-au-reseau-excellence-1/index.html"
+to = "/fr/lassociation/adherer-au-reseau-excellence/"
+
+[[redirects]]
+from = "/en/news/2024-12-10-nouvelle-vitrine-des-excellences-a-la-gare-des-benedictins-a-limoges/index.html"
+to = "/en/news/2024-12-10-new-vitrine-des-excellences-at-gare-des-benedictins-in-limoges/"
+
+[[redirects]]
+from = "/en/grow/index.html"
+to = "/en/actions-and-commitments/grow/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/digital-packaging/index.html"
+to = "/en/organizations/digital-packaging/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier-en-metaux-precieux/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier-en-metaux-precieux/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-6/verrier-a-la-main/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-a-la-main/"
+
+[[redirects]]
+from = "/fr/equipe/communication-epv-pdl/index.html"
+to = "/fr/equipe/reseau-excellence-pays-de-la-loire-communication/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/maison-gatti/index.html"
+to = "/fr/organisations/maison-gatti/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/atelier-thiery/index.html"
+to = "/en/organizations/atelier-thiery/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/concept-ebenist/index.html"
+to = "/fr/organisations/concept-ebenist/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-paca/index.html"
+to = "/en/organizations/categories/regions/epv-paca/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/vannier/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/vannier/"
+
+[[redirects]]
+from = "/fr/actualites/2025-07-24-ceremonie-de-remise-des-diplomes-et-exposition-photos/index.html"
+to = "/fr/actualites/2025-05-20-ceremonie-de-remise-des-diplomes-et-exposition-photos/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/ateliers-perrault-freres/index.html"
+to = "/en/organizations/ateliers-perrault-freres/"
+
+[[redirects]]
+from = "/en/our-organization/atelier-fey/index.html"
+to = "/en/organizations/atelier-fey/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/nortier-emballages/index.html"
+to = "/fr/organisations/nortier-emballages/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/atelier-patrice-bricout/index.html"
+to = "/fr/organisations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-du-bracelet-parisien/index.html"
+to = "/fr/organisations/atelier-du-bracelet-parisien/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/bodet-campanaire/index.html"
+to = "/fr/organisations/bodet-campanaire/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/stuk-sarl/index.html"
+to = "/fr/organisations/stuk-sarl/"
+
+[[redirects]]
+from = "/en/our-organization/fonderie-sylvain-compagnon/index.html"
+to = "/en/organizations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/tailleur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/tailleur/"
+
+[[redirects]]
+from = "/en/organizations/atelier-des-quatre-colliens/index.html"
+to = "/en/organizations/atelier-des-quatre-collines/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/de-lor-dans-les-mains/index.html"
+to = "/fr/organisations/de-l-or-dans-les-mains/"
+
+[[redirects]]
+from = "/fr/annuaire/cruard-charpente/index.html"
+to = "/fr/organisations/cruard-charpente/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-textile/index.html"
+to = "/fr/organisations/categories/domaines/textile/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/cartonnier/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/cartonnier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/phelippeau-tapissier/index.html"
+to = "/en/organizations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-restauration/index.html"
+to = "/fr/organisations/categories/domaines/restauration/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/atelier-fey/index.html"
+to = "/fr/organisations/atelier-fey/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/etablissement-martinenq/index.html"
+to = "/fr/organisations/etablissement-martinenq/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-centre-val-de-loire/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/our-organization/ravier-riccoboni/index.html"
+to = "/en/organizations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/en/agenda/2024-03-19-visit-to-gravor/index.html"
+to = "/en/agenda/2024/visit-to-gravor/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/marqueteur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/marqueteur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/ardoisier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/ardoisier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/papeterie/index.html"
+to = "/fr/organisations/categories/produits/papeterie-et-ecriture/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/ravier-riccoboni/index.html"
+to = "/fr/organisations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-grand-est/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/grand-est/"
+
+[[redirects]]
+from = "/en/organizations/categories/partenaires/index.html"
+to = "/en/organizations/categories/organizations-type/partenaires/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/peintre-sur-mobilier/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/peintre-sur-mobilier/"
+
+[[redirects]]
+from = "/fr/notre-organisation/ateliers-bernard-pictet/index.html"
+to = "/fr/organisations/ateliers-bernard-pictet/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/atelier-coralie-barbe/index.html"
+to = "/fr/organisations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/inma/index.html"
+to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/denis-et-fils/index.html"
+to = "/en/organizations/denis-et-fils/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/region-pays-de-la-loire/index.html"
+to = "/en/organizations/region-pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/reseau-excellence-ile-de-france/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/ile-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/cofrex/index.html"
+to = "/fr/organisations/cofrex/"
+
+[[redirects]]
+from = "/fr/organisations/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/fr/organisations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-ile-de-france/index.html"
+to = "/en/team/categories/administrateurs-re-ile-de-france/"
+
+[[redirects]]
+from = "/fr/actualites/news-from-provence-alpes-cote-dazur/index.html"
+to = "/fr/actualites/actualites-de-provence-alpes-cote-d-azur/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/business-france/index.html"
+to = "/fr/organisations/business-france/"
+
+[[redirects]]
+from = "/fr/annuaire/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/fr/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/en/organizations/epv-grand-est/index.html"
+to = "/en/organizations/categories/regions/epv-grand-est/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-normandie/index.html"
+to = "/en/organizations/categories/regions/epv-normandie/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atout-france/index.html"
+to = "/en/organizations/atout-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/parcheminier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/parcheminier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/conseillers-du-commerce-exterieurs/index.html"
+to = "/en/organizations/conseillers-du-commerce-exterieurs/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-du-meuble-contemporain/index.html"
+to = "/fr/organisations/atelier-du-meuble-contemporain/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/pole-des-metiers-dart/index.html"
+to = "/en/organizations/pole-des-metiers-d-art/"
+
+[[redirects]]
+from = "/en/foster/index.html"
+to = "/en/actions-and-commitments/foster/"
+
+[[redirects]]
+from = "/fr/actualites/news-from-centre-val-de-loire/index.html"
+to = "/fr/actualites/actualites-de-centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/delta-meca/index.html"
+to = "/fr/organisations/delta-meca/"
+
+[[redirects]]
+from = "/fr/annuaire/les-ateliers-de-la-chapelle/index.html"
+to = "/fr/organisations/les-ateliers-de-la-chapelle/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/index.html"
+to = "/fr/organisations/categories/domaines/restauration/"
+
+[[redirects]]
+from = "/en/the-epv-label/index.html"
+to = "/en/our-epvs/"
+
+[[redirects]]
+from = "/fr/annuaire/ateliers-bernard-pictet/index.html"
+to = "/fr/organisations/ateliers-bernard-pictet/"
+
+[[redirects]]
+from = "/fr/notre-organisation/atelier-patrice-bricout/index.html"
+to = "/fr/organisations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-occitanie/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/occitanie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-metal/bronzier/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/bronzier/"
+
+[[redirects]]
+from = "/en/our-organization/maison-gatti/index.html"
+to = "/en/organizations/maison-gatti/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/muzeo/index.html"
+to = "/en/organizations/muzeo/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/maroquinier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/maroquinier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/institut-pour-les-savoir-faire-francais/index.html"
+to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/fr/annuaire/tous-les-moteurs/index.html"
+to = "/fr/organisations/tous-les-moteurs/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-occitanie/index.html"
+to = "/en/organizations/categories/regions/epv-occitanie/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/ch-legrand-faconnage/index.html"
+to = "/en/organizations/ch-legrand-faconnage/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/carrafont/index.html"
+to = "/fr/organisations/carrafont/"
+
+[[redirects]]
+from = "/en/our-organization/carrafont/index.html"
+to = "/en/organizations/carrafont/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/bouin-gardon/index.html"
+to = "/en/organizations/bouin-gardon/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-grand-est/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ceramique/ceramique/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/ceramique/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/news/actualites-gastronomie/index.html"
+to = "/en/news/news-from-gastronomie/"
+
+[[redirects]]
+from = "/en/posts/news-from-bourgogne-franche-comte/index.html"
+to = "/en/news/news-from-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/annuaire/societe-nouvelle-cornu-emballeurs/index.html"
+to = "/fr/organisations/societe-nouvelle-cornu-emballeurs/"
+
+[[redirects]]
+from = "/en/organizations/pole-des-metiers-dart/index.html"
+to = "/en/organizations/pole-des-metiers-d-art/"
+
+[[redirects]]
+from = "/fr/organisations/epv-pays-de-la-loire/index.html"
+to = "/fr/organisations/categories/regions/epv-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/annuaire/bouin-gardon/index.html"
+to = "/fr/organisations/bouin-gardon/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-hauts-de-france/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/hauts-de-france/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-grand-est/index.html"
+to = "/en/team/categories/administrateurs-re-grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-16/restauration/index.html"
+to = "/fr/organisations/categories/domaines/restauration/"
+
+[[redirects]]
+from = "/en/our-organization/ets-roze/index.html"
+to = "/en/organizations/ets-roze/"
+
+[[redirects]]
+from = "/fr/notre-organisation/ateliers-perrault-freres/index.html"
+to = "/fr/organisations/ateliers-perrault-freres/"
+
+[[redirects]]
+from = "/fr/annuaire/nortier-emballages/index.html"
+to = "/fr/organisations/nortier-emballages/"
+
+[[redirects]]
+from = "/fr/notre-organisation/bronzes-de-france-bagues/index.html"
+to = "/fr/organisations/bronzes-de-france-bagues/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/fabriquant-de-compositions-et-decors-vegetaux-stables-et-durables/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/fabriquant-de-compositions-et-decors-vegetaux-stables-et-durables/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/business-france/index.html"
+to = "/fr/organisations/business-france/"
+
+[[redirects]]
+from = "/fr/organisations/poterie-danduze-les-enfants-de-boisset/index.html"
+to = "/fr/organisations/poterie-d-anduze-les-enfants-de-boisset/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-fey/index.html"
+to = "/fr/organisations/atelier-fey/"
+
+[[redirects]]
+from = "/en/news/2024-10-25-the-chair-fair-of-hagetmau-landes/index.html"
+to = "/en/news/2024-10-21-the-chair-fair-of-hagetmau-landes/"
+
+[[redirects]]
+from = "/fr/organisations/fonderie-dart-macheret/index.html"
+to = "/fr/organisations/fonderie-d-art-macheret/"
+
+[[redirects]]
+from = "/fr/actualites/2019-09-04-operation-prestige-bienvenue-a-bord-de-l-orient-express-lettre-du-cheminot/index.html"
+to = "/fr/actualites/2019-09-04-operation-prestige-bienvenue-a-bord-de-l-orient-express/"
+
+[[redirects]]
+from = "/fr/agenda/2025/assemblee-generale-reseau-excellence-nouvelle-aquitaine-et-remise-de-diplomes-a-la-residence-prefect/index.html"
+to = "/fr/agenda/2025/assemblee-generale-et-remise-de-diplomes/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/de-lor-dans-les-mains/index.html"
+to = "/en/organizations/de-l-or-dans-les-mains/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-ile-de-france/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/ile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/menuisier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/menuisier/"
+
+[[redirects]]
+from = "/en/our-organization/index.html"
+to = "/en/organizations/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/campus-versailles/index.html"
+to = "/fr/organisations/campus-versailles/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-tourtoulou/index.html"
+to = "/fr/organisations/atelier-tourtoulou/"
+
+[[redirects]]
+from = "/en/organizations/sca-oleicole-loulibo/index.html"
+to = "/en/organizations/sca-oleicole-l-oulibo/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/sculpteur-sur-pierre/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/sculpteur-sur-pierre/"
+
+[[redirects]]
+from = "/en/organizations/fonderie-dart-bocquel/index.html"
+to = "/en/organizations/fonderie-d-art-bocquel/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/moulins-de-versailles/index.html"
+to = "/fr/organisations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/origine-france-garantie/index.html"
+to = "/fr/organisations/origine-france-garantie/"
+
+[[redirects]]
+from = "/fr/organisations/epv-occitanie/index.html"
+to = "/fr/organisations/categories/regions/epv-occitanie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/architecture-et-jardin/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/maison-gatti/index.html"
+to = "/fr/organisations/maison-gatti/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-16/luminaire/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/orfevre/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/orfevre/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-metal/coutelier/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/coutelier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-metal/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-12-operation-prestige-bienvenue-a-bord-de-l-orient-express-lettre-du-cheminot/index.html"
+to = "/fr/actualites/2019-09-04-operation-prestige-bienvenue-a-bord-de-l-orient-express/"
+
+[[redirects]]
+from = "/en/our-organization/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/en/organizations/reseau-excellence-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/reseau-excellence-hauts-de-france/index.html"
+to = "/fr/organisations/reseau-excellence-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/pierrenoel/index.html"
+to = "/en/organizations/pierrenoel/"
+
+[[redirects]]
+from = "/en/posts/news-from-provence-alpes-cote-dazur/index.html"
+to = "/en/news/news-from-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/digital-packaging/index.html"
+to = "/fr/organisations/digital-packaging/"
+
+[[redirects]]
+from = "/fr/notre-organisation/gauthier-cie/index.html"
+to = "/fr/organisations/gauthier-cie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/sculpteur-sur-pierre/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/sculpteur-sur-pierre/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-textile/dentellier/index.html"
+to = "/fr/organisations/categories/domaines/textile/dentellier/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-26-franck-benito-le-savoir-faire-d-excellence-du-cristal-taille-main/index.html"
+to = "/fr/actualites/2023-06-04-franck-benito-le-savoir-faire-d-excellence-du-cristal-taille-main/"
+
+[[redirects]]
+from = "/en/agenda/2024-04-11-matinale/index.html"
+to = "/en/agenda/2024/matinale/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/couvreur-ornemaniste/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/couvreur-ornemaniste/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/bosabo-audouin/index.html"
+to = "/fr/organisations/bosabo-audouin/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-pays-de-la-loire/index.html"
+to = "/en/organizations/categories/regions/epv-pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/our-organisation/index.html"
+to = "/en/lassociation/our-organisation/"
+
+[[redirects]]
+from = "/en/projects/epv-occitanie/index.html"
+to = "/en/projects/epv-brittany/"
+
+[[redirects]]
+from = "/en/organizations/categories/mode-beaute/index.html"
+to = "/en/organizations/categories/univers/mode-beaute/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-aura/index.html"
+to = "/fr/equipe/categories/administrateurs-re-aura/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/chapelier/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/chapelier/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-aura/index.html"
+to = "/en/team/categories/administrateurs-re-aura/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/john-lobb/index.html"
+to = "/fr/organisations/john-lobb/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atad-ateliers-philippe-coudray/index.html"
+to = "/en/organizations/atad-ateliers-philippe-coudray/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-ile-de-france/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/ile-de-france/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/carrafont/index.html"
+to = "/en/organizations/carrafont/"
+
+[[redirects]]
+from = "/fr/actualites/2024-01-09-signature-de-la-convention-cofrex/index.html"
+to = "/fr/actualites/2024-01-09-osaka-2025-signature-d-une-convention-tripartite-de-partenariat/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/business-france/index.html"
+to = "/en/organizations/business-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-ile-de-france/index.html"
+to = "/fr/organisations/categories/regions/epv-ile-de-france/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/"
+
+[[redirects]]
+from = "/fr/notre-organisation/astier-de-villatte/index.html"
+to = "/fr/organisations/astier-de-villatte/"
+
+[[redirects]]
+from = "/en/epv-portraits/index.html"
+to = "/en/our-epvs/epv-portraits/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ceramique/potier-de-terre-cuite/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/potier-de-terre-cuite/"
+
+[[redirects]]
+from = "/fr/annuaire/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/fr/annuaire/gauthier-cie/index.html"
+to = "/fr/organisations/gauthier-cie/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/fonderie-sylvain-compagnon/index.html"
+to = "/fr/organisations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/en/organizations/equinox-49/index.html"
+to = "/en/organizations/equ-inox-49/"
+
+[[redirects]]
+from = "/en/our-organization/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/en/organizations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/de-lor-dans-les-mains/index.html"
+to = "/fr/organisations/de-l-or-dans-les-mains/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-patrice-bricout/index.html"
+to = "/fr/organisations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ceramique/peintre-sur-faience/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/peintre-sur-faience/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/ateliers-bernard-pictet/index.html"
+to = "/en/organizations/ateliers-bernard-pictet/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/la-maison-du-vitrail/index.html"
+to = "/fr/organisations/la-maison-du-vitrail/"
+
+[[redirects]]
+from = "/en/organizations/categories/association-regionales/index.html"
+to = "/en/organizations/categories/organizations-type/association-regionales/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/societe-dencouragement-pour-lindustrie-nationale/index.html"
+to = "/fr/organisations/societe-d-encouragement-pour-l-industrie-nationale/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-ile-de-france/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/ile-de-france/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-05-les-epv-sources-d-emplois-en-regions/index.html"
+to = "/fr/actualites/2022-09-30-les-epv-sources-d-emplois-en-regions/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/en/organizations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-textile/brodeur-sur-machine-guidee-main/index.html"
+to = "/fr/organisations/categories/domaines/textile/brodeur-sur-machine-guidee-main/"
+
+[[redirects]]
+from = "/en/team/yves-faure/index.html"
+to = "/en/team/thibault-gignoux/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-monier/index.html"
+to = "/fr/organisations/atelier-monier/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/"
+
+[[redirects]]
+from = "/fr/annuaire/de-lor-dans-les-mains/index.html"
+to = "/fr/organisations/de-l-or-dans-les-mains/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/atelier-auder-dornements/index.html"
+to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/societe-dencouragement-pour-lindustrie-nationale/index.html"
+to = "/en/organizations/societe-d-encouragement-pour-l-industrie-nationale/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/atelier-tourtoulou/index.html"
+to = "/fr/organisations/atelier-tourtoulou/"
+
+[[redirects]]
+from = "/fr/organisations/pole-des-metiers-dart/index.html"
+to = "/fr/organisations/pole-des-metiers-d-art/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/sculpteur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/sculpteur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/verrier-a-la-main/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-a-la-main/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-nouvelle-aquitaine/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-paca/index.html"
+to = "/fr/organisations/categories/regions/epv-paca/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/decotec-tuffe/index.html"
+to = "/en/organizations/decotec-tuffe/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-textile/index.html"
+to = "/fr/organisations/categories/domaines/textile/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-centre-val-de-loire/index.html"
+to = "/fr/organisations/categories/regions/epv-centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organisations/societe-dimpression-sur-etoffes-du-grand-lemps-siegl-hermes/index.html"
+to = "/fr/organisations/societe-d-impression-sur-etoffes-du-grand-lemps-s-i-e-g-l-hermes/"
+
+[[redirects]]
+from = "/en/organizations/categories/type-dorganisation/association-regionales/index.html"
+to = "/en/organizations/categories/organizations-type/association-regionales/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-thiery/index.html"
+to = "/fr/organisations/atelier-thiery/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-tabletterie/tabletier/index.html"
+to = "/fr/organisations/categories/domaines/tabletterie/tabletier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/bronzes-de-france-bagues/index.html"
+to = "/fr/organisations/bronzes-de-france-bagues/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/marqueteur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/marqueteur/"
+
+[[redirects]]
+from = "/fr/actualites/2023-06-28-rencontre-des-epv-d-ile-de-france-chez-remy-garnier-1/index.html"
+to = "/fr/actualites/2023-06-28-premiere-rencontre-des-epv-d-ile-de-france-au-campus-versailles/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/maison-gatti/index.html"
+to = "/en/organizations/maison-gatti/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-pays-de-la-loire/index.html"
+to = "/fr/equipe/categories/administrateurs-re-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/gauthier-cie/index.html"
+to = "/fr/organisations/gauthier-cie/"
+
+[[redirects]]
+from = "/fr/annuaire/ateliers-perrault-freres/index.html"
+to = "/fr/organisations/ateliers-perrault-freres/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-occitanie/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/occitanie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/pianos-balleron/index.html"
+to = "/fr/organisations/pianos-balleron/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/staffeur-stucateur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/staffeur-stucateur/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-provence-alpes-cote-d-azur/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/provence-alpes-cote-d-azur/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/astier-de-villatte/index.html"
+to = "/fr/organisations/astier-de-villatte/"
+
+[[redirects]]
+from = "/fr/le-label-epv/annuaire-des-epv-adherentes/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/en/our-organization/ch-legrand-faconnage/index.html"
+to = "/en/organizations/ch-legrand-faconnage/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/megissier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/megissier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/chantier-des-ileaux/index.html"
+to = "/fr/organisations/chantier-des-ileaux/"
+
+[[redirects]]
+from = "/fr/notre-organisation/atout-france/index.html"
+to = "/fr/organisations/atout-france/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-14-decouvrez-la-mission-d-export-pendant-l-exposition-universelle-de-dubai/index.html"
+to = "/fr/actualites/2021-07-28-decouvrez-la-mission-d-export-pendant-l-exposition-universelle-de-dubai/"
+
+[[redirects]]
+from = "/en/posts/2023-05-30-une-nouvelle-strategie-nationale-en-faveur-des-metiers-dart/index.html"
+to = "/en/news/2023-05-30-a-new-national-strategy-to-promote-the-arts-and-crafts/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/charpentier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/charpentier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/en/organizations/reseau-excellence-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-hauts-de-france/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/hauts-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire/ets-roze/index.html"
+to = "/fr/organisations/ets-roze/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/atout-france/index.html"
+to = "/fr/organisations/atout-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/abc-leroyer/index.html"
+to = "/fr/organisations/abc-leroyer/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ceramique/porcelainier/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/porcelainier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/societe-dencouragement-pour-lindustrie-nationale/index.html"
+to = "/fr/organisations/societe-d-encouragement-pour-l-industrie-nationale/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/fabricant-de-serrures/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/fabricant-de-serrures/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/inma/index.html"
+to = "/en/organizations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/fr/actualites/portrait-d-epv/index.html"
+to = "/fr/actualites/portraits-d-epv/"
+
+[[redirects]]
+from = "/fr/notre-organisation/etablissement-martinenq/index.html"
+to = "/fr/organisations/etablissement-martinenq/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/le-papier-darmenie/index.html"
+to = "/fr/organisations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/ateliers-bernard-pictet/index.html"
+to = "/fr/organisations/ateliers-bernard-pictet/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-des-jeux-jouets-et-ouvrages-mecaniques/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/"
+
+[[redirects]]
+from = "/fr/organisations/voisin/index.html"
+to = "/fr/organisations/voisin-maitre-chocolatier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/sculptures/index.html"
+to = "/fr/organisations/categories/domaines/restauration/sculptures/"
+
+[[redirects]]
+from = "/fr/annuaire/new-tone/index.html"
+to = "/fr/organisations/new-tone/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/fonderie-sylvain-compagnon/index.html"
+to = "/fr/organisations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/fr/annuaire/fonderie-sylvain-compagnon/index.html"
+to = "/fr/organisations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/en/posts/news-from-occitanie/index.html"
+to = "/en/news/news-from-occitanie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/souffleur-a-la-canne/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/souffleur-a-la-canne/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/index.html"
+to = "/fr/organisations/categories/domaines/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/sculpteur-sur-bois/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/sculpteur-sur-bois/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-centre-val-de-loire/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-25-gosset-roederer-haut-bailly-dans-les-vignobles-un-patrimoine-vivant/index.html"
+to = "/fr/actualites/2024-02-16-gosset-roederer-haut-bailly-dans-les-vignobles-un-patrimoine-vivant/"
+
+[[redirects]]
+from = "/en/organizations/epv-pays-de-la-loire/index.html"
+to = "/en/organizations/categories/regions/epv-pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/outstanding-projects/index.html"
+to = "/en/our-epvs/outstanding-projects/"
+
+[[redirects]]
+from = "/fr/notre-organisation/origine-france-garantie/index.html"
+to = "/fr/organisations/origine-france-garantie/"
+
+[[redirects]]
+from = "/fr/organisations/le-papier-darmenie/index.html"
+to = "/fr/organisations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-luminaire/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/carrafont/index.html"
+to = "/fr/organisations/carrafont/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/new-tone/index.html"
+to = "/en/organizations/new-tone/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-01-comment-les-horlogers-gilles-vassort-et-arnaud-joubert-ont-ils-obtenu-le-label-epv/index.html"
+to = "/fr/actualites/2024-01-10-comment-les-horlogers-gilles-vassort-et-arnaud-joubert-ont-ils-obtenu-le-label-epv/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/pianos-balleron/index.html"
+to = "/en/organizations/pianos-balleron/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/ets-roze/index.html"
+to = "/fr/organisations/ets-roze/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/textiles/index.html"
+to = "/fr/organisations/categories/domaines/restauration/textiles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/tanneur/index.html"
+to = "/fr/organisations/categories/domaines/cuir/tanneur/"
+
+[[redirects]]
+from = "/en/agenda/2024-04-02-rendez-vous-dexception-journees-europeennes-des-metiers-dart-jema/index.html"
+to = "/en/agenda/2024/rendez-vous-d-exception-european-crafts-days-jema/"
+
+[[redirects]]
+from = "/en/organizations/maison-dhistoire/index.html"
+to = "/en/organizations/maison-d-histoire/"
+
+[[redirects]]
+from = "/fr/equipe/benoit-besnault-1/index.html"
+to = "/fr/equipe/benoit-besnault/"
+
+[[redirects]]
+from = "/fr/notre-organisation/ravier-riccoboni/index.html"
+to = "/fr/organisations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/en/our-organization/astier-de-villatte/index.html"
+to = "/en/organizations/astier-de-villatte/"
+
+[[redirects]]
+from = "/en/posts/2024-01-09-osaka-2025-tripartite-partnership-agreement-signed/index.html"
+to = "/en/news/2024-01-09-osaka-2025-tripartite-partnership-agreement-signed/"
+
+[[redirects]]
+from = "/en/reseau-excellence-grand-est/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/grand-est/"
+
+[[redirects]]
+from = "/en/team/christophe-beausoleil-1/index.html"
+to = "/en/team/christophe-beausoleil/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-28-visite-de-lentreprise-gravor/index.html"
+to = "/fr/actualites/2024-03-19-visite-de-lentreprise-gravor/"
+
+[[redirects]]
+from = "/fr/actualites/2025-03-03-diner-d-excellence-au-bristol-paris/index.html"
+to = "/fr/actualites/2025-04-03-diner-d-excellence-au-bristol-paris/"
+
+[[redirects]]
+from = "/en/organizations/dennery-confection/index.html"
+to = "/en/organizations/d-ennery-confection/"
+
+[[redirects]]
+from = "/fr/notre-organisation/reseau-excellence-hauts-de-france/index.html"
+to = "/fr/organisations/reseau-excellence-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/rinck/index.html"
+to = "/fr/organisations/rinck/"
+
+[[redirects]]
+from = "/fr/rayonner/index.html"
+to = "/fr/actions-et-engagements/rayonner/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-pays-de-la-loire/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/le-label-epv/index.html"
+to = "/fr/nos-epv/"
+
+[[redirects]]
+from = "/en/organizations/culture-dobjet/index.html"
+to = "/en/organizations/culture-d-objet/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/gainier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/gainier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-metal/ciseleur-1/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/ciseleur-1/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/culture-dobjet/index.html"
+to = "/en/organizations/culture-d-objet/"
+
+[[redirects]]
+from = "/en/lassociation/join-reseau-excellence-1/index.html"
+to = "/en/lassociation/join-reseau-excellence/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/laqueur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/laqueur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/peintre/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/peintre/"
+
+[[redirects]]
+from = "/en/organizations/epv-centre-val-de-loire/index.html"
+to = "/en/organizations/categories/regions/epv-centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/abc-leroyer/index.html"
+to = "/en/organizations/abc-leroyer/"
+
+[[redirects]]
+from = "/en/news/2024-09-30-the-epv-texaa-hosts-the-new-aquitaine-vte-regional-association/index.html"
+to = "/en/news/2024-09-30-the-texaa-epv-hosts-the-new-aquitaine-regional-association/"
+
+[[redirects]]
+from = "/fr/organisations/fonderie-dart-bocquel/index.html"
+to = "/fr/organisations/fonderie-d-art-bocquel/"
+
+[[redirects]]
+from = "/en/organizations/lartisan-costumier/index.html"
+to = "/en/organizations/l-artisan-costumier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/index.html"
+to = "/fr/organisations/categories/domaines/restauration/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/maison-fey/index.html"
+to = "/en/organizations/maison-fey/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ceramique/sculpteur-sur-terre/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/sculpteur-sur-terre/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/fr/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/fr/annuaire/maison-gatti/index.html"
+to = "/fr/organisations/maison-gatti/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/mr-cartonnage-numerique/index.html"
+to = "/en/organizations/mr-cartonnage-numerique/"
+
+[[redirects]]
+from = "/fr/le-reseau/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/etablissement-martinenq/index.html"
+to = "/fr/organisations/etablissement-martinenq/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-normandie/index.html"
+to = "/fr/organisations/categories/regions/epv-normandie/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/arthema/index.html"
+to = "/en/organizations/arthema/"
+
+[[redirects]]
+from = "/en/organizations/epv-occitanie/index.html"
+to = "/en/organizations/categories/regions/epv-occitanie/"
+
+[[redirects]]
+from = "/en/unite/index.html"
+to = "/en/actions-and-commitments/unite/"
+
+[[redirects]]
+from = "/fr/organisations/societe-dexploitation-roque/index.html"
+to = "/fr/organisations/societe-d-exploitation-roque/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-brittany/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/brittany/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/vernisseur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/vernisseur/"
+
+[[redirects]]
+from = "/fr/organisations/epv-centre-val-de-loire/index.html"
+to = "/fr/organisations/categories/regions/epv-centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/annuaire/reseau-excellence-hauts-de-france/index.html"
+to = "/fr/organisations/reseau-excellence-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/cruard-menuiserie/index.html"
+to = "/fr/organisations/cruard-menuiserie/"
+
+[[redirects]]
+from = "/en/agenda/2025/webinaire-tout-savoir-sur-le-label-epv-1/index.html"
+to = "/en/agenda/2026/webinaire-tout-savoir-sur-le-label-epv-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/papeterie/cire-a-cacheter/index.html"
+to = "/fr/organisations/categories/produits/papeterie-et-ecriture/cire-a-cacheter/"
+
+[[redirects]]
+from = "/en/organizations/atelier-auder-dornements/index.html"
+to = "/en/organizations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/en/posts/news-from-ile-de-france/index.html"
+to = "/en/news/news-from-ile-de-france/"
+
+[[redirects]]
+from = "/fr/notre-organisation/fonderie-sylvain-compagnon/index.html"
+to = "/fr/organisations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-tabletterie/brosserie/index.html"
+to = "/fr/organisations/categories/domaines/tabletterie/brosserie/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-occitanie/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/occitanie/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-thiery/index.html"
+to = "/en/organizations/atelier-thiery/"
+
+[[redirects]]
+from = "/fr/annuaire/confiserie-de-medicis/index.html"
+to = "/fr/organisations/confiserie-de-medicis/"
+
+[[redirects]]
+from = "/en/reseau-excellence-brittany/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/brittany/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/fonderie-sylvain-compagnon/index.html"
+to = "/en/organizations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/la-maison-du-petit-four/index.html"
+to = "/fr/organisations/la-maison-du-petit-four/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/miroitier-argenteur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/miroitier-argenteur/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atad-ateliers-philippe-coudray/index.html"
+to = "/fr/organisations/atad-ateliers-philippe-coudray/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-01-32-nouveaux-laureats-du-label-entreprises-du-patrimoine-vivant-en-hauts-de-france/index.html"
+to = "/fr/actualites/2023-12-15-32-nouveaux-laureats-du-label-entreprises-du-patrimoine-vivant-en-hauts-de-france/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/remy-garnier/index.html"
+to = "/en/organizations/remy-garnier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/souffleur-a-la-canne/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/souffleur-a-la-canne/"
+
+[[redirects]]
+from = "/en/our-organization/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/en/organizations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-nouvelle-aquitaine/index.html"
+to = "/fr/organisations/categories/regions/epv-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-textile/tricoteur/index.html"
+to = "/fr/organisations/categories/domaines/textile/tricoteur/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-grand-est/index.html"
+to = "/fr/equipe/categories/administrateurs-re-grand-est/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/abc-leroyer/index.html"
+to = "/fr/organisations/abc-leroyer/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/fabricant-de-chaussures/index.html"
+to = "/fr/organisations/categories/domaines/cuir/fabricant-de-chaussures/"
+
+[[redirects]]
+from = "/fr/agenda/2025/assemblee-generale-arsen-chateau-du-breuil-le-breuil-en-auge/index.html"
+to = "/fr/agenda/2025/assemblee-generale-arsen/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/metal/index.html"
+to = "/fr/organisations/categories/domaines/restauration/metal/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-facture-instrumentale/facteur-etou-restaurateur-dinstruments-traditionnels/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-dinstruments-traditionnels/"
+
+[[redirects]]
+from = "/en/our-organization/digital-packaging/index.html"
+to = "/en/organizations/digital-packaging/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/verrier-decorateur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-decorateur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/laqueur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/laqueur/"
+
+[[redirects]]
+from = "/fr/actualites/2023-06-15-comment-faire-briller-demain-les-metiers-d-art-decryptage-du-plan-gouvernemental-et-panorama-breton/index.html"
+to = "/fr/actualites/2023-06-15-comment-faire-briller-demain-les-metiers-d-art/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-occitanie/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/occitanie/"
+
+[[redirects]]
+from = "/fr/notre-organisation/digital-packaging/index.html"
+to = "/fr/organisations/digital-packaging/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/etablissement-martinenq/index.html"
+to = "/fr/organisations/etablissement-martinenq/"
+
+[[redirects]]
+from = "/fr/annuaire/astier-de-villatte/index.html"
+to = "/fr/organisations/astier-de-villatte/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/sculpteur-sur-bois/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/sculpteur-sur-bois/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-bourgogne-franche-comte/index.html"
+to = "/fr/equipe/categories/administrateurs-re-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-gastronomie/traiteur/index.html"
+to = "/fr/organisations/categories/domaines/gastronomie-1/traiteur/"
+
+[[redirects]]
+from = "/en/agenda/2024-07-11-matinale-1-1-1/index.html"
+to = "/en/agenda/2024/matinale-1-1-1/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/nortier-emballages/index.html"
+to = "/en/organizations/nortier-emballages/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/gainier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/gainier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-jeux-jouets-et-ouvrages-mecaniques/carrossier/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/carrossier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-textile/tisserand/index.html"
+to = "/fr/organisations/categories/domaines/textile/tisserand/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/bosabo-audouin/index.html"
+to = "/en/organizations/bosabo-audouin/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-textile/brodeur/index.html"
+to = "/fr/organisations/categories/domaines/textile/brodeur/"
+
+[[redirects]]
+from = "/fr/annuaire/origine-france-garantie/index.html"
+to = "/fr/organisations/origine-france-garantie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-mode-et-accessoires/chapelier/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/chapelier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/maitre-verrier-vitrailliste/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/maitre-verrier-vitrailliste/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-provence-alpes-cote-d-azur/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/provence-alpes-cote-d-azur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/tapissier-dameublement-et-ou-tapissier-decorateur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/tapissier-dameublement-et-ou-tapissier-decorateur/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/john-lobb/index.html"
+to = "/en/organizations/john-lobb/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-jeux-jouets-et-ouvrages-mecaniques/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/"
+
+[[redirects]]
+from = "/en/posts/2021-10-26-6eme-edition-du-salon-international-des-metiers-dart/index.html"
+to = "/en/news/2021-10-26-6eme-edition-du-salon-international-des-metiers-dart/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/produits-laitiers/creme-fraiche/index.html"
+to = "/fr/organisations/categories/produits/alimentation/creme-fraiche/"
+
+[[redirects]]
+from = "/fr/equipe/epv-pays-de-la-loire-communication/index.html"
+to = "/fr/equipe/reseau-excellence-pays-de-la-loire-communication/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-normandie/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/normandie/"
+
+[[redirects]]
+from = "/fr/actions-et-engagements/reseau-excellence-contract/index.html"
+to = "/fr/nos-actions/reseau-excellence-contract/"
+
+[[redirects]]
+from = "/fr/agenda/2024-07-11-matinale-1-1-1/index.html"
+to = "/fr/agenda/2024/matinale-1-1-1/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/our-organization/cofrex/index.html"
+to = "/en/organizations/cofrex/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-mode-et-accessoires/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-occitanie-1/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/type-dorganisation/association-regionales/index.html"
+to = "/fr/organisations/categories/type-dorganisation/associations-regionales/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/bronzes-de-france-bagues/index.html"
+to = "/en/organizations/bronzes-de-france-bagues/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/ravier-riccoboni/index.html"
+to = "/en/organizations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/fr/notre-organisation/maison-fey/index.html"
+to = "/fr/organisations/maison-fey/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-gastronomie/traiteur/index.html"
+to = "/fr/organisations/categories/domaines/gastronomie-1/traiteur/"
+
+[[redirects]]
+from = "/fr/organisations/mettetal-creations/index.html"
+to = "/fr/organisations/mettetal-creation/"
+
+[[redirects]]
+from = "/fr/notre-organisation/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/fr/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/fr/notre-organisation/moulins-de-versailles/index.html"
+to = "/fr/organisations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/notre-organisation/business-france/index.html"
+to = "/fr/organisations/business-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-verre-et-cristal/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/carrafont/index.html"
+to = "/fr/organisations/carrafont/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/ceramiques/index.html"
+to = "/fr/organisations/categories/domaines/restauration/ceramiques/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/metal/index.html"
+to = "/fr/organisations/categories/domaines/restauration/metal/"
+
+[[redirects]]
+from = "/fr/annuaire/abc-leroyer/index.html"
+to = "/fr/organisations/abc-leroyer/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/pianos-balleron/index.html"
+to = "/en/organizations/pianos-balleron/"
+
+[[redirects]]
+from = "/en/agenda/2025/appel-a-candidature-mission-economique-francaise-dans-le-dongbei-nord-est-de-la-chine/index.html"
+to = "/en/agenda/2026/appel-a-candidature-mission-economique-francaise-dans-le-dongbei-nord-est-de-la-chine/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/soca/index.html"
+to = "/en/organizations/soca/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/delta-meca/index.html"
+to = "/en/organizations/delta-meca/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-du-meuble-contemporain/index.html"
+to = "/fr/organisations/atelier-du-meuble-contemporain/"
+
+[[redirects]]
+from = "/en/our-organization/phelippeau-tapissier/index.html"
+to = "/en/organizations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/en/news/portrait-of-epv/index.html"
+to = "/en/news/portraits-of-epv/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/ateliers-jovis/index.html"
+to = "/en/organizations/ateliers-jovis/"
+
+[[redirects]]
+from = "/en/organizations/distillerie-les-fils-demile-pernot/index.html"
+to = "/en/organizations/distillerie-les-fils-d-emile-pernot/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/parcheminier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/parcheminier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/institut-pour-les-savoir-faire-francais/index.html"
+to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/posts/actualites-d-ile-de-france/index.html"
+to = "/en/news/news-from-ile-de-france/"
+
+[[redirects]]
+from = "/fr/actualites/2025-04-30-2eme-edition-du-salon-de-la-mode-et-des-savoir-faire-du-territoire/index.html"
+to = "/fr/actualites/2025-04-20-2eme-edition-du-salon-de-la-mode-et-des-savoir-faire-du-territoire/"
+
+[[redirects]]
+from = "/fr/notre-organisation/bouin-gardon/index.html"
+to = "/fr/organisations/bouin-gardon/"
+
+[[redirects]]
+from = "/en/news/rse-et-formation/index.html"
+to = "/en/news/csr-and-training/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/ateliers-bernard-pictet/index.html"
+to = "/fr/organisations/ateliers-bernard-pictet/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/couturier/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/couturier/"
+
+[[redirects]]
+from = "/en/reseau-excellence-ile-de-france-1/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/ile-de-france/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-centre-val-de-la-loire-1/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-bourgogne-franche-comte/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/fondeur-de-caracteres-1/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fondeur-de-caracteres-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-auder-dornements/index.html"
+to = "/en/organizations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/en/news/2024-03-01-comment-les-horlogers-gilles-vassort-et-arnaud-joubert-ont-ils-obtenu-le-label-epv/index.html"
+to = "/en/news/2024-01-10-how-did-watchmakers-gilles-vassort-and-arnaud-joubert-earn-the-epv-label/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/cirier/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/cirier/"
+
+[[redirects]]
+from = "/fr/agenda/2024-04-02-rendez-vous-dexception-journees-europeennes-des-metiers-dart-jema/index.html"
+to = "/fr/agenda/2024/rendez-vous-dexception-journees-europeennes-des-metiers-dart-jema/"
+
+[[redirects]]
+from = "/fr/agenda/2024-06-27-matinale-1/index.html"
+to = "/fr/agenda/2024/matinale-1/"
+
+[[redirects]]
+from = "/fr/annuaire/bodet-campanaire/index.html"
+to = "/fr/organisations/bodet-campanaire/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/ravier-riccoboni/index.html"
+to = "/fr/organisations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/fr/annuaire/equinox-49/index.html"
+to = "/fr/organisations/equ-inox-49/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/sellier-maroquinier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/sellier-maroquinier/"
+
+[[redirects]]
+from = "/fr/projets-dexception/index.html"
+to = "/fr/nos-epv/projets-dexception/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/textiles/index.html"
+to = "/fr/organisations/categories/domaines/restauration/textiles/"
+
+[[redirects]]
+from = "/en/organizations/fonderie-dart-macheret/index.html"
+to = "/en/organizations/fonderie-d-art-macheret/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/fabriquant-de-compositions-et-decors-vegetaux-stables-et-durables/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/fabriquant-de-compositions-et-decors-vegetaux-stables-et-durables/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-15/index.html"
+to = "/fr/organisations/categories/domaines/restauration/"
+
+[[redirects]]
+from = "/fr/annuaire/ebenisterie-generale/index.html"
+to = "/fr/organisations/ebenisterie-generale/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/menuisier-en-sieges/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/menuisier-en-sieges/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/fabricant-de-carreaux/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/fabricant-de-carreaux/"
+
+[[redirects]]
+from = "/fr/annuaire/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/fr/organisations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/fr/organisations/loubiere-la-forge-dart/index.html"
+to = "/fr/organisations/loubiere-la-forge-d-art/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-jeux-jouets-et-ouvrages-mecaniques/carrossier/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/carrossier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/treillageur/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/treillageur/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/delta-meca/index.html"
+to = "/fr/organisations/delta-meca/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/peintre/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/peintre/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-ceramique/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/couvreur-du-patrimoine-bati/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/couvreur-du-patrimoine-bati/"
+
+[[redirects]]
+from = "/fr/organisations/distillerie-les-fils-demile-pernot/index.html"
+to = "/fr/organisations/distillerie-les-fils-d-emile-pernot/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/procedes-chenel-international/index.html"
+to = "/fr/organisations/procedes-chenel-international/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/produits-laitiers/beurre/index.html"
+to = "/fr/organisations/categories/produits/alimentation/beurre/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/macon-du-patrimoine-bati/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/macon-du-patrimoine-bati/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-fey/index.html"
+to = "/en/organizations/atelier-fey/"
+
+[[redirects]]
+from = "/en/news/2023-06-30-les-epv-bourgogne-franche-comte-en-nombre-aux-rencontres-economiques-des-metiers-dart-rema-a-tonnerr/index.html"
+to = "/en/news/2023-06-30-the-bourgogne-franche-comte-epvs-are-out-in-force-at-the-rencontres-economiques-des-metiers-d-art-re/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/phelippeau-tapissier/index.html"
+to = "/en/organizations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/fr/annuaire/denis-et-fils/index.html"
+to = "/fr/organisations/denis-et-fils/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-grand-est/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/fabricant-de-carreaux/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/fabricant-de-carreaux/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-textile/index.html"
+to = "/fr/organisations/categories/domaines/textile/"
+
+[[redirects]]
+from = "/en/organizations/latelier-patrick-buti/index.html"
+to = "/en/organizations/l-atelier-patrick-buti/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-bretagne/index.html"
+to = "/fr/organisations/categories/regions/epv-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/imfpfjkdgfnmosr/index.html"
+to = "/fr/organisations/bellon-fils/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-monier/index.html"
+to = "/fr/organisations/atelier-monier/"
+
+[[redirects]]
+from = "/en/posts/2024-03-01-comment-les-horlogers-gilles-vassort-et-arnaud-joubert-ont-ils-obtenu-le-label-epv/index.html"
+to = "/en/news/2024-01-10-how-did-watchmakers-gilles-vassort-and-arnaud-joubert-earn-the-epv-label/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-textile/fabricant-dobjets-en-textiles/index.html"
+to = "/fr/organisations/categories/domaines/textile/fabricant-dobjets-en-textiles/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-du-meuble-contemporain/index.html"
+to = "/en/organizations/atelier-du-meuble-contemporain/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/menuisier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/menuisier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-textile/ennoblisseur-textile/index.html"
+to = "/fr/organisations/categories/domaines/textile/ennoblisseur-textile/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/concept-ebenist/index.html"
+to = "/fr/organisations/concept-ebenist/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-14-decouvrez-la-mission-d-export-inma-anepv-pendant-l-exposition-universelle-de-dubai/index.html"
+to = "/fr/actualites/2021-07-28-decouvrez-la-mission-d-export-pendant-l-exposition-universelle-de-dubai/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-centre-val-de-loire/index.html"
+to = "/fr/equipe/categories/administrateurs-re-centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/new-tone/index.html"
+to = "/en/organizations/new-tone/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/confiserie-de-medicis/index.html"
+to = "/en/organizations/confiserie-de-medicis/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/ch-legrand-faconnage/index.html"
+to = "/fr/organisations/ch-legrand-faconnage/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-aura/index.html"
+to = "/en/organizations/categories/regions/epv-aura/"
+
+[[redirects]]
+from = "/en/presentation-of-the-label/index.html"
+to = "/en/our-epvs/presentation-of-the-label/"
+
+[[redirects]]
+from = "/fr/annuaire/artmetal-framex/index.html"
+to = "/fr/organisations/artmetal-framex/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/ets-roze/index.html"
+to = "/en/organizations/ets-roze/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-du-verre-et-du-cristal/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/nortier-emballages/index.html"
+to = "/fr/organisations/nortier-emballages/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-facture-instrumentale/luthier-etou-restaurateur-dinstruments-a-cordes-frottees/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/luthier-etou-restaurateur-dinstruments-a-cordes-frottees/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/relieur/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/relieur/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-france/index.html"
+to = "/en/team/categories/administrateurs-re-france/"
+
+[[redirects]]
+from = "/fr/organisations/marcel-gandit/index.html"
+to = "/fr/organisations/marcel-gandit-hermes/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/vitraux/index.html"
+to = "/fr/organisations/categories/domaines/restauration/vitraux/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-jeux-jouets-et-ouvrages-mecaniques/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/"
+
+[[redirects]]
+from = "/en/organizations/lhorloger-de-la-croix-rousse/index.html"
+to = "/en/organizations/l-horloger-de-la-croix-rousse/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/gauthier-cie/index.html"
+to = "/fr/organisations/gauthier-cie/"
+
+[[redirects]]
+from = "/fr/annuaire/st-dupont-sa/index.html"
+to = "/fr/organisations/s-t-dupont-sa/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/pianos-balleron/index.html"
+to = "/fr/organisations/pianos-balleron/"
+
+[[redirects]]
+from = "/en/posts/2023-12-14-epv-x-wilmotte-industries-evening-meeting/index.html"
+to = "/en/news/2023-12-14-epv-x-wilmotte-industries-evening-meeting/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-thiery/index.html"
+to = "/fr/organisations/atelier-thiery/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-grand-est/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-metal/bronzier/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/bronzier/"
+
+[[redirects]]
+from = "/fr/organisations/de-lor-dans-les-mains/index.html"
+to = "/fr/organisations/de-l-or-dans-les-mains/"
+
+[[redirects]]
+from = "/fr/organisations/lartisan-costumier/index.html"
+to = "/fr/organisations/l-artisan-costumier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/rinck/index.html"
+to = "/en/organizations/rinck/"
+
+[[redirects]]
+from = "/fr/organisations/gl-bijoux/index.html"
+to = "/fr/organisations/maison-altesse-gl-bijoux/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-hauts-de-france/index.html"
+to = "/fr/organisations/categories/regions/epv-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/notre-organisation/atelier-auder-dornements/index.html"
+to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/charpentier-de-marine/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/charpentier-de-marine/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/fr/organisations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/drac-pays-de-la-loire/index.html"
+to = "/fr/organisations/drac-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/ateliers-perrault-freres/index.html"
+to = "/fr/organisations/ateliers-perrault-freres/"
+
+[[redirects]]
+from = "/fr/presentation-du-label/candidater-au-label/index.html"
+to = "/fr/le-label-epv/candidater-au-label/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/fondeur-de-caracteres-1/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fondeur-de-caracteres-1/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/fonderie-dart-macheret/index.html"
+to = "/fr/organisations/fonderie-d-art-macheret/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/reseau-excellence-hauts-de-france/index.html"
+to = "/en/organizations/reseau-excellence-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire/stuk-sarl/index.html"
+to = "/fr/organisations/stuk-sarl/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-luminaire/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ceramique/potier-de-terre-cuite/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/potier-de-terre-cuite/"
+
+[[redirects]]
+from = "/en/our-organization/bronzes-de-france-bagues/index.html"
+to = "/en/organizations/bronzes-de-france-bagues/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/ebenisterie-generale/index.html"
+to = "/en/organizations/ebenisterie-generale/"
+
+[[redirects]]
+from = "/fr/annuaire/cvl-luminaires/index.html"
+to = "/fr/organisations/cvl-luminaires/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/conseillers-du-commerce-exterieurs/index.html"
+to = "/fr/organisations/conseillers-du-commerce-exterieurs/"
+
+[[redirects]]
+from = "/en/organizations/epv-ile-de-france/index.html"
+to = "/en/organizations/categories/regions/epv-ile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/joaillier/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/joaillier/"
+
+[[redirects]]
+from = "/fr/annuaire/ateliers-jovis/index.html"
+to = "/fr/organisations/ateliers-jovis/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/maison-gatti/index.html"
+to = "/fr/organisations/maison-gatti/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/ravier-riccoboni/index.html"
+to = "/fr/organisations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/en/apply-for-the-label/index.html"
+to = "/en/the-epv-label/apply-for-the-label/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/maroquinier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/maroquinier/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-saint-eloi/index.html"
+to = "/fr/organisations/atelier-saint-eloi/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-18-comment-faire-briller-demain-les-metiers-d-art-decryptage-du-plan-gouvernemental-et-panorama-breton/index.html"
+to = "/fr/actualites/2023-06-15-comment-faire-briller-demain-les-metiers-d-art/"
+
+[[redirects]]
+from = "/fr/annuaire/mr-cartonnage-numerique/index.html"
+to = "/fr/organisations/mr-cartonnage-numerique/"
+
+[[redirects]]
+from = "/fr/organisations/megisserie-alran/index.html"
+to = "/fr/organisations/megisserie-alran-sas/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-contract/index.html"
+to = "/fr/nos-actions/reseau-excellence-contract/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-luminaire/fabricant-dabat-jour/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/fabricant-dabat-jour/"
+
+[[redirects]]
+from = "/en/organizations/tonnellerie-du-pays-dauge/index.html"
+to = "/en/organizations/tonnellerie-du-pays-d-auge/"
+
+[[redirects]]
+from = "/fr/agenda/2025/webinaire-tout-savoir-sur-le-label-epv-1/index.html"
+to = "/fr/agenda/2026/webinaire-tout-savoir-sur-le-label-epv-1/"
+
+[[redirects]]
+from = "/fr/organisations/epv-hauts-de-france/index.html"
+to = "/fr/organisations/categories/regions/epv-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/le-papier-darmenie/index.html"
+to = "/fr/organisations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/inma/index.html"
+to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/coupeur/index.html"
+to = "/fr/organisations/categories/domaines/cuir/coupeur/"
+
+[[redirects]]
+from = "/fr/projets/epv-occitanie/index.html"
+to = "/fr/projets/epv-bretagne/"
+
+[[redirects]]
+from = "/fr/notre-organisation/phelippeau-tapissier/index.html"
+to = "/fr/organisations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/en/reseau-excellence-normandie/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/normandie/"
+
+[[redirects]]
+from = "/fr/annuaire/remy-garnier/index.html"
+to = "/fr/organisations/remy-garnier/"
+
+[[redirects]]
+from = "/fr/presentation-du-label/index.html"
+to = "/fr/nos-epv/presentation-du-label/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/polisseur-1/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/polisseur-1/"
+
+[[redirects]]
+from = "/fr/annuaire/culture-dobjet/index.html"
+to = "/fr/organisations/culture-d-objet/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/en/organizations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/bronzes-de-france-bagues/index.html"
+to = "/en/organizations/bronzes-de-france-bagues/"
+
+[[redirects]]
+from = "/fr/missions/index.html"
+to = "/fr/lassociation/notre-histoire-et-nos-missions/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/la-maison-du-vitrail/index.html"
+to = "/en/organizations/la-maison-du-vitrail/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-promethee/index.html"
+to = "/en/organizations/atelier-promethee/"
+
+[[redirects]]
+from = "/fr/annuaire/soca/index.html"
+to = "/fr/organisations/soca/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/atelier-fey/index.html"
+to = "/fr/organisations/atelier-fey/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/concept-ebenist/index.html"
+to = "/en/organizations/concept-ebenist/"
+
+[[redirects]]
+from = "/fr/notre-organisation/campus-versailles/index.html"
+to = "/fr/organisations/campus-versailles/"
+
+[[redirects]]
+from = "/en/reseau-excellence-provence-alpes-cote-d-azur/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/provence-alpes-cote-d-azur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/encadreur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/encadreur/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-fey/index.html"
+to = "/fr/organisations/atelier-fey/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/ets-roze/index.html"
+to = "/fr/organisations/ets-roze/"
+
+[[redirects]]
+from = "/fr/annuaire/moulins-de-versailles/index.html"
+to = "/fr/organisations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/atelier-thiery/index.html"
+to = "/fr/organisations/atelier-thiery/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-monier/index.html"
+to = "/en/organizations/atelier-monier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/graveur-et-imprimeur-en-gaufrage/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/graveur-et-imprimeur-en-gaufrage/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/imprimeur/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/imprimeur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/metallier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/metallier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/etablissement-martinenq/index.html"
+to = "/en/organizations/etablissement-martinenq/"
+
+[[redirects]]
+from = "/fr/annuaire/campus-versailles/index.html"
+to = "/fr/organisations/campus-versailles/"
+
+[[redirects]]
+from = "/fr/annuaire/decotec-tuffe/index.html"
+to = "/fr/organisations/decotec-tuffe/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/pianos-nebout-hamm/index.html"
+to = "/en/organizations/pianos-nebout-hamm/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-coralie-barbe/index.html"
+to = "/fr/organisations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/fr/annuaire/societe-dencouragement-pour-lindustrie-nationale/index.html"
+to = "/fr/organisations/societe-d-encouragement-pour-l-industrie-nationale/"
+
+[[redirects]]
+from = "/fr/actualites/2026-03-03-programme-artiste-et-savoir-faire-au-frac-artotheque-de-limoges/index.html"
+to = "/fr/actualites/2026-02-23-programme-artiste-et-savoir-faire-au-frac-artotheque-de-limoges/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-perrault-freres/index.html"
+to = "/fr/organisations/ateliers-perrault-freres/"
+
+[[redirects]]
+from = "/en/organizations/societe-dexploitation-roque/index.html"
+to = "/en/organizations/societe-d-exploitation-roque/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/decotec-tuffe/index.html"
+to = "/fr/organisations/decotec-tuffe/"
+
+[[redirects]]
+from = "/en/organizations/epv-bourgogne-franche-comte/index.html"
+to = "/en/organizations/categories/regions/epv-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/en/organizations/de-lor-dans-les-mains/index.html"
+to = "/en/organizations/de-l-or-dans-les-mains/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/fabricant-dobjets-en-papier-et-ou-carton/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabricant-dobjets-en-papier-et-ou-carton/"
+
+[[redirects]]
+from = "/fr/organisations/maison-dhistoire/index.html"
+to = "/fr/organisations/maison-d-histoire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/tailleur-1/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/tailleur-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire/maitre-verrier-vitrailliste/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/maitre-verrier-vitrailliste/"
+
+[[redirects]]
+from = "/en/our-organization/atelier-coralie-barbe/index.html"
+to = "/en/organizations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-metal/fondeur/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/fondeur/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-paca/index.html"
+to = "/en/team/categories/administrateurs-re-paca/"
+
+[[redirects]]
+from = "/en/posts/actualites-de-grand-est/index.html"
+to = "/en/news/actualites-de-grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/bottier-main/index.html"
+to = "/fr/organisations/categories/domaines/cuir/bottier-main/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-gastronomie/index.html"
+to = "/fr/organisations/categories/domaines/gastronomie-1/"
+
+[[redirects]]
+from = "/fr/organisations/epv-ile-de-france/index.html"
+to = "/fr/organisations/categories/regions/epv-ile-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire/fonderie-dart-macheret/index.html"
+to = "/fr/organisations/fonderie-d-art-macheret/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/ets-roze/index.html"
+to = "/en/organizations/ets-roze/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/nortier-emballages/index.html"
+to = "/fr/organisations/nortier-emballages/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/mouleur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/mouleur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-textile/fabricant-dobjets-en-textiles/index.html"
+to = "/fr/organisations/categories/domaines/textile/fabricant-dobjets-en-textiles/"
+
+[[redirects]]
+from = "/en/news/2023-03-27-richesses-report-on-the-entreprises-du-patrimoine-vivant-epv-label-in-auvergne-rhone-alpes/index.html"
+to = "/en/news/2023-03-27-richesses-report-on-the-epv-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/societe-dencouragement-pour-lindustrie-nationale/index.html"
+to = "/fr/organisations/societe-d-encouragement-pour-l-industrie-nationale/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/charpentier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/charpentier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-metal/ferronnier-forgeron/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/ferronnier-forgeron/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-jeux-jouets-et-ouvrages-mecaniques/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/campus-versailles/index.html"
+to = "/fr/organisations/campus-versailles/"
+
+[[redirects]]
+from = "/fr/annuaire/concept-ebenist/index.html"
+to = "/fr/organisations/concept-ebenist/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/vannier/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/vannier/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-bourgogne-franche-comte/index.html"
+to = "/en/organizations/categories/regions/epv-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-metal/modeleur-mouleur/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/modeleur-mouleur/"
+
+[[redirects]]
+from = "/fr/annuaire/nor-line/index.html"
+to = "/fr/organisations/nor-line/"
+
+[[redirects]]
+from = "/fr/notre-organisation/pianos-balleron/index.html"
+to = "/fr/organisations/pianos-balleron/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-bernard-pictet/index.html"
+to = "/fr/organisations/ateliers-bernard-pictet/"
+
+[[redirects]]
+from = "/fr/organisations/biscuiterie-de-labbaye/index.html"
+to = "/fr/organisations/biscuiterie-de-l-abbaye/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-ile-de-france/index.html"
+to = "/fr/equipe/categories/administrateurs-re-ile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-15/verre-et-cristal/index.html"
+to = "/fr/organisations/categories/domaines/restauration/verre-et-cristal/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/bronzes-de-france-bagues/index.html"
+to = "/fr/organisations/bronzes-de-france-bagues/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/tailleur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/tailleur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-textile/ennoblisseur-textile/index.html"
+to = "/fr/organisations/categories/domaines/textile/ennoblisseur-textile/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/marqueteur-de-pailles/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/marqueteur-de-pailles/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/fr/organisations/reseau-excellence-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/agenda/2024-01-21-linma-devient-linstitut-pour-les-savoir-faire-francais/index.html"
+to = "/fr/agenda/2024/linma-devient-linstitut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/our-organization/moulins-de-versailles/index.html"
+to = "/en/organizations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/agenda/2025/reseau-excellence-contract-au-mobilier-national-1/index.html"
+to = "/fr/agenda/2025/soiree-ambassadeurs-fauchon-hospitality/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/maitre-verrier-vitrailliste/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/maitre-verrier-vitrailliste/"
+
+[[redirects]]
+from = "/fr/actions-et-engagements/index.html"
+to = "/fr/nos-actions/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/tourneur-sur-bois/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/tourneur-sur-bois/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ceramique/porcelainier/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/porcelainier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-16/verre-et-cristal-1/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/"
+
+[[redirects]]
+from = "/en/news/2024-03-05-les-epv-sources-d-emplois-en-regions/index.html"
+to = "/en/news/2022-09-30-epvs-sources-of-employment-in-the-regions/"
+
+[[redirects]]
+from = "/en/our-organization/etablissement-martinenq/index.html"
+to = "/en/organizations/etablissement-martinenq/"
+
+[[redirects]]
+from = "/fr/organisations/latelier-patrick-buti/index.html"
+to = "/fr/organisations/l-atelier-patrick-buti/"
+
+[[redirects]]
+from = "/en/organizations/gl-bijoux/index.html"
+to = "/en/organizations/maison-altesse-gl-bijoux/"
+
+[[redirects]]
+from = "/en/organizations/societe-dimpression-sur-etoffes-du-grand-lemps-siegl-hermes/index.html"
+to = "/en/organizations/societe-d-impression-sur-etoffes-du-grand-lemps-s-i-e-g-l-hermes/"
+
+[[redirects]]
+from = "/fr/annuaire/siegeair/index.html"
+to = "/fr/organisations/siegeair/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/fr/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/fr/organisations/gravor/index.html"
+to = "/fr/organisations/grav-or/"
+
+[[redirects]]
+from = "/en/organizations/societe-azerguoise-de-repoussage-et-demboutissage/index.html"
+to = "/en/organizations/societe-azerguoise-de-repoussage-et-d-emboutissage/"
+
+[[redirects]]
+from = "/fr/organisations/les-delices-dalienor-croustadoc/index.html"
+to = "/fr/organisations/les-delices-d-alienor-croustad-oc/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-16/architecture-et-jardin/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/nor-line/index.html"
+to = "/en/organizations/nor-line/"
+
+[[redirects]]
+from = "/fr/organisations/categories/type-dorganisation/association-regionale/index.html"
+to = "/fr/organisations/categories/type-dorganisation/associations-regionales/"
+
+[[redirects]]
+from = "/fr/organisations/dennery-confection/index.html"
+to = "/fr/organisations/d-ennery-confection/"
+
+[[redirects]]
+from = "/en/our-organization/nortier-emballages/index.html"
+to = "/en/organizations/nortier-emballages/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/facteur-etou-restaurateur-de-pianos/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-de-pianos/"
+
+[[redirects]]
+from = "/fr/organisations/epv-bourgogne-franche-comte/index.html"
+to = "/fr/organisations/categories/regions/epv-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/kjacques/index.html"
+to = "/fr/organisations/k-jacques/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/couvreur-du-patrimoine-bati/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/couvreur-du-patrimoine-bati/"
+
+[[redirects]]
+from = "/fr/annuaire/atout-france/index.html"
+to = "/fr/organisations/atout-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/sculptures/index.html"
+to = "/fr/organisations/categories/domaines/restauration/sculptures/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/cvl-luminaires/index.html"
+to = "/fr/organisations/cvl-luminaires/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-mode-et-accessoires/fabricant-de-parapluies-parasols-ombrelles-et-cannes/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/fabricant-de-parapluies-parasols-ombrelles-et-cannes/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/denis-et-fils/index.html"
+to = "/fr/organisations/denis-et-fils/"
+
+[[redirects]]
+from = "/fr/organisations/societe-dedition-religieuse-et-darticles-de-lourdes-seral/index.html"
+to = "/fr/organisations/societe-d-edition-religieuse-et-d-articles-de-lourdes-seral/"
+
+[[redirects]]
+from = "/en/projects/portraits-epv-pays-de-la-loire/index.html"
+to = "/en/projects/epv-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/annuaire/pianos-balleron/index.html"
+to = "/fr/organisations/pianos-balleron/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/nortier-emballages/index.html"
+to = "/en/organizations/nortier-emballages/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/en/organizations/reseau-excellence-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/our-organization/le-papier-darmenie/index.html"
+to = "/en/organizations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/agenda/2025-03-05-lancement-de-reseau-excellence-contract/index.html"
+to = "/fr/agenda/2025/lancement-de-reseau-excellence-contract/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/phelippeau-tapissier/index.html"
+to = "/fr/organisations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/ateliers-bernard-pictet/index.html"
+to = "/en/organizations/ateliers-bernard-pictet/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/stuk-sarl/index.html"
+to = "/en/organizations/stuk-sarl/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/equinox-49/index.html"
+to = "/en/organizations/equ-inox-49/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-jeux-jouets-et-ouvrages-mecaniques/fabricant-etou-restaurateur-de-vehicules-de-collection/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/fabricant-etou-restaurateur-de-vehicules-de-collection/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/escalieteur/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/escalieteur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/malletier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/malletier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/moulins-de-versailles/index.html"
+to = "/en/organizations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/doreur-1/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/doreur-1/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/new-tone/index.html"
+to = "/fr/organisations/new-tone/"
+
+[[redirects]]
+from = "/fr/actualites/2023-03-27-richesses-reportage-sur-les-entreprises-du-patrimoine-vivant-label-epv-auvergne-rhone-alpes/index.html"
+to = "/fr/actualites/2023-03-27-richesses-reportage-sur-les-epv-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/cvl-luminaires/index.html"
+to = "/en/organizations/cvl-luminaires/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-tabletterie/index.html"
+to = "/fr/organisations/categories/domaines/tabletterie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-facture-instrumentale/facteur-etou-restaurateur-dorgues/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-dorgues/"
+
+[[redirects]]
+from = "/en/our-organization/atelier-tourtoulou/index.html"
+to = "/en/organizations/atelier-tourtoulou/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/bouin-gardon/index.html"
+to = "/fr/organisations/bouin-gardon/"
+
+[[redirects]]
+from = "/en/agenda/crt-and-training/index.html"
+to = "/en/agenda/csr-and-training/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/fabricant-de-chaussures/index.html"
+to = "/fr/organisations/categories/domaines/cuir/fabricant-de-chaussures/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/joaillier/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/joaillier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/st-dupont-sa/index.html"
+to = "/en/organizations/s-t-dupont-sa/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/decotec/index.html"
+to = "/fr/organisations/decotec/"
+
+[[redirects]]
+from = "/fr/federer/index.html"
+to = "/fr/actions-et-engagements/federer/"
+
+[[redirects]]
+from = "/fr/agenda/2025/reseau-excellence-contract/index.html"
+to = "/fr/agenda/2025/soiree-ambassadeurs-fauchon-hospitality/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-pays-de-la-loire/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/atelier-saint-eloi/index.html"
+to = "/fr/organisations/atelier-saint-eloi/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/gauthier-cie/index.html"
+to = "/en/organizations/gauthier-cie/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/ch-legrand-faconnage/index.html"
+to = "/en/organizations/ch-legrand-faconnage/"
+
+[[redirects]]
+from = "/fr/agenda/2025-03-03-ia-intelligence-artisanale/index.html"
+to = "/fr/agenda/2025/ia-intelligence-artisanale/"
+
+[[redirects]]
+from = "/fr/nos-missions/index.html"
+to = "/fr/lassociation/notre-histoire-et-nos-missions/"
+
+[[redirects]]
+from = "/en/our-missions/index.html"
+to = "/en/lassociation/our-history-and-our-missions/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/verre-et-cristal/index.html"
+to = "/fr/organisations/categories/domaines/restauration/verre-et-cristal/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-architecture-et-jardin/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/sellier-dameublement/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/sellier-dameublement/"
+
+[[redirects]]
+from = "/fr/actualites/2025-04-15-athema-visite-et-assemblee-generale-pays-de-la-loire/index.html"
+to = "/fr/actualites/2025-04-15-athema-visite-et-assemblee-generale/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/documents-graphiques-et-imprimes/index.html"
+to = "/fr/organisations/categories/domaines/restauration/documents-graphiques-et-imprimes/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-metal/ciseleur-1/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/ciseleur-1/"
+
+[[redirects]]
+from = "/fr/annuaire/etablissement-martinenq/index.html"
+to = "/fr/organisations/etablissement-martinenq/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/atelier-patrice-bricout/index.html"
+to = "/en/organizations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/fr/annuaire/cofrex/index.html"
+to = "/fr/organisations/cofrex/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-france/index.html"
+to = "/fr/equipe/categories/administrateurs-re-france/"
+
+[[redirects]]
+from = "/en/actions-and-commitments/index.html"
+to = "/en/our-actions/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/pole-des-metiers-dart/index.html"
+to = "/fr/organisations/pole-des-metiers-d-art/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/societe-nouvelle-cornu-emballeurs/index.html"
+to = "/fr/organisations/societe-nouvelle-cornu-emballeurs/"
+
+[[redirects]]
+from = "/en/reseau-excellence-nouvelle-aquitaine/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-saint-eloi/index.html"
+to = "/en/organizations/atelier-saint-eloi/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-jeux-jouets-et-ouvrages-mecaniques/fabricant-etou-restaurateur-de-vehicules-de-collection/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/fabricant-etou-restaurateur-de-vehicules-de-collection/"
+
+[[redirects]]
+from = "/fr/notre-organisation/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/fr/organisations/reseau-excellence-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/cofrex/index.html"
+to = "/fr/organisations/cofrex/"
+
+[[redirects]]
+from = "/fr/agenda/2025/ceremonie-de-remise-des-diplomes-et-inauguration-exposition-photo/index.html"
+to = "/fr/agenda/2025/remise-de-diplomes-epv-et-vernissage-d-exposition-photos/"
+
+[[redirects]]
+from = "/en/news/2025-06-16-back-to-network-excellence-ag/index.html"
+to = "/en/news/2025-06-16-back-to-reseau-excellence-general-meeting/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-tourtoulou/index.html"
+to = "/fr/organisations/atelier-tourtoulou/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/astier-de-villatte/index.html"
+to = "/en/organizations/astier-de-villatte/"
+
+[[redirects]]
+from = "/en/organizations/faiencerie-dart-et-creations-colas/index.html"
+to = "/en/organizations/faiencerie-d-art-et-creations-colas/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/documents-graphiques-et-imprimes/index.html"
+to = "/fr/organisations/categories/domaines/restauration/documents-graphiques-et-imprimes/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/facteur-etou-restaurateur-dinstruments-traditionnels/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-dinstruments-traditionnels/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-verre-et-cristal/graveur-2/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/graveur-2/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-metal/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/"
+
+[[redirects]]
+from = "/en/our-organization/ateliers-bernard-pictet/index.html"
+to = "/en/organizations/ateliers-bernard-pictet/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/graveur/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/graveur/"
+
+[[redirects]]
+from = "/fr/annuaire/chantier-des-ileaux/index.html"
+to = "/fr/organisations/chantier-des-ileaux/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-normandie/index.html"
+to = "/fr/equipe/categories/administrateurs-re-normandie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ceramique/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/"
+
+[[redirects]]
+from = "/en/our-organization/reseau-excellence-hauts-de-france/index.html"
+to = "/en/organizations/reseau-excellence-hauts-de-france/"
+
+[[redirects]]
+from = "/en/organizations/biscuiterie-de-labbaye/index.html"
+to = "/en/organizations/biscuiterie-de-l-abbaye/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/maison-fey/index.html"
+to = "/en/organizations/maison-fey/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ceramique/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/"
+
+[[redirects]]
+from = "/fr/developper/index.html"
+to = "/fr/actions-et-engagements/developper/"
+
+[[redirects]]
+from = "/fr/agenda/2025/appel-a-candidature-mission-economique-francaise-dans-le-dongbei-nord-est-de-la-chine/index.html"
+to = "/fr/agenda/2026/appel-a-candidature-mission-economique-francaise-dans-le-dongbei-nord-est-de-la-chine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/cirier/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/cirier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ceramique/faiencier/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/faiencier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-occitanie/index.html"
+to = "/fr/organisations/categories/regions/epv-occitanie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/peintre-sur-mobilier/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/peintre-sur-mobilier/"
+
+[[redirects]]
+from = "/en/posts/news-from-centre-val-de-loire/index.html"
+to = "/en/news/news-from-centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/cofrex/index.html"
+to = "/en/organizations/cofrex/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-nouvelle-aquitaine/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/luthier-etou-restaurateur-dinstruments-a-cordes-frottees/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/luthier-etou-restaurateur-dinstruments-a-cordes-frottees/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/artmetal-framex/index.html"
+to = "/en/organizations/artmetal-framex/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/parqueteur/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/parqueteur/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-ile-de-france/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/ile-de-france/"
+
+[[redirects]]
+from = "/en/organizations/bronze-dart-francais/index.html"
+to = "/en/organizations/bronze-d-art-francais/"
+
+[[redirects]]
+from = "/en/organizations/partenaires/index.html"
+to = "/en/organizations/categories/organizations-type/partenaires/"
+
+[[redirects]]
+from = "/fr/annuaire/pole-des-metiers-dart/index.html"
+to = "/fr/organisations/pole-des-metiers-d-art/"
+
+[[redirects]]
+from = "/en/our-organization/gauthier-cie/index.html"
+to = "/en/organizations/gauthier-cie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/pianos-balleron/index.html"
+to = "/fr/organisations/pianos-balleron/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/phelippeau-tapissier/index.html"
+to = "/fr/organisations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/en/agenda/2025/meeting-of-the-excellence-network-on-the-theme-epv-industries-territories/index.html"
+to = "/en/agenda/2025/meeting-of-the-excellence-network-on-the-theme-epvs-industries-territories/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-bretagne/index.html"
+to = "/en/organizations/categories/regions/epv-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/marqueteur-de-pailles/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/marqueteur-de-pailles/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/la-manufacture-49/index.html"
+to = "/en/organizations/la-manufacture-49/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/cruard-charpente/index.html"
+to = "/en/organizations/cruard-charpente/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-bretagne/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/bretagne/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/ebenisterie-generale/index.html"
+to = "/fr/organisations/ebenisterie-generale/"
+
+[[redirects]]
+from = "/en/organizations/megisserie-alran/index.html"
+to = "/en/organizations/megisserie-alran-sas/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/cuirs/index.html"
+to = "/fr/organisations/categories/domaines/restauration/cuirs/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-mode-et-accessoires/couturier/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/couturier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/tous-les-moteurs/index.html"
+to = "/fr/organisations/tous-les-moteurs/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-grand-est/index.html"
+to = "/en/organizations/categories/regions/epv-grand-est/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/androuet/index.html"
+to = "/fr/organisations/androuet/"
+
+[[redirects]]
+from = "/fr/notre-organisation/arthema/index.html"
+to = "/fr/organisations/arthema/"
+
+[[redirects]]
+from = "/en/the-epv-label/presentation-of-the-label/index.html"
+to = "/en/our-epvs/presentation-of-the-label/"
+
+[[redirects]]
+from = "/fr/notre-organisation/abc-leroyer/index.html"
+to = "/fr/organisations/abc-leroyer/"
+
+[[redirects]]
+from = "/fr/actualites/2025-07-08-grand-est-rencontre-territoriale-a-a/index.html"
+to = "/fr/actualites/2025-07-08-grand-est-rencontre-territoriale-a-ay/"
+
+[[redirects]]
+from = "/fr/agenda/2024-05-23-matinale-1/index.html"
+to = "/fr/agenda/2024/matinale-1/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-provence-alpes-cote-d-azur/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/provence-alpes-cote-d-azur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/coupeur/index.html"
+to = "/fr/organisations/categories/domaines/cuir/coupeur/"
+
+[[redirects]]
+from = "/fr/organisations/sca-oleicole-loulibo/index.html"
+to = "/fr/organisations/sca-oleicole-l-oulibo/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-6/verrier-decorateur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-decorateur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-metal/fondeur/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/fondeur/"
+
+[[redirects]]
+from = "/en/organizations/manufacture-de-cuir-de-realmont/index.html"
+to = "/en/organizations/realmont-leather-manufacture/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/etablissement-martinenq/index.html"
+to = "/en/organizations/etablissement-martinenq/"
+
+[[redirects]]
+from = "/en/news/2023-05-30-une-nouvelle-strategie-nationale-en-faveur-des-metiers-dart/index.html"
+to = "/en/news/2023-05-30-a-new-national-strategy-to-promote-the-arts-and-crafts/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/reseau-excellence-hauts-de-france/index.html"
+to = "/fr/organisations/reseau-excellence-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/moulins-de-versailles/index.html"
+to = "/fr/organisations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-luminaire/fabricant-dabat-jour/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/fabricant-dabat-jour/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/origine-france-garantie/index.html"
+to = "/fr/organisations/origine-france-garantie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/encadreur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/encadreur/"
+
+[[redirects]]
+from = "/en/organizations/st-dupont-sa/index.html"
+to = "/en/organizations/s-t-dupont-sa/"
+
+[[redirects]]
+from = "/fr/notre-organisation/atelier-tourtoulou/index.html"
+to = "/fr/organisations/atelier-tourtoulou/"
+
+[[redirects]]
+from = "/en/organizations/imfpfjkdgfnmosr/index.html"
+to = "/en/organizations/bellon-fils/"
+
+[[redirects]]
+from = "/fr/agenda/2024-06-20-matinale-1-1/index.html"
+to = "/fr/agenda/2024/matinale-1-1/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-centre-val-de-loire/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-occitanie/index.html"
+to = "/en/team/categories/administrateurs-re-occitanie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/atelier-thiery/index.html"
+to = "/fr/organisations/atelier-thiery/"
+
+[[redirects]]
+from = "/fr/annuaire/carrafont/index.html"
+to = "/fr/organisations/carrafont/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-ile-de-france/index.html"
+to = "/en/organizations/categories/regions/epv-ile-de-france/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/le-papier-darmenie/index.html"
+to = "/en/organizations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-aura/index.html"
+to = "/fr/organisations/categories/regions/epv-aura/"
+
+[[redirects]]
+from = "/fr/agenda/2024-03-19-presentielle-a-gravor/index.html"
+to = "/fr/agenda/2024/presentielle-a-gravor/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-mode-et-accessoires/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/"
+
+[[redirects]]
+from = "/fr/annuaire/business-france/index.html"
+to = "/fr/organisations/business-france/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/origine-france-garantie/index.html"
+to = "/en/organizations/origine-france-garantie/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-normandie/index.html"
+to = "/en/team/categories/administrateurs-re-normandie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/tapissier-dameublement-et-ou-tapissier-decorateur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/tapissier-dameublement-et-ou-tapissier-decorateur/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/bouin-gardon/index.html"
+to = "/fr/organisations/bouin-gardon/"
+
+[[redirects]]
+from = "/fr/agenda/2025/le-webinaire-des-epv-programme-impact-rse-1/index.html"
+to = "/fr/agenda/2025/le-webinaire-des-epv-de-l-or-dans-les-mains/"
+
+[[redirects]]
+from = "/en/news/2022-09-30-les-epv-sources-d-emplois-en-regions/index.html"
+to = "/en/news/2022-09-30-epvs-sources-of-employment-in-the-regions/"
+
+[[redirects]]
+from = "/en/posts/news-from-nouvelle-aquitaine/index.html"
+to = "/en/news/news-from-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/mr-cartonnage-numerique/index.html"
+to = "/fr/organisations/mr-cartonnage-numerique/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/nor-line/index.html"
+to = "/fr/organisations/nor-line/"
+
+[[redirects]]
+from = "/en/our-organization/atelier-thiery/index.html"
+to = "/en/organizations/atelier-thiery/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/tanneur/index.html"
+to = "/fr/organisations/categories/domaines/cuir/tanneur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-grand-est/index.html"
+to = "/fr/organisations/categories/regions/epv-grand-est/"
+
+[[redirects]]
+from = "/fr/organisations/faiencerie-dart-et-creations-colas/index.html"
+to = "/fr/organisations/faiencerie-d-art-et-creations-colas/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-hauts-de-france/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/index.html"
+to = "/fr/organisations/categories/domaines/cuir/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/vernisseur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/vernisseur/"
+
+[[redirects]]
+from = "/en/posts/2024-03-05-les-epv-sources-d-emplois-en-regions/index.html"
+to = "/en/news/2022-09-30-epvs-sources-of-employment-in-the-regions/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/peintre-en-decor/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/peintre-en-decor/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/new-tone/index.html"
+to = "/fr/organisations/new-tone/"
+
+[[redirects]]
+from = "/fr/organisations/partenaires/index.html"
+to = "/fr/organisations/categories/type-dorganisation/partenaires/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/digital-packaging/index.html"
+to = "/fr/organisations/digital-packaging/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-textile/dentellier/index.html"
+to = "/fr/organisations/categories/domaines/textile/dentellier/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-bourgogne-franche-comte/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/en/our-organization/inma/index.html"
+to = "/en/organizations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/posts/actualites-des-hauts-de-france/index.html"
+to = "/en/news/actualites-des-hauts-de-france/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/campus-versailles/index.html"
+to = "/en/organizations/campus-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/fr/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/fr/annuaire/john-lobb/index.html"
+to = "/fr/organisations/john-lobb/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/business-france/index.html"
+to = "/fr/organisations/business-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-facture-instrumentale/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/papeterie/outils-de-marquage-cuir-papier-bois/index.html"
+to = "/fr/organisations/categories/produits/papeterie-et-ecriture/outils-de-marquage-cuir-papier-bois/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-metal/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/bodet-campanaire/index.html"
+to = "/en/organizations/bodet-campanaire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/sellier-maroquinier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/sellier-maroquinier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/confiserie-de-medicis/index.html"
+to = "/fr/organisations/confiserie-de-medicis/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-6/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/ateliers-jovis/index.html"
+to = "/fr/organisations/ateliers-jovis/"
+
+[[redirects]]
+from = "/fr/annuaire/atad-ateliers-philippe-coudray/index.html"
+to = "/fr/organisations/atad-ateliers-philippe-coudray/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/meubles/index.html"
+to = "/fr/organisations/categories/domaines/restauration/meubles/"
+
+[[redirects]]
+from = "/fr/annuaire/procedes-chenel-international/index.html"
+to = "/fr/organisations/procedes-chenel-international/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-jovis/index.html"
+to = "/fr/organisations/ateliers-jovis/"
+
+[[redirects]]
+from = "/fr/annuaire/pianos-nebout-hamm/index.html"
+to = "/fr/organisations/pianos-nebout-hamm/"
+
+[[redirects]]
+from = "/fr/organisations/societe-dencouragement-pour-lindustrie-nationale/index.html"
+to = "/fr/organisations/societe-d-encouragement-pour-l-industrie-nationale/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/astier-de-villatte/index.html"
+to = "/fr/organisations/astier-de-villatte/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/societe-nouvelle-cornu-emballeurs/index.html"
+to = "/en/organizations/societe-nouvelle-cornu-emballeurs/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/"
+
+[[redirects]]
+from = "/fr/annuaire/androuet/index.html"
+to = "/fr/organisations/androuet/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-saint-eloi/index.html"
+to = "/fr/organisations/atelier-saint-eloi/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/bouin-gardon/index.html"
+to = "/fr/organisations/bouin-gardon/"
+
+[[redirects]]
+from = "/fr/candidater-au-label/index.html"
+to = "/fr/le-label-epv/candidater-au-label/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/fr/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ceramique/faiencier/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/faiencier/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/atelier-patrice-bricout/index.html"
+to = "/fr/organisations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/fr/notre-organisation/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/atelier-saint-eloi/index.html"
+to = "/fr/organisations/atelier-saint-eloi/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/graveur/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/graveur/"
+
+[[redirects]]
+from = "/fr/agenda/2024-03-21-linma-devient-linstitut-pour-les-savoir-faire-francais/index.html"
+to = "/fr/agenda/2024/linma-devient-linstitut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ceramique/peintre-sur-faience/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/peintre-sur-faience/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-luminaire/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/"
+
+[[redirects]]
+from = "/en/organizations/societe-dencouragement-pour-lindustrie-nationale/index.html"
+to = "/en/organizations/societe-d-encouragement-pour-l-industrie-nationale/"
+
+[[redirects]]
+from = "/fr/organisations/bg-france/index.html"
+to = "/fr/organisations/bg-france-franck-bichon/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-occitanie/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/occitanie/"
+
+[[redirects]]
+from = "/en/organizations/marcel-gandit/index.html"
+to = "/en/organizations/marcel-gandit-hermes/"
+
+[[redirects]]
+from = "/fr/actualites/news-from-bourgogne-franche-comte/index.html"
+to = "/fr/actualites/actualites-en-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/notre-organisation/atelier-saint-eloi/index.html"
+to = "/fr/organisations/atelier-saint-eloi/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/origine-france-garantie/index.html"
+to = "/fr/organisations/origine-france-garantie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/pianos-nebout-hamm/index.html"
+to = "/fr/organisations/pianos-nebout-hamm/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/cruard-menuiserie/index.html"
+to = "/en/organizations/cruard-menuiserie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/verrier-decorateur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-decorateur/"
+
+[[redirects]]
+from = "/fr/organisations/societe-azerguoise-de-repoussage-et-demboutissage/index.html"
+to = "/fr/organisations/societe-azerguoise-de-repoussage-et-d-emboutissage-sare/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/"
+
+[[redirects]]
+from = "/en/posts/actualites-d-auvergne-rhone-alpes/index.html"
+to = "/en/news/news-from-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/les-ateliers-de-la-chapelle/index.html"
+to = "/en/organizations/les-ateliers-de-la-chapelle/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/maison-fey/index.html"
+to = "/fr/organisations/maison-fey/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-promethee/index.html"
+to = "/fr/organisations/atelier-promethee/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ameublement-et-decoration/ebeniste/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/ebeniste/"
+
+[[redirects]]
+from = "/en/organizations/epv-nouvelle-aquitaine/index.html"
+to = "/en/organizations/categories/regions/epv-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-centre-val-de-loire/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/andree-jardin-brosserie-julio/index.html"
+to = "/fr/organisations/andree-jardin-brosserie-julio/"
+
+[[redirects]]
+from = "/fr/notre-organisation/atelier-coralie-barbe/index.html"
+to = "/fr/organisations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/en/organizations/poterie-danduze-les-enfants-de-boisset/index.html"
+to = "/en/organizations/poterie-d-anduze-les-enfants-de-boisset/"
+
+[[redirects]]
+from = "/en/organizations/epv-normandie/index.html"
+to = "/en/organizations/categories/regions/epv-normandie/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/campus-versailles/index.html"
+to = "/en/organizations/campus-versailles/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-paca/index.html"
+to = "/fr/equipe/categories/administrateurs-re-paca/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/atelier-coralie-barbe/index.html"
+to = "/en/organizations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/charpentier-de-marine/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/charpentier-de-marine/"
+
+[[redirects]]
+from = "/en/agenda/2024-04-02-rendez-vous-d-exception-european-crafts-days-jema/index.html"
+to = "/en/agenda/2024/rendez-vous-d-exception-european-crafts-days-jema/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/fondeur-de-caracteres-1/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fondeur-de-caracteres-1/"
+
+[[redirects]]
+from = "/en/organizations/loubiere-la-forge-dart/index.html"
+to = "/en/organizations/loubiere-la-forge-d-art/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/muzeo/index.html"
+to = "/fr/organisations/muzeo/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-grand-est/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/grand-est/"
+
+[[redirects]]
+from = "/fr/equipe/yves-faure/index.html"
+to = "/fr/equipe/thibault-gignoux/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/ravier-riccoboni/index.html"
+to = "/en/organizations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/fr/agenda/2025/assemblee-generale-et-remise-de-diplomes-1/index.html"
+to = "/fr/agenda/2025/assemblee-generale-et-remise-de-diplomes-aura2025/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/moulins-de-versailles/index.html"
+to = "/fr/organisations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/couturier-flou/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/couturier-flou/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/soca/index.html"
+to = "/fr/organisations/soca/"
+
+[[redirects]]
+from = "/en/reseau-excellence-bourgogne-franche-comte/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/en/posts/index.html"
+to = "/en/news/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/orfevre/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/orfevre/"
+
+[[redirects]]
+from = "/fr/organisations/agronovae-industrie-les-comtes-de-provence/index.html"
+to = "/fr/organisations/agro-novae-industrie-les-comtes-de-provence/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/"
+
+[[redirects]]
+from = "/en/our-organization/atelier-patrice-bricout/index.html"
+to = "/en/organizations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/fr/organisations/equinox-49/index.html"
+to = "/fr/organisations/equ-inox-49/"
+
+[[redirects]]
+from = "/fr/organisations/epv-bretagne/index.html"
+to = "/fr/organisations/categories/regions/epv-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/couvreur-ornemaniste/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/couvreur-ornemaniste/"
+
+[[redirects]]
+from = "/en/organizations/societe-dedition-religieuse-et-darticles-de-lourdes-seral/index.html"
+to = "/en/organizations/societe-d-edition-religieuse-et-d-articles-de-lourdes-seral/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atout-france/index.html"
+to = "/fr/organisations/atout-france/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/abc-leroyer/index.html"
+to = "/fr/organisations/abc-leroyer/"
+
+[[redirects]]
+from = "/fr/notre-organisation/societe-dencouragement-pour-lindustrie-nationale/index.html"
+to = "/fr/organisations/societe-d-encouragement-pour-l-industrie-nationale/"
+
+[[redirects]]
+from = "/fr/annuaire/la-maison-du-vitrail/index.html"
+to = "/fr/organisations/la-maison-du-vitrail/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-mode-et-accessoires/tailleur-1/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/tailleur-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/polisseur-1/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/polisseur-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/chaussures/index.html"
+to = "/fr/organisations/categories/produits/habillement/chaussures/"
+
+[[redirects]]
+from = "/en/agenda/2024-06-20-matinale-1-1/index.html"
+to = "/en/agenda/2024/matinale-1-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-16/jeux-jouets-et-ouvrages-mecaniques/index.html"
+to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/fr/organisations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/en/organizations/epv-bretagne/index.html"
+to = "/en/organizations/categories/regions/epv-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/bronze-dart-francais/index.html"
+to = "/fr/organisations/bronze-d-art-francais/"
+
+[[redirects]]
+from = "/fr/annuaire/delta-meca/index.html"
+to = "/fr/organisations/delta-meca/"
+
+[[redirects]]
+from = "/fr/annuaire/maison-fey/index.html"
+to = "/fr/organisations/maison-fey/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/moulins-de-versailles/index.html"
+to = "/en/organizations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/new-tone/index.html"
+to = "/fr/organisations/new-tone/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-gastronomie/index.html"
+to = "/fr/organisations/categories/domaines/gastronomie-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-metal/coutelier/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/coutelier/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-centre-val-de-la-loire/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/chantier-des-ileaux/index.html"
+to = "/en/organizations/chantier-des-ileaux/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/atout-france/index.html"
+to = "/fr/organisations/atout-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/andree-jardin-brosserie-julio/index.html"
+to = "/fr/organisations/andree-jardin-brosserie-julio/"
+
+[[redirects]]
+from = "/en/posts/2023-06-30-les-epv-bourgogne-franche-comte-en-nombre-aux-rencontres-economiques-des-metiers-dart-rema-a-tonnerr/index.html"
+to = "/en/news/2023-06-30-the-bourgogne-franche-comte-epvs-are-out-in-force-at-the-rencontres-economiques-des-metiers-d-art-re/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/macon-du-patrimoine-bati/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/macon-du-patrimoine-bati/"
+
+[[redirects]]
+from = "/fr/notre-organisation/bodet-campanaire/index.html"
+to = "/fr/organisations/bodet-campanaire/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/artmetal-framex/index.html"
+to = "/fr/organisations/artmetal-framex/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-pays-de-la-loire/index.html"
+to = "/en/team/categories/administrateurs-re-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/annuaire/la-maison-du-petit-four/index.html"
+to = "/fr/organisations/la-maison-du-petit-four/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/andree-jardin-brosserie-julio/index.html"
+to = "/en/organizations/andree-jardin-brosserie-julio/"
+
+[[redirects]]
+from = "/fr/notre-organisation/cofrex/index.html"
+to = "/fr/organisations/cofrex/"
+
+[[redirects]]
+from = "/fr/annuaire/ch-legrand-faconnage/index.html"
+to = "/fr/organisations/ch-legrand-faconnage/"
+
+[[redirects]]
+from = "/fr/annuaire/pierrenoel/index.html"
+to = "/fr/organisations/pierrenoel/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/meubles/index.html"
+to = "/fr/organisations/categories/domaines/restauration/meubles/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-nouvelle-aquitaine/index.html"
+to = "/en/organizations/categories/regions/epv-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-tabletterie/index.html"
+to = "/fr/organisations/categories/domaines/tabletterie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/cartonnier/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/cartonnier/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/carrafont/index.html"
+to = "/en/organizations/carrafont/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/megissier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/megissier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/bodet-campanaire/index.html"
+to = "/fr/organisations/bodet-campanaire/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/denis-et-fils/index.html"
+to = "/fr/organisations/denis-et-fils/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-occitanie/index.html"
+to = "/fr/equipe/categories/administrateurs-re-occitanie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/miroitier-argenteur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/miroitier-argenteur/"
+
+[[redirects]]
+from = "/fr/notre-organisation/inma/index.html"
+to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/gauthier-cie/index.html"
+to = "/en/organizations/gauthier-cie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/index.html"
+to = "/fr/organisations/categories/domaines/cuir/"
+
+[[redirects]]
+from = "/fr/notre-organisation/carrafont/index.html"
+to = "/fr/organisations/carrafont/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/fabricant-dobjets-en-papier-et-ou-carton/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabricant-dobjets-en-papier-et-ou-carton/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/atelier-auder-dornements/index.html"
+to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/androuet/index.html"
+to = "/en/organizations/androuet/"
+
+[[redirects]]
+from = "/fr/agenda/2024-05-14-presentielle-au-chantier-des-ileaux/index.html"
+to = "/fr/agenda/2024/presentielle-au-chantier-des-ileaux/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/pierrenoel/index.html"
+to = "/fr/organisations/pierrenoel/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-nouvelle-aquitaine/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-normandie/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/normandie/"
+
+[[redirects]]
+from = "/fr/annuaire/bronzes-de-france-bagues/index.html"
+to = "/fr/organisations/bronzes-de-france-bagues/"
+
+[[redirects]]
+from = "/fr/organisations/categories/epv-pays-de-la-loire/index.html"
+to = "/fr/organisations/categories/regions/epv-pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/organizations/poterie-dalbi/index.html"
+to = "/en/organizations/poterie-d-albi/"
+
+[[redirects]]
+from = "/fr/annuaire/digital-packaging/index.html"
+to = "/fr/organisations/digital-packaging/"
+
+[[redirects]]
+from = "/fr/organisations/epv-grand-est/index.html"
+to = "/fr/organisations/categories/regions/epv-grand-est/"
+
+[[redirects]]
+from = "/en/reseau-excellence-bretagne/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/brittany/"
+
+[[redirects]]
+from = "/fr/offres-d-emploi/index.html"
+to = "/fr/appels-a-candidature/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/imprimeur/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/imprimeur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/metallier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/metallier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/menuisier-en-sieges/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/menuisier-en-sieges/"
+
+[[redirects]]
+from = "/fr/notre-organisation/ch-legrand-faconnage/index.html"
+to = "/fr/organisations/ch-legrand-faconnage/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/inma/index.html"
+to = "/en/organizations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/campus-versailles/index.html"
+to = "/fr/organisations/campus-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/lhorloger-de-la-croix-rousse/index.html"
+to = "/fr/organisations/l-horloger-de-la-croix-rousse/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/en/organizations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/fr/le-label-epv/presentation-du-label/index.html"
+to = "/fr/nos-epv/presentation-du-label/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/verre-et-cristal/index.html"
+to = "/fr/organisations/categories/domaines/restauration/verre-et-cristal/"
+
+[[redirects]]
+from = "/en/posts/2024-03-01-32-nouveaux-laureats-du-label-entreprises-du-patrimoine-vivant-en-hauts-de-france/index.html"
+to = "/en/news/2024-03-01-32-nouveaux-laureats-du-label-entreprises-du-patrimoine-vivant-en-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/en/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/index.html"
+to = "/en/organizations/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/digital-packaging/index.html"
+to = "/en/organizations/digital-packaging/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/doreur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/doreur/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/atelier-fey/index.html"
+to = "/en/organizations/atelier-fey/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/astier-de-villatte/index.html"
+to = "/fr/organisations/astier-de-villatte/"
+
+[[redirects]]
+from = "/en/organizations/categories/type-dorganisation/partenaires/index.html"
+to = "/en/organizations/categories/organizations-type/partenaires/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/"
+
+[[redirects]]
+from = "/fr/annuaire/cruard-menuiserie/index.html"
+to = "/fr/organisations/cruard-menuiserie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/remy-garnier/index.html"
+to = "/fr/organisations/remy-garnier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/vitraux/index.html"
+to = "/fr/organisations/categories/domaines/restauration/vitraux/"
+
+[[redirects]]
+from = "/fr/annuaire/conseillers-du-commerce-exterieurs/index.html"
+to = "/fr/organisations/conseillers-du-commerce-exterieurs/"
+
+[[redirects]]
+from = "/fr/organisations/epv-nouvelle-aquitaine/index.html"
+to = "/fr/organisations/categories/regions/epv-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/reseau-excellence-hauts-de-france/index.html"
+to = "/en/organizations/reseau-excellence-hauts-de-france/"
+
+[[redirects]]
+from = "/en/posts/news-from-pays-de-la-loire/index.html"
+to = "/en/news/news-from-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/imprimeur/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/imprimeur/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/maison-fey/index.html"
+to = "/fr/organisations/maison-fey/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/verrier-a-la-main/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-a-la-main/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/graveur-2/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/graveur-2/"
+
+[[redirects]]
+from = "/fr/agenda/2025/assemblee-generale-et-ceremonie-de-remise-de-diplomes-auvergne-rhone-alpes/index.html"
+to = "/fr/agenda/2025/assemblee-generale-et-remise-de-diplomes-aura2025/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-hauts-de-france/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/hauts-de-france/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/soca/index.html"
+to = "/fr/organisations/soca/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/fabricant-de-parapluies-parasols-ombrelles-et-cannes/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/fabricant-de-parapluies-parasols-ombrelles-et-cannes/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/reseau-excellence-auvergne-rhone-alpes/index.html"
+to = "/fr/organisations/reseau-excellence-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/annuaire/phelippeau-tapissier/index.html"
+to = "/fr/organisations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/phelippeau-tapissier/index.html"
+to = "/fr/organisations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/savoir-faire-15/vitraux/index.html"
+to = "/fr/organisations/categories/domaines/restauration/vitraux/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-textile/brodeur-sur-machine-guidee-main/index.html"
+to = "/fr/organisations/categories/domaines/textile/brodeur-sur-machine-guidee-main/"
+
+[[redirects]]
+from = "/fr/notre-organisation/le-papier-darmenie/index.html"
+to = "/fr/organisations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/les-ateliers-de-la-chapelle/index.html"
+to = "/fr/organisations/les-ateliers-de-la-chapelle/"
+
+[[redirects]]
+from = "/en/organizations/serres-et-ferronneries-dantan/index.html"
+to = "/en/organizations/serres-et-ferronneries-d-antan/"
+
+[[redirects]]
+from = "/fr/notre-organisation/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/fr/organisations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/atelier-tourtoulou/index.html"
+to = "/en/organizations/atelier-tourtoulou/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/culture-dobjet/index.html"
+to = "/fr/organisations/culture-d-objet/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/ch-legrand-faconnage/index.html"
+to = "/fr/organisations/ch-legrand-faconnage/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/treillageur/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/treillageur/"
+
+[[redirects]]
+from = "/fr/actualites/news-from-brittany/index.html"
+to = "/fr/actualites/actualites-de-bretagne/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-centre-val-de-loire/index.html"
+to = "/en/organizations/categories/regions/epv-centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/organizations/molinelli-metallerie-dart/index.html"
+to = "/en/organizations/molinelli-metallerie-d-art/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-facture-instrumentale/facteur-etou-restaurateur-de-pianos/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-de-pianos/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/produits-laitiers/fromages/index.html"
+to = "/fr/organisations/categories/produits/alimentation/fromages/"
+
+[[redirects]]
+from = "/en/posts/news-from-normandie/index.html"
+to = "/en/news/news-from-normandie/"
+
+[[redirects]]
+from = "/fr/annuaire/muzeo/index.html"
+to = "/fr/organisations/muzeo/"
+
+[[redirects]]
+from = "/en/reseau-excellence-hauts-de-france/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/hauts-de-france/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-patrice-bricout/index.html"
+to = "/en/organizations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-brittany/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/brittany/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-provence-alpes-cote-d-azur/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/provence-alpes-cote-d-azur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/peintre-en-decor/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/peintre-en-decor/"
+
+[[redirects]]
+from = "/en/organizations/inma/index.html"
+to = "/en/organizations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/organizations/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/en/organizations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
+to = "/en/organizations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/sellier-dameublement/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/sellier-dameublement/"
+
+[[redirects]]
+from = "/en/agenda/rse-et-formation/index.html"
+to = "/en/agenda/csr-and-training/"
+
+[[redirects]]
+from = "/en/our-organization/pianos-balleron/index.html"
+to = "/en/organizations/pianos-balleron/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/ch-legrand-faconnage/index.html"
+to = "/fr/organisations/ch-legrand-faconnage/"
+
+[[redirects]]
+from = "/fr/organisations/categories/type-dorganisation/entreprise-du-patrimoine-vivant/index.html"
+to = "/fr/organisations/categories/type-dorganisation/entreprises-du-patrimoine-vivant/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/cruard-menuiserie/index.html"
+to = "/fr/organisations/cruard-menuiserie/"
+
+[[redirects]]
+from = "/en/organizations/categories/epv-hauts-de-france/index.html"
+to = "/en/organizations/categories/regions/epv-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/notre-organisation/new-tone/index.html"
+to = "/fr/organisations/new-tone/"
+
+[[redirects]]
+from = "/en/reseau-excellence-centre-val-de-loire/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-ile-de-france/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/ile-de-france/"
+
+[[redirects]]
+from = "/en/reseau-excellence-in-france/reseau-excellence-normandie/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/normandie/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/cvl-luminaires/index.html"
+to = "/fr/organisations/cvl-luminaires/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-ceramique/ceramique/index.html"
+to = "/fr/organisations/categories/domaines/ceramique-1/ceramique/"
+
+[[redirects]]
+from = "/en/news/2024-03-14-decouvrez-la-mission-d-export-inma-anepv-pendant-l-exposition-universelle-de-dubai/index.html"
+to = "/en/news/2021-07-28-discover-the-export-mission-during-the-dubai-world-expo/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/cuirs/index.html"
+to = "/fr/organisations/categories/domaines/restauration/cuirs/"
+
+[[redirects]]
+from = "/fr/equipe/administrateurs-re-nouvelle-aquitaine/index.html"
+to = "/fr/equipe/categories/administrateurs-re-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-tabletterie/brosserie/index.html"
+to = "/fr/organisations/categories/domaines/tabletterie/brosserie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-textile/tisserand/index.html"
+to = "/fr/organisations/categories/domaines/textile/tisserand/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/culture-dobjet/index.html"
+to = "/fr/organisations/culture-d-objet/"
+
+[[redirects]]
+from = "/fr/annuaire/societe-francaise-de-marbrerie-cochois/index.html"
+to = "/fr/organisations/societe-francaise-de-marbrerie-cochois/"
+
+[[redirects]]
+from = "/fr/organisations/categories/partenaires/index.html"
+to = "/fr/organisations/categories/type-dorganisation/partenaires/"
+
+[[redirects]]
+from = "/fr/annuaire/institut-pour-les-savoir-faire-francais/index.html"
+to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/cofrex/index.html"
+to = "/en/organizations/cofrex/"
+
+[[redirects]]
+from = "/fr/agenda/2025/save-the-date-les-epv-bougent-dans-le-grand-est/index.html"
+to = "/fr/agenda/2025/les-epv-bougent-dans-le-grand-est/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/atelier-tourtoulou/index.html"
+to = "/en/organizations/atelier-tourtoulou/"
+
+[[redirects]]
+from = "/en/reseau-excellence-pays-de-la-loire/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-cuir/malletier/index.html"
+to = "/fr/organisations/categories/domaines/cuir/malletier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/mouleur/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/mouleur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-tabletterie/tabletier/index.html"
+to = "/fr/organisations/categories/domaines/tabletterie/tabletier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/societe-francaise-de-marbrerie-cochois/index.html"
+to = "/fr/organisations/societe-francaise-de-marbrerie-cochois/"
+
+[[redirects]]
+from = "/en/our-organization/campus-versailles/index.html"
+to = "/en/organizations/campus-versailles/"
+
+[[redirects]]
+from = "/fr/actualites/2024-01-19-cc/index.html"
+to = "/fr/actualites/2024-01-19-galette-des-epv-d-ile-de-france-aux-ateliers-pictet/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/fabricant-dobjets-en-papier-et-ou-carton/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabricant-dobjets-en-papier-et-ou-carton/"
+
+[[redirects]]
+from = "/en/agenda/2024-05-14-presentielle-au-chantier-des-ileaux/index.html"
+to = "/en/agenda/2024/presentielle-au-chantier-des-ileaux/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/astier-de-villatte/index.html"
+to = "/en/organizations/astier-de-villatte/"
+
+[[redirects]]
+from = "/en/reseau-excellence-occitanie/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/occitanie/"
+
+[[redirects]]
+from = "/fr/actualites/2022-01-31-les-entreprises-de-l-excellence-normande-ont-tout-interet-a-jouer-collectif/index.html"
+to = "/fr/actualites/2022-03-31-les-entreprises-de-l-excellence-normande-ont-tout-interet-a-jouer-collectif/"
+
+[[redirects]]
+from = "/en/news/2023-11-30-accelerateur-savoir-faire-d-exception-2/index.html"
+to = "/en/news/2023-11-30-exceptional-know-how-accelerator-2/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/equinox-49/index.html"
+to = "/fr/organisations/equ-inox-49/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/digital-packaging/index.html"
+to = "/fr/organisations/digital-packaging/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-luminaire/fabricant-de-luminaires/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/fabricant-de-luminaires/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-normandie/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/normandie/"
+
+[[redirects]]
+from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-nouvelle-aquitaine/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/hugotag/index.html"
+to = "/fr/organisations/hugotag-ennoblissement/"
+
+[[redirects]]
+from = "/fr/equipe/gregory-manoukian/index.html"
+to = "/fr/equipe/gregory-laurent-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/ebeniste/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/ebeniste/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/ets-roze/index.html"
+to = "/fr/organisations/ets-roze/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/le-papier-darmenie/index.html"
+to = "/en/organizations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/organisations/atelier-auder-dornements/index.html"
+to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/fr/annuaire/decotec/index.html"
+to = "/fr/organisations/decotec/"
+
+[[redirects]]
+from = "/en/organizations/ressources-marchand-de-couleur/index.html"
+to = "/en/organizations/ressource-marchand-de-couleur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/modiste/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/modiste/"
+
+[[redirects]]
+from = "/fr/actualites/2024-03-18-les-entreprises-du-patrimoine-vivant-pepites-normandes-inoxydables/index.html"
+to = "/fr/actualites/2022-03-09-les-entreprises-du-patrimoine-vivant-pepites-normandes-inoxydables/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/fonderie-sylvain-compagnon/index.html"
+to = "/fr/organisations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/societe-francaise-de-marbrerie-cochois/index.html"
+to = "/en/organizations/societe-francaise-de-marbrerie-cochois/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/cartonnier/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/cartonnier/"
+
+[[redirects]]
+from = "/fr/annuaire/arthema/index.html"
+to = "/fr/organisations/arthema/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members/bouin-gardon/index.html"
+to = "/en/organizations/bouin-gardon/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/andree-jardin-brosserie-julio/index.html"
+to = "/fr/organisations/andree-jardin-brosserie-julio/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/atelier-auder-dornements/index.html"
+to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/ardoisier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/ardoisier/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/cruard-charpente/index.html"
+to = "/fr/organisations/cruard-charpente/"
+
+[[redirects]]
+from = "/en/agenda/2024-06-27-matinale-1/index.html"
+to = "/en/agenda/2024/matinale-1/"
+
+[[redirects]]
+from = "/en/posts/news-from-auvergne-rhone-alpes/index.html"
+to = "/en/news/news-from-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/our-organization/new-tone/index.html"
+to = "/en/organizations/new-tone/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/fabricant-de-serrures/index.html"
+to = "/fr/organisations/categories/domaines/ameublement-et-decoration/fabricant-de-serrures/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/procedes-chenel-international/index.html"
+to = "/en/organizations/procedes-chenel-international/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-textile/tricoteur/index.html"
+to = "/fr/organisations/categories/domaines/textile/tricoteur/"
+
+[[redirects]]
+from = "/fr/lassociation/nos-missions/index.html"
+to = "/fr/lassociation/notre-histoire-et-nos-missions/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-restauration/ceramiques/index.html"
+to = "/fr/organisations/categories/domaines/restauration/ceramiques/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-pays-de-la-loire/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/notre-organisation/atelier-fey/index.html"
+to = "/fr/organisations/atelier-fey/"
+
+[[redirects]]
+from = "/fr/annuaire/bosabo-audouin/index.html"
+to = "/fr/organisations/bosabo-audouin/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/"
+
+[[redirects]]
+from = "/fr/organisations/categories/univers/loirsirs-transports/index.html"
+to = "/fr/organisations/categories/univers/loisirs-transports/"
+
+[[redirects]]
+from = "/en/organizations/gravor/index.html"
+to = "/en/organizations/grav-or/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-papier-du-graphisme-et-de-l-impression/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-cuir/bottier-main/index.html"
+to = "/fr/organisations/categories/domaines/cuir/bottier-main/"
+
+[[redirects]]
+from = "/fr/annuaire/rinck/index.html"
+to = "/fr/organisations/rinck/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/sculpteur/index.html"
+to = "/fr/organisations/categories/domaines/verre-et-cristal-1/sculpteur/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/siegeair/index.html"
+to = "/en/organizations/siegeair/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/st-dupont-sa/index.html"
+to = "/fr/organisations/s-t-dupont-sa/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-hauts-de-france/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine/domaine-cuir/index.html"
+to = "/fr/organisations/categories/domaines/cuir/"
+
+[[redirects]]
+from = "/fr/organisations/st-dupont-sa/index.html"
+to = "/fr/organisations/s-t-dupont-sa/"
+
+[[redirects]]
+from = "/fr/agenda/2025/les-rendez-vous-cook-share-by-la-filiere-france-maisonobjet-sept-2025-hall-4/index.html"
+to = "/fr/agenda/2025/les-rendez-vous-cook-share-by-la-filiere-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier-en-metaux-precieux/index.html"
+to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier-en-metaux-precieux/"
+
+[[redirects]]
+from = "/fr/organisations/culture-dobjet/index.html"
+to = "/fr/organisations/culture-d-objet/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-restauration/peintures/index.html"
+to = "/fr/organisations/categories/domaines/restauration/peintures/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-en-france/reseau-excellence-pays-de-la-loire/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-metal/ferronnier-forgeron/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/ferronnier-forgeron/"
+
+[[redirects]]
+from = "/en/agenda/2024-05-23-matinale-1/index.html"
+to = "/en/agenda/2024/matinale-1/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/la-maison-du-petit-four/index.html"
+to = "/en/organizations/la-maison-du-petit-four/"
+
+[[redirects]]
+from = "/fr/agenda/2025/campagne-de-promotion-a-destination-du-grand-public-de-la-visite-dentreprise-et-du-tourisme-de-savoi/index.html"
+to = "/fr/agenda/2025/ici-nos-savoir-faire-une-semaine-pour-visiter-les-entreprises-de-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/annuaire/drac-pays-de-la-loire/index.html"
+to = "/fr/organisations/drac-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/notre-organisation/andree-jardin-brosserie-julio/index.html"
+to = "/fr/organisations/andree-jardin-brosserie-julio/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/parqueteur/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/parqueteur/"
+
+[[redirects]]
+from = "/en/our-organization/bouin-gardon/index.html"
+to = "/en/organizations/bouin-gardon/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes-v1/siegeair/index.html"
+to = "/fr/organisations/siegeair/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/drac-pays-de-la-loire/index.html"
+to = "/en/organizations/drac-pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/organisations/epv-normandie/index.html"
+to = "/fr/organisations/categories/regions/epv-normandie/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/fonderie-sylvain-compagnon/index.html"
+to = "/en/organizations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-luminaire/fabricant-de-luminaires/index.html"
+to = "/fr/organisations/categories/domaines/luminaire/fabricant-de-luminaires/"
+
+[[redirects]]
+from = "/en/organizations/voisin/index.html"
+to = "/en/organizations/voisin-maitre-chocolatier/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-pays-de-la-loire/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/pays-de-la-loire/"
+
+[[redirects]]
+from = "/fr/le-reseau-excellence-en-france/reseau-excellence-bourgogne-franche-comte/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/bronzes-de-france-bagues/index.html"
+to = "/fr/organisations/bronzes-de-france-bagues/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-metal/modeleur-mouleur/index.html"
+to = "/fr/organisations/categories/domaines/metal-1/modeleur-mouleur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/relieur/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/relieur/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
+to = "/fr/organisations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-auder-dornements/index.html"
+to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/fr/notre-organisation-annuaire/atelier-coralie-barbe/index.html"
+to = "/fr/organisations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/fr/reseau-excellence-bourgogne-franche-comte/index.html"
+to = "/fr/lassociation/reseau-excellence-en-france/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/relieur/index.html"
+to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/relieur/"
+
+[[redirects]]
+from = "/fr/annuaire-des-epv-adherentes/bodet-campanaire/index.html"
+to = "/fr/organisations/bodet-campanaire/"
+
+[[redirects]]
+from = "/en/reseau-excellence-centre-val-de-la-loire/index.html"
+to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaines/domaine-tabletterie/index.html"
+to = "/fr/organisations/categories/domaines/tabletterie/"
+
+[[redirects]]
+from = "/en/directory-of-epv-members-v1/maison-gatti/index.html"
+to = "/en/organizations/maison-gatti/"
+
+[[redirects]]
+from = "/fr/annuaire/atelier-patrice-bricout/index.html"
+to = "/fr/organisations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/en/team/administrateurs-re-bourgogne-franche-comte/index.html"
+to = "/en/team/categories/administrateurs-re-bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/atbc-atelier-de-tissage-de-bussieres/index.html"
+to = "/fr/organisations/atbc-atelier-de-tissage-de-bussieres-hermes/"
+
+[[redirects]]
+from = "/fr/organisations/categories/domaine-mode-et-accessoires/couturier-flou/index.html"
+to = "/fr/organisations/categories/domaines/mode-et-accessoires/couturier-flou/"
+
