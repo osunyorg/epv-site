@@ -2019,6 +2019,10 @@ from = "/fr/annuaire/denis-et-fils/index.html"
 to = "/fr/organisations/denis-et-fils/"
 
 [[redirects]]
+from = "/fr/equipe/julie-guillot/index.html"
+to = "/fr/equipe/reseau-excellence/"
+
+[[redirects]]
 from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-grand-est/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/grand-est/"
 
@@ -4065,6 +4069,10 @@ to = "/en/organizations/atelier-fey/"
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/astier-de-villatte/index.html"
 to = "/fr/organisations/astier-de-villatte/"
+
+[[redirects]]
+from = "/fr/equipe/julie-guillot/actualites/index.html"
+to = "/fr/equipe/reseau-excellence/actualites/"
 
 [[redirects]]
 from = "/en/organizations/categories/type-dorganisation/partenaires/index.html"
