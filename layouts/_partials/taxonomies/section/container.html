@@ -1,6 +1,10 @@
 {{ if .Params.section_taxonomies }}
-  <div class="section-taxonomies-container">
+  <div class="section-taxonomies-container" data-organization-title="{{ i18n "commons.search.type" }}">
     {{ partial "commons/search/button.html" "taxonomies" }}
     {{ partial "taxonomies/section/list.html" . }}
   </div>
+  
+  {{ if eq .Type "organizations" }}
+    {{ partial "scripts/organizations-filters.html" . }}
+  {{ end }}
 {{ end }}

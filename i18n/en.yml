@@ -1,0 +1,4 @@
+commons:
+  search:
+    title: Search the directory by keywords
+    type: Organizations

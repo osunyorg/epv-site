@@ -1,0 +1,32 @@
+<script type="module">
+  var taxonomiesSearchTrigger = document.querySelector('.search-button--taxonomies');
+  
+  if (taxonomiesSearchTrigger) {
+    // get i18n type
+    var taxonomyContainer = document.querySelector('.section-taxonomies-container');
+    var taxonomyType = taxonomyContainer.getAttribute('data-organization-title');
+    
+    var manager = window.PagefindComponents.getInstanceManager();
+    var instance = manager.getInstance('default');
+    var pagefindFilters = document.querySelector('pagefind-filter-pane');
+
+    function handleSearchTrigger(filterValue, showFilters) {
+      pagefindFilters.style.display = showFilters ? 'block' : 'none';
+      setTimeout(function() {
+        instance.triggerFilter('type', filterValue);
+      }, 200);
+    }
+
+    taxonomiesSearchTrigger.addEventListener('click', (event) => {
+      handleSearchTrigger([taxonomyType], false);
+    });
+
+    // remove filters in same instance when clicking primary search button
+    var primarySearchTrigger = document.querySelector('.search-button--primary');
+    if (primarySearchTrigger) {
+      primarySearchTrigger.addEventListener('click', () => {
+        handleSearchTrigger([], true);
+      });
+    }
+  }
+</script>

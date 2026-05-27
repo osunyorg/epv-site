@@ -1,3 +1,4 @@
 commons:
   search:
-    title: Recherche par mots clés
+    title: Recherche par mots clés dans l'annuaire
+    type: Organisations
