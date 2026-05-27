@@ -3175,6 +3175,10 @@ from = "/fr/organisations/categories/domaines/domaine-restauration/cuirs/index.h
 to = "/fr/organisations/categories/domaines/restauration/cuirs/"
 
 [[redirects]]
+from = "/en/organizations/categories/domaine-architecture-et-jardin/index.html"
+to = "/en/organizations/categories/domaines/domaine-architecture-et-jardin/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-mode-et-accessoires/couturier/index.html"
 to = "/fr/organisations/categories/domaines/mode-et-accessoires/couturier/"
 
