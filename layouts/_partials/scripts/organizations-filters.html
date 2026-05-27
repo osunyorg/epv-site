@@ -10,22 +10,24 @@
     var instance = manager.getInstance('default');
     var pagefindFilters = document.querySelector('pagefind-filter-pane');
 
-    function handleSearchTrigger(filterValue, showFilters) {
-      pagefindFilters.style.display = showFilters ? 'block' : 'none';
-      setTimeout(function() {
-        instance.triggerFilter('type', filterValue);
-      }, 200);
-    }
-
     taxonomiesSearchTrigger.addEventListener('click', (event) => {
-      handleSearchTrigger([taxonomyType], false);
+      // remove filters pane from modal (as asked by anepv)
+      pagefindFilters.style.display = 'none';
+
+      setTimeout(function() {
+        instance.triggerFilter('type', [taxonomyType]);
+      }, 200);
     });
 
     // remove filters in same instance when clicking primary search button
     var primarySearchTrigger = document.querySelector('.search-button--primary');
     if (primarySearchTrigger) {
       primarySearchTrigger.addEventListener('click', () => {
-        handleSearchTrigger([], true);
+        pagefindFilters.style.display = 'block';
+        
+        setTimeout(() => {
+          instance.triggerFilter('type', []);
+        }, 200);
       });
     }
   }
