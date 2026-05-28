@@ -3575,6 +3575,10 @@ from = "/fr/reseau-excellence-occitanie/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/occitanie/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/mode-et-accessoires-1/habillement/index.html"
+to = "/fr/organisations/categories/produits/habillement/"
+
+[[redirects]]
 from = "/en/organizations/marcel-gandit/index.html"
 to = "/en/organizations/marcel-gandit-hermes/"
 
