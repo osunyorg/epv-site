@@ -1,5 +1,6 @@
 {{ if .Params.section_taxonomies }}
-  <div class="section-taxonomies-container" data-organization-title="{{ i18n "commons.search.type" }}">
+  {{ $type := partial "commons/search/helpers/GetFilterLabelByType" . }}
+  <div class="section-taxonomies-container" data-filter-type="{{ $type }}">
     {{ partial "commons/search/button.html" "taxonomies" }}
     {{ partial "taxonomies/section/list.html" . }}
   </div>
