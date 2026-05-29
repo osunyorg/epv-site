@@ -871,6 +871,10 @@ from = "/en/organizations/categories/mode-beaute/index.html"
 to = "/en/organizations/categories/univers/mode-beaute/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/poterie-ceramique/index.html"
+to = "/en/organizations/categories/products/mode-et-accessoires-1/poterie-ceramique/"
+
+[[redirects]]
 from = "/fr/equipe/administrateurs-re-aura/index.html"
 to = "/fr/equipe/categories/administrateurs-re-aura/"
 
@@ -1117,6 +1121,10 @@ to = "/fr/organisations/astier-de-villatte/"
 [[redirects]]
 from = "/fr/le-label-epv/annuaire-des-epv-adherentes/index.html"
 to = "/fr/organisations/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/poterie-ceramique/index.html"
+to = "/fr/organisations/categories/produits/mode-et-accessoires-1/poterie-ceramique/"
 
 [[redirects]]
 from = "/en/our-organization/ch-legrand-faconnage/index.html"
