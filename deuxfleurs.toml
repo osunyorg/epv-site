@@ -987,6 +987,10 @@ from = "/en/directory-of-epv-members-v1/giovanna-chittoda-brescia-antoine-vittor
 to = "/en/organizations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/mode-et-accessoires-1/poterie-ceramique/index.html"
+to = "/en/organizations/categories/products/poterie-ceramique/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-textile/brodeur-sur-machine-guidee-main/index.html"
 to = "/fr/organisations/categories/domaines/textile/brodeur-sur-machine-guidee-main/"
 
@@ -1057,6 +1061,10 @@ to = "/fr/organisations/societe-d-impression-sur-etoffes-du-grand-lemps-s-i-e-g-
 [[redirects]]
 from = "/en/organizations/categories/type-dorganisation/association-regionales/index.html"
 to = "/en/organizations/categories/organizations-type/association-regionales/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/mobilier-ebenisterie/index.html"
+to = "/en/organizations/categories/products/mobilier-ebenisterie/"
 
 [[redirects]]
 from = "/fr/annuaire/atelier-thiery/index.html"
@@ -1381,6 +1389,10 @@ to = "/fr/organisations/categories/domaines/metal-1/ciseleur-1/"
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/culture-dobjet/index.html"
 to = "/en/organizations/culture-d-objet/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/mobilier-ebenisterie/index.html"
+to = "/fr/organisations/categories/produits/mobilier-ebenisterie/"
 
 [[redirects]]
 from = "/en/lassociation/join-reseau-excellence-1/index.html"
@@ -3145,6 +3157,10 @@ to = "/en/agenda/2025/meeting-of-the-excellence-network-on-the-theme-epvs-indust
 [[redirects]]
 from = "/en/organizations/categories/epv-bretagne/index.html"
 to = "/en/organizations/categories/regions/epv-bretagne/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/mode-et-accessoires-1/poterie-ceramique/index.html"
+to = "/fr/organisations/categories/produits/poterie-ceramique/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/marqueteur-de-pailles/index.html"
