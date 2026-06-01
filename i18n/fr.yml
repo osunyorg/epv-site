@@ -1,4 +1,4 @@
-commons:
-  search:
-    title: Recherche par mots clés dans l'annuaire
-    type: Organisations
+organizations:
+  index:
+    search:
+      label: Recherche par mots clés dans l'annuaire
