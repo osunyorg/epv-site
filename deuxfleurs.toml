@@ -3263,6 +3263,10 @@ from = "/fr/notre-organisation-annuaire/reseau-excellence-hauts-de-france/index.
 to = "/fr/organisations/reseau-excellence-hauts-de-france/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/tin/index.html"
+to = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/tin/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/moulins-de-versailles/index.html"
 to = "/fr/organisations/moulins-de-versailles/"
 
@@ -4021,6 +4025,10 @@ to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/impri
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/metallier/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/metallier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/tin/index.html"
+to = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/tin/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/menuisier-en-sieges/index.html"
