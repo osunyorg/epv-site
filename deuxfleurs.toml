@@ -2167,6 +2167,10 @@ from = "/fr/annuaire/st-dupont-sa/index.html"
 to = "/fr/organisations/s-t-dupont-sa/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/loisirs/billard-baby-foot/index.html"
+to = "/en/organizations/categories/products/loisirs/jeux/billard-baby-foot/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/pianos-balleron/index.html"
 to = "/fr/organisations/pianos-balleron/"
 
@@ -3917,6 +3921,10 @@ to = "/fr/organisations/categories/domaines/restauration/meubles/"
 [[redirects]]
 from = "/en/organizations/categories/epv-nouvelle-aquitaine/index.html"
 to = "/en/organizations/categories/regions/epv-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/loisirs/billard-baby-foot/index.html"
+to = "/fr/organisations/categories/produits/loisirs/jeux/billard-baby-foot/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-tabletterie/index.html"
