@@ -14,7 +14,7 @@ outputs:
   - html
   - rss
 pagination:
-  pagerSize: 72
+  pagerSize: 36
 params:
   debug:
     productionUrl: https://www.reseauexcellence.fr
@@ -22,3 +22,9 @@ params:
     index:
       search:
         active: true
+  image_sizes:
+    sections:
+      organizations:
+        logo:
+          tablet: false
+          desktop: false
