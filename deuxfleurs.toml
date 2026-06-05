@@ -39,8 +39,16 @@ from = "/fr/organisations/tonnellerie-du-pays-dauge/index.html"
 to = "/fr/organisations/tonnellerie-du-pays-d-auge/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/boisson/index.html"
+to = "/fr/organisations/categories/produits/boisson/"
+
+[[redirects]]
 from = "/fr/notre-organisation/ets-roze/index.html"
 to = "/fr/organisations/ets-roze/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/outils-industriels/index.html"
+to = "/en/organizations/categories/products/outils-industriels/"
 
 [[redirects]]
 from = "/fr/organisations/categories/epv-bourgogne-franche-comte/index.html"
@@ -57,6 +65,10 @@ to = "/fr/organisations/arthema/"
 [[redirects]]
 from = "/fr/annuaire/ravier-riccoboni/index.html"
 to = "/fr/organisations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/escalier/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/escalier/"
 
 [[redirects]]
 from = "/fr/reseau-excellence-bretagne/index.html"
@@ -113,6 +125,10 @@ to = "/fr/organisations/nortier-emballages/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/graveur-et-imprimeur-en-gaufrage/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/graveur-et-imprimeur-en-gaufrage/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/mustard/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/mustard/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/staffeur-stucateur/index.html"
@@ -191,10 +207,6 @@ from = "/en/posts/news-from-brittany/index.html"
 to = "/en/news/news-from-brittany/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/farines-alimentaires/index.html"
-to = "/fr/organisations/categories/produits/alimentation/farines-alimentaires/"
-
-[[redirects]]
 from = "/fr/organisations/categories/domaine-ameublement-et-decoration/tourneur-sur-bois/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/tourneur-sur-bois/"
 
@@ -267,6 +279,10 @@ from = "/fr/reseau-excellence-normandie/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/normandie/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/alto-1/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/alto-1/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/ateliers-perrault-freres/index.html"
 to = "/fr/organisations/ateliers-perrault-freres/"
 
@@ -275,12 +291,16 @@ from = "/en/organizations/les-delices-dalienor-croustadoc/index.html"
 to = "/en/organizations/les-delices-d-alienor-croustad-oc/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/produits-laitiers/index.html"
-to = "/fr/organisations/categories/produits/alimentation/"
+from = "/fr/organisations/categories/produits/gastronomie-2/produits-laitiers/index.html"
+to = "/fr/organisations/categories/produits/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-restauration/peintures/index.html"
 to = "/fr/organisations/categories/domaines/restauration/peintures/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/electricite-equipements-techniques/interrupteurs-electriques/index.html"
+to = "/fr/organisations/categories/produits/electricite-equipements-techniques/interrupteurs-electriques/"
 
 [[redirects]]
 from = "/fr/organisations/epv-aura/index.html"
@@ -335,6 +355,10 @@ from = "/fr/organisations/categories/savoir-faire-6/verrier-a-la-main/index.html
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-a-la-main/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/art-de-la-table/serviette-de-table/index.html"
+to = "/fr/organisations/categories/produits/art-de-la-table/serviette-de-table/"
+
+[[redirects]]
 from = "/fr/equipe/communication-epv-pdl/index.html"
 to = "/fr/equipe/reseau-excellence-pays-de-la-loire-communication/"
 
@@ -359,6 +383,10 @@ from = "/fr/organisations/categories/domaine-ameublement-et-decoration/vannier/i
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/vannier/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/maquette-prototypage/index.html"
+to = "/en/organizations/categories/products/maquette-prototypage/"
+
+[[redirects]]
 from = "/fr/actualites/2025-07-24-ceremonie-de-remise-des-diplomes-et-exposition-photos/index.html"
 to = "/fr/actualites/2025-05-20-ceremonie-de-remise-des-diplomes-et-exposition-photos/"
 
@@ -369,6 +397,10 @@ to = "/en/organizations/ateliers-perrault-freres/"
 [[redirects]]
 from = "/en/our-organization/atelier-fey/index.html"
 to = "/en/organizations/atelier-fey/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/papier-peint-tissu-d-ameublement/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/papier-peint-tissu-d-ameublement/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/nortier-emballages/index.html"
@@ -407,6 +439,10 @@ from = "/fr/annuaire-des-epv-adherentes/de-lor-dans-les-mains/index.html"
 to = "/fr/organisations/de-l-or-dans-les-mains/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/salon/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/salon/"
+
+[[redirects]]
 from = "/fr/annuaire/cruard-charpente/index.html"
 to = "/fr/organisations/cruard-charpente/"
 
@@ -417,6 +453,10 @@ to = "/fr/organisations/categories/domaines/textile/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/cartonnier/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/cartonnier/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/produits-alimentaires-transformes/index.html"
+to = "/fr/organisations/categories/produits/produits-alimentaires-transformes/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/phelippeau-tapissier/index.html"
@@ -447,16 +487,24 @@ from = "/en/agenda/2024-03-19-visit-to-gravor/index.html"
 to = "/en/agenda/2024/visit-to-gravor/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/sauces/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/sauces/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/vinaigre-1/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/vinaigre-1/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-ameublement-et-decoration/marqueteur/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/marqueteur/"
 
 [[redirects]]
-from = "/fr/organisations/categories/domaine-architecture-et-jardin/ardoisier/index.html"
-to = "/fr/organisations/categories/domaines/architecture-et-jardin/ardoisier/"
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/parquet/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/parquet/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/papeterie/index.html"
-to = "/fr/organisations/categories/produits/papeterie-et-ecriture/"
+from = "/fr/organisations/categories/domaine-architecture-et-jardin/ardoisier/index.html"
+to = "/fr/organisations/categories/domaines/architecture-et-jardin/ardoisier/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/ravier-riccoboni/index.html"
@@ -479,12 +527,20 @@ from = "/fr/notre-organisation/ateliers-bernard-pictet/index.html"
 to = "/fr/organisations/ateliers-bernard-pictet/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/plafond/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/plafond/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-coralie-barbe/index.html"
 to = "/fr/organisations/atelier-coralie-barbe/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/inma/index.html"
 to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/mobilier-ebenisterie/index.html"
+to = "/en/organizations/categories/products/mobilier-ebenisterie/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/denis-et-fils/index.html"
@@ -497,6 +553,10 @@ to = "/en/organizations/region-pays-de-la-loire/"
 [[redirects]]
 from = "/en/reseau-excellence-ile-de-france/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/ile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/cuisine/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/cuisine/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/cofrex/index.html"
@@ -515,12 +575,20 @@ from = "/fr/actualites/news-from-provence-alpes-cote-dazur/index.html"
 to = "/fr/actualites/actualites-de-provence-alpes-cote-d-azur/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/electricite-equipements-techniques/interrupteurs-electriques/index.html"
+to = "/en/organizations/categories/products/electricite-equipements-techniques/interrupteurs-electriques/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/business-france/index.html"
 to = "/fr/organisations/business-france/"
 
 [[redirects]]
 from = "/fr/annuaire/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/index.html"
 to = "/fr/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/nautisme-equipements-de-transport/index.html"
+to = "/en/organizations/categories/products/nautisme-equipements-de-transport/"
 
 [[redirects]]
 from = "/en/organizations/epv-grand-est/index.html"
@@ -537,6 +605,10 @@ to = "/en/organizations/atout-france/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-cuir/parcheminier/index.html"
 to = "/fr/organisations/categories/domaines/cuir/parcheminier/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/farine/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/farine/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/conseillers-du-commerce-exterieurs/index.html"
@@ -575,6 +647,10 @@ from = "/en/the-epv-label/index.html"
 to = "/en/our-epvs/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/oreillers/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/oreillers/"
+
+[[redirects]]
 from = "/fr/annuaire/ateliers-bernard-pictet/index.html"
 to = "/fr/organisations/ateliers-bernard-pictet/"
 
@@ -591,6 +667,10 @@ from = "/fr/organisations/categories/domaine-metal/bronzier/index.html"
 to = "/fr/organisations/categories/domaines/metal-1/bronzier/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/platrerie/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/platrerie/"
+
+[[redirects]]
 from = "/en/our-organization/maison-gatti/index.html"
 to = "/en/organizations/maison-gatti/"
 
@@ -599,12 +679,20 @@ from = "/en/directory-of-epv-members-v1/muzeo/index.html"
 to = "/en/organizations/muzeo/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/art-de-la-table/orfevre-2/index.html"
+to = "/fr/organisations/categories/produits/art-de-la-table/orfevre-2/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-cuir/maroquinier/index.html"
 to = "/fr/organisations/categories/domaines/cuir/maroquinier/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/institut-pour-les-savoir-faire-francais/index.html"
 to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/ameublement-de-salle-de-bain-1/lave-mains-fontaines-1/index.html"
+to = "/en/organizations/categories/products/ameublement-de-salle-de-bain-1/lave-mains-fontaines-1/"
 
 [[redirects]]
 from = "/fr/annuaire/tous-les-moteurs/index.html"
@@ -631,12 +719,28 @@ from = "/en/directory-of-epv-members-v1/bouin-gardon/index.html"
 to = "/en/organizations/bouin-gardon/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/restauration-du-patrimoine/restauration-d-oeuvres-d-art/index.html"
+to = "/fr/organisations/categories/produits/restauration-du-patrimoine/restauration-d-oeuvres-d-art/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/nyckelharpa/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/nyckelharpa/"
+
+[[redirects]]
 from = "/fr/reseau-excellence-en-france/reseau-excellence-grand-est/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/grand-est/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ceramique/ceramique/index.html"
 to = "/fr/organisations/categories/domaines/ceramique-1/ceramique/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/restauration-du-patrimoine/restauration-d-oeuvres-d-art/index.html"
+to = "/en/organizations/categories/products/restauration-du-patrimoine/restauration-d-oeuvres-d-art/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/corniches/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/corniches/"
 
 [[redirects]]
 from = "/fr/le-reseau-excellence-en-france/reseau-excellence-auvergne-rhone-alpes/index.html"
@@ -683,12 +787,20 @@ from = "/en/our-organization/ets-roze/index.html"
 to = "/en/organizations/ets-roze/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/loisirs/jeux/index.html"
+to = "/fr/organisations/categories/produits/jeux/"
+
+[[redirects]]
 from = "/fr/notre-organisation/ateliers-perrault-freres/index.html"
 to = "/fr/organisations/ateliers-perrault-freres/"
 
 [[redirects]]
 from = "/fr/annuaire/nortier-emballages/index.html"
 to = "/fr/organisations/nortier-emballages/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/fonderie/index.html"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/fonderie/"
 
 [[redirects]]
 from = "/fr/notre-organisation/bronzes-de-france-bagues/index.html"
@@ -705,6 +817,10 @@ to = "/fr/organisations/business-france/"
 [[redirects]]
 from = "/fr/organisations/poterie-danduze-les-enfants-de-boisset/index.html"
 to = "/fr/organisations/poterie-d-anduze-les-enfants-de-boisset/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/parfumerie-d-interieur-1/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/parfumerie-d-interieur-1/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/atelier-fey/index.html"
@@ -731,6 +847,10 @@ from = "/en/directory-of-epv-members-v1/de-lor-dans-les-mains/index.html"
 to = "/en/organizations/de-l-or-dans-les-mains/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/automobile-mecanique/vehicule-automobile-1/index.html"
+to = "/fr/organisations/categories/produits/automobile-mecanique/vehicule-automobile-1/"
+
+[[redirects]]
 from = "/en/reseau-excellence-in-france/reseau-excellence-ile-de-france/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/ile-de-france/"
 
@@ -755,8 +875,16 @@ from = "/en/organizations/sca-oleicole-loulibo/index.html"
 to = "/en/organizations/sca-oleicole-l-oulibo/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/filet-cordage-textile-technique/index.html"
+to = "/en/organizations/categories/products/filet-cordage-textile-technique/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/sculpteur-sur-pierre/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/sculpteur-sur-pierre/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/arts-graphiques-impression-papier/index.html"
+to = "/fr/organisations/categories/produits/arts-graphiques-impression-papier/"
 
 [[redirects]]
 from = "/en/organizations/fonderie-dart-bocquel/index.html"
@@ -765,6 +893,10 @@ to = "/en/organizations/fonderie-d-art-bocquel/"
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/moulins-de-versailles/index.html"
 to = "/fr/organisations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/renovation-et-amenagement-interieur/index.html"
+to = "/fr/organisations/categories/produits/renovation-et-amenagement-interieur/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/origine-france-garantie/index.html"
@@ -811,6 +943,10 @@ from = "/fr/annuaire-des-epv-adherentes/reseau-excellence-hauts-de-france/index.
 to = "/fr/organisations/reseau-excellence-hauts-de-france/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/usinage-metallique/index.html"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/usinage-metallique/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/"
 
@@ -823,8 +959,16 @@ from = "/en/directory-of-epv-members-v1/pierrenoel/index.html"
 to = "/en/organizations/pierrenoel/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/cloison/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/cloison/"
+
+[[redirects]]
 from = "/en/posts/news-from-provence-alpes-cote-dazur/index.html"
 to = "/en/news/news-from-provence-alpes-cote-dazur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/art-de-la-table/index.html"
+to = "/fr/organisations/categories/produits/art-de-la-table/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/digital-packaging/index.html"
@@ -859,6 +1003,14 @@ from = "/fr/annuaire-des-epv-adherentes-v1/bosabo-audouin/index.html"
 to = "/fr/organisations/bosabo-audouin/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/sculpture/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/sculpture/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/loisirs/sport/equitation-1/index.html"
+to = "/en/organizations/categories/products/sport/equitation-1/"
+
+[[redirects]]
 from = "/en/organizations/categories/epv-pays-de-la-loire/index.html"
 to = "/en/organizations/categories/regions/epv-pays-de-la-loire/"
 
@@ -877,6 +1029,14 @@ to = "/en/organizations/categories/univers/mode-beaute/"
 [[redirects]]
 from = "/en/organizations/categories/products/poterie-ceramique/index.html"
 to = "/en/organizations/categories/products/mode-et-accessoires-1/poterie-ceramique/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/automobile-mecanique/moteur-thermique-1/index.html"
+to = "/fr/organisations/categories/produits/automobile-mecanique/moteur-thermique-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/restauration-gastronomique/index.html"
+to = "/fr/organisations/categories/produits/restauration-gastronomique/"
 
 [[redirects]]
 from = "/fr/equipe/administrateurs-re-aura/index.html"
@@ -903,6 +1063,10 @@ from = "/fr/reseau-excellence-en-france/reseau-excellence-ile-de-france/index.ht
 to = "/fr/lassociation/reseau-excellence-en-france/ile-de-france/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/cuisine/torchon/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/cuisine/torchon/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members/carrafont/index.html"
 to = "/en/organizations/carrafont/"
 
@@ -921,6 +1085,10 @@ to = "/fr/organisations/categories/regions/epv-ile-de-france/"
 [[redirects]]
 from = "/fr/le-reseau-excellence-en-france/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/moulures/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/moulures/"
 
 [[redirects]]
 from = "/fr/notre-organisation/astier-de-villatte/index.html"
@@ -963,6 +1131,10 @@ from = "/fr/annuaire-des-epv-adherentes-v1/atelier-patrice-bricout/index.html"
 to = "/fr/organisations/atelier-patrice-bricout/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/oreillers/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/oreillers/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-ceramique/peintre-sur-faience/index.html"
 to = "/fr/organisations/categories/domaines/ceramique-1/peintre-sur-faience/"
 
@@ -985,6 +1157,10 @@ to = "/fr/organisations/societe-d-encouragement-pour-l-industrie-nationale/"
 [[redirects]]
 from = "/fr/reseau-excellence-ile-de-france/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/ile-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/trompette-1/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/trompette-1/"
 
 [[redirects]]
 from = "/fr/actualites/2024-03-05-les-epv-sources-d-emplois-en-regions/index.html"
@@ -1079,16 +1255,32 @@ from = "/fr/annuaire-des-epv-adherentes-v1/bronzes-de-france-bagues/index.html"
 to = "/fr/organisations/bronzes-de-france-bagues/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/ceramique-decorative/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/ceramique-decorative/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/marqueteur/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/marqueteur/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/huile-d-olive/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/huile-d-olive/"
 
 [[redirects]]
 from = "/fr/actualites/2023-06-28-rencontre-des-epv-d-ile-de-france-chez-remy-garnier-1/index.html"
 to = "/fr/actualites/2023-06-28-premiere-rencontre-des-epv-d-ile-de-france-au-campus-versailles/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/nappes/index.html"
+to = "/en/organizations/categories/products/art-de-la-table/nappes/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members/maison-gatti/index.html"
 to = "/en/organizations/maison-gatti/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/electricite-equipements-techniques/index.html"
+to = "/en/organizations/categories/products/electricite-equipements-techniques/"
 
 [[redirects]]
 from = "/fr/equipe/administrateurs-re-pays-de-la-loire/index.html"
@@ -1111,6 +1303,10 @@ from = "/fr/annuaire-des-epv-adherentes/pianos-balleron/index.html"
 to = "/fr/organisations/pianos-balleron/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/fontaine/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/fontaine/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-ameublement-et-decoration/staffeur-stucateur/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/staffeur-stucateur/"
 
@@ -1119,8 +1315,16 @@ from = "/en/reseau-excellence-in-france/reseau-excellence-provence-alpes-cote-d-
 to = "/en/lassociation/reseau-excellence-in-france/provence-alpes-cote-d-azur/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/toile-d-exterieur-bache/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/toile-d-exterieur-bache/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/astier-de-villatte/index.html"
 to = "/fr/organisations/astier-de-villatte/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/index.html"
+to = "/en/organizations/categories/products/art-de-la-table/"
 
 [[redirects]]
 from = "/fr/le-label-epv/annuaire-des-epv-adherentes/index.html"
@@ -1147,8 +1351,20 @@ from = "/fr/annuaire-des-epv-adherentes-v1/chantier-des-ileaux/index.html"
 to = "/fr/organisations/chantier-des-ileaux/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/fontaine/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/fontaine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/index.html"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/"
+
+[[redirects]]
 from = "/fr/notre-organisation/atout-france/index.html"
 to = "/fr/organisations/atout-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/"
 
 [[redirects]]
 from = "/fr/actualites/2024-03-14-decouvrez-la-mission-d-export-pendant-l-exposition-universelle-de-dubai/index.html"
@@ -1177,6 +1393,10 @@ to = "/fr/organisations/ets-roze/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atout-france/index.html"
 to = "/fr/organisations/atout-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/peinture-decorative/index.html"
+to = "/fr/organisations/categories/produits/peinture-decorative/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/abc-leroyer/index.html"
@@ -1209,6 +1429,14 @@ to = "/fr/organisations/etablissement-martinenq/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/le-papier-darmenie/index.html"
 to = "/fr/organisations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/meubles-de-vasque/index.html"
+to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/meubles-de-vasque/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/index.html"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/ateliers-bernard-pictet/index.html"
@@ -1271,6 +1499,18 @@ from = "/en/outstanding-projects/index.html"
 to = "/en/our-epvs/outstanding-projects/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/aromes-naturels/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/aromes-naturels/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/violoncelle-1/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/violoncelle-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/haut-parleur-et-enceinte/index.html"
+to = "/fr/organisations/categories/produits/haut-parleur-et-enceinte/"
+
+[[redirects]]
 from = "/fr/notre-organisation/origine-france-garantie/index.html"
 to = "/fr/organisations/origine-france-garantie/"
 
@@ -1285,6 +1525,10 @@ to = "/fr/organisations/categories/domaines/luminaire/"
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/carrafont/index.html"
 to = "/fr/organisations/carrafont/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/agencement-d-interieur-1/index.html"
+to = "/en/organizations/categories/products/agencement-d-interieur-1/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/new-tone/index.html"
@@ -1325,6 +1569,10 @@ to = "/en/organizations/maison-d-histoire/"
 [[redirects]]
 from = "/fr/equipe/benoit-besnault-1/index.html"
 to = "/fr/equipe/benoit-besnault/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/dorure-finitions/index.html"
+to = "/en/organizations/categories/products/dorure-finitions/"
 
 [[redirects]]
 from = "/fr/notre-organisation/ravier-riccoboni/index.html"
@@ -1375,8 +1623,20 @@ from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-pays-de-l
 to = "/en/lassociation/reseau-excellence-in-france/pays-de-la-loire/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/couettes/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/couettes/"
+
+[[redirects]]
 from = "/fr/le-label-epv/index.html"
 to = "/fr/nos-epv/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/robinetterie/index.html"
+to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/robinetterie/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/parquet/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/parquet/"
 
 [[redirects]]
 from = "/en/organizations/culture-dobjet/index.html"
@@ -1387,12 +1647,20 @@ from = "/fr/organisations/categories/domaines/domaine-cuir/gainier/index.html"
 to = "/fr/organisations/categories/domaines/cuir/gainier/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-metal/ciseleur-1/index.html"
 to = "/fr/organisations/categories/domaines/metal-1/ciseleur-1/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/culture-dobjet/index.html"
 to = "/en/organizations/culture-d-objet/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/traiteur-produits-prepares/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/"
 
 [[redirects]]
 from = "/en/lassociation/join-reseau-excellence-1/index.html"
@@ -1409,6 +1677,10 @@ to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/peintre/index.html"
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/peintre/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/nautisme-equipements-de-transport/index.html"
+to = "/fr/organisations/categories/produits/nautisme-equipements-de-transport/"
 
 [[redirects]]
 from = "/en/organizations/epv-centre-val-de-loire/index.html"
@@ -1429,6 +1701,14 @@ to = "/fr/organisations/fonderie-d-art-bocquel/"
 [[redirects]]
 from = "/en/organizations/lartisan-costumier/index.html"
 to = "/en/organizations/l-artisan-costumier/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/cuisine/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/cuisine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/nyckelharpa/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/nyckelharpa/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-restauration/index.html"
@@ -1487,6 +1767,10 @@ from = "/en/reseau-excellence-in-france/reseau-excellence-brittany/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/brittany/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/aromes-naturels/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/aromes-naturels/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/vernisseur/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/vernisseur/"
 
@@ -1505,10 +1789,6 @@ to = "/fr/organisations/cruard-menuiserie/"
 [[redirects]]
 from = "/en/agenda/2025/webinaire-tout-savoir-sur-le-label-epv-1/index.html"
 to = "/en/agenda/2026/webinaire-tout-savoir-sur-le-label-epv-1/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/papeterie/cire-a-cacheter/index.html"
-to = "/fr/organisations/categories/produits/papeterie-et-ecriture/cire-a-cacheter/"
 
 [[redirects]]
 from = "/en/organizations/atelier-auder-dornements/index.html"
@@ -1543,6 +1823,10 @@ from = "/fr/annuaire/confiserie-de-medicis/index.html"
 to = "/fr/organisations/confiserie-de-medicis/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/restauration-du-patrimoine/restauration-de-livres-et-d-arts-graphiques/index.html"
+to = "/en/organizations/categories/products/restauration-du-patrimoine/restauration-de-livres-et-d-arts-graphiques/"
+
+[[redirects]]
 from = "/en/reseau-excellence-brittany/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/brittany/"
 
@@ -1553,6 +1837,10 @@ to = "/en/organizations/fonderie-sylvain-compagnon/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/la-maison-du-petit-four/index.html"
 to = "/fr/organisations/la-maison-du-petit-four/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/moulures/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/moulures/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-verre-et-cristal/miroitier-argenteur/index.html"
@@ -1581,6 +1869,10 @@ to = "/en/organizations/ministere-de-l-economie-des-finances-et-de-la-souveraine
 [[redirects]]
 from = "/fr/organisations/categories/epv-nouvelle-aquitaine/index.html"
 to = "/fr/organisations/categories/regions/epv-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/automobile-mecanique/vehicule-automobile-1/index.html"
+to = "/en/organizations/categories/products/automobile-mecanique/vehicule-automobile-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-textile/tricoteur/index.html"
@@ -1643,12 +1935,24 @@ from = "/fr/annuaire/astier-de-villatte/index.html"
 to = "/fr/organisations/astier-de-villatte/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/ferronnerie-decorative/index.html"
+to = "/fr/organisations/categories/produits/ferronnerie-decorative/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/arts-graphiques-impression-papier/impression-d-art-1/index.html"
+to = "/en/organizations/categories/products/arts-graphiques-impression-papier/impression-d-art-1/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-ameublement-et-decoration/sculpteur-sur-bois/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/sculpteur-sur-bois/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/ameublement-de-salle-de-bain-1/vasques/index.html"
+to = "/en/organizations/categories/products/ameublement-de-salle-de-bain-1/vasques/"
 
 [[redirects]]
 from = "/fr/equipe/administrateurs-re-bourgogne-franche-comte/index.html"
@@ -1657,6 +1961,10 @@ to = "/fr/equipe/categories/administrateurs-re-bourgogne-franche-comte/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-gastronomie/traiteur/index.html"
 to = "/fr/organisations/categories/domaines/gastronomie-1/traiteur/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/rideaux-stores-habillage-de-fenetres/tissus-d-ameublement-rideaux/index.html"
+to = "/en/organizations/categories/products/rideaux-stores-habillage-de-fenetres/tissus-d-ameublement-rideaux/"
 
 [[redirects]]
 from = "/en/agenda/2024-07-11-matinale-1-1-1/index.html"
@@ -1671,6 +1979,10 @@ from = "/fr/organisations/categories/domaine-cuir/gainier/index.html"
 to = "/fr/organisations/categories/domaines/cuir/gainier/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/fabrication-de-lit/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/fabrication-de-lit/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-jeux-jouets-et-ouvrages-mecaniques/carrossier/index.html"
 to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/carrossier/"
 
@@ -1679,12 +1991,24 @@ from = "/fr/organisations/categories/domaine-textile/tisserand/index.html"
 to = "/fr/organisations/categories/domaines/textile/tisserand/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/decor-lumineux/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/decor-lumineux/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/chaux/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/chaux/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/bosabo-audouin/index.html"
 to = "/en/organizations/bosabo-audouin/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-textile/brodeur/index.html"
 to = "/fr/organisations/categories/domaines/textile/brodeur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/usinage-metallique/index.html"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/usinage-metallique/"
 
 [[redirects]]
 from = "/fr/annuaire/origine-france-garantie/index.html"
@@ -1719,8 +2043,8 @@ from = "/en/posts/2021-10-26-6eme-edition-du-salon-international-des-metiers-dar
 to = "/en/news/2021-10-26-6eme-edition-du-salon-international-des-metiers-dart/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/produits-laitiers/creme-fraiche/index.html"
-to = "/fr/organisations/categories/produits/alimentation/creme-fraiche/"
+from = "/fr/organisations/categories/produits/industrie-equipements/outils-industriels/index.html"
+to = "/fr/organisations/categories/produits/outils-industriels/"
 
 [[redirects]]
 from = "/fr/equipe/epv-pays-de-la-loire-communication/index.html"
@@ -1729,6 +2053,14 @@ to = "/fr/equipe/reseau-excellence-pays-de-la-loire-communication/"
 [[redirects]]
 from = "/fr/le-reseau-excellence-en-france/reseau-excellence-normandie/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/normandie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/arts-graphiques-impression-papier/cadres-1/index.html"
+to = "/fr/organisations/categories/produits/arts-graphiques-impression-papier/cadres-1/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/trompette-1/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/trompette-1/"
 
 [[redirects]]
 from = "/fr/actions-et-engagements/reseau-excellence-contract/index.html"
@@ -1755,8 +2087,16 @@ from = "/fr/reseau-excellence-occitanie-1/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/nouvelle-aquitaine/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/mobilier-ebenisterie/plans-de-cuisine/index.html"
+to = "/en/organizations/categories/products/mobilier-ebenisterie/plans-de-cuisine/"
+
+[[redirects]]
 from = "/fr/organisations/categories/type-dorganisation/association-regionales/index.html"
 to = "/fr/organisations/categories/type-dorganisation/associations-regionales/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/parfumerie-d-interieur-1/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/parfumerie-d-interieur-1/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members/bronzes-de-france-bagues/index.html"
@@ -1765,6 +2105,10 @@ to = "/en/organizations/bronzes-de-france-bagues/"
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/ravier-riccoboni/index.html"
 to = "/en/organizations/ravier-riccoboni/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/boiserie/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/boiserie/"
 
 [[redirects]]
 from = "/fr/notre-organisation/maison-fey/index.html"
@@ -1787,6 +2131,10 @@ from = "/fr/notre-organisation/moulins-de-versailles/index.html"
 to = "/fr/organisations/moulins-de-versailles/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/arts-graphiques-impression-papier/index.html"
+to = "/en/organizations/categories/products/arts-graphiques-impression-papier/"
+
+[[redirects]]
 from = "/fr/notre-organisation/business-france/index.html"
 to = "/fr/organisations/business-france/"
 
@@ -1803,12 +2151,20 @@ from = "/fr/organisations/categories/domaines/domaine-restauration/ceramiques/in
 to = "/fr/organisations/categories/domaines/restauration/ceramiques/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/plafond/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/plafond/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-restauration/metal/index.html"
 to = "/fr/organisations/categories/domaines/restauration/metal/"
 
 [[redirects]]
 from = "/fr/annuaire/abc-leroyer/index.html"
 to = "/fr/organisations/abc-leroyer/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/loisirs/hotel/index.html"
+to = "/fr/organisations/categories/produits/hotel/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members/pianos-balleron/index.html"
@@ -1839,8 +2195,16 @@ from = "/en/news/portrait-of-epv/index.html"
 to = "/en/news/portraits-of-epv/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/bas-reliefs/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/bas-reliefs/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/ateliers-jovis/index.html"
 to = "/en/organizations/ateliers-jovis/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/"
 
 [[redirects]]
 from = "/en/organizations/distillerie-les-fils-demile-pernot/index.html"
@@ -1931,6 +2295,10 @@ from = "/fr/annuaire/equinox-49/index.html"
 to = "/fr/organisations/equ-inox-49/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/arts-graphiques-impression-papier/impression-d-art-1/index.html"
+to = "/fr/organisations/categories/produits/arts-graphiques-impression-papier/impression-d-art-1/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-cuir/sellier-maroquinier/index.html"
 to = "/fr/organisations/categories/domaines/cuir/sellier-maroquinier/"
 
@@ -1963,6 +2331,10 @@ from = "/fr/organisations/categories/domaine-ameublement-et-decoration/menuisier
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/menuisier-en-sieges/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/carrelage-mural/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/carrelage-mural/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/fabricant-de-carreaux/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/fabricant-de-carreaux/"
 
@@ -1973,6 +2345,10 @@ to = "/fr/organisations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
 [[redirects]]
 from = "/fr/organisations/loubiere-la-forge-dart/index.html"
 to = "/fr/organisations/loubiere-la-forge-d-art/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/parois-de-douche/index.html"
+to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/parois-de-douche/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-jeux-jouets-et-ouvrages-mecaniques/carrossier/index.html"
@@ -2007,8 +2383,8 @@ from = "/fr/annuaire-des-epv-adherentes-v1/procedes-chenel-international/index.h
 to = "/fr/organisations/procedes-chenel-international/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/produits-laitiers/beurre/index.html"
-to = "/fr/organisations/categories/produits/alimentation/beurre/"
+from = "/fr/organisations/categories/produits/maison-decoration/mobilier-ebenisterie/banquette-1/index.html"
+to = "/fr/organisations/categories/produits/mobilier-ebenisterie/banquette-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-architecture-et-jardin/macon-du-patrimoine-bati/index.html"
@@ -2023,12 +2399,20 @@ from = "/en/news/2023-06-30-les-epv-bourgogne-franche-comte-en-nombre-aux-rencon
 to = "/en/news/2023-06-30-the-bourgogne-franche-comte-epvs-are-out-in-force-at-the-rencontres-economiques-des-metiers-d-art-re/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/farine/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/farine/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members/phelippeau-tapissier/index.html"
 to = "/en/organizations/phelippeau-tapissier/"
 
 [[redirects]]
 from = "/fr/annuaire/denis-et-fils/index.html"
 to = "/fr/organisations/denis-et-fils/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/restauration-du-patrimoine/restauration-de-sites-historiques-patrimoniaux/index.html"
+to = "/en/organizations/categories/products/restauration-du-patrimoine/restauration-de-sites-historiques-patrimoniaux/"
 
 [[redirects]]
 from = "/fr/equipe/julie-guillot/index.html"
@@ -2067,6 +2451,14 @@ from = "/en/posts/2024-03-01-comment-les-horlogers-gilles-vassort-et-arnaud-joub
 to = "/en/news/2024-01-10-how-did-watchmakers-gilles-vassort-and-arnaud-joubert-earn-the-epv-label/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/tomettes-carreaux-dalles/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/tomettes-carreaux-dalles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/charpente-1/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/charpente-1/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-textile/fabricant-dobjets-en-textiles/index.html"
 to = "/fr/organisations/categories/domaines/textile/fabricant-dobjets-en-textiles/"
 
@@ -2083,6 +2475,10 @@ from = "/fr/organisations/categories/domaines/domaine-textile/ennoblisseur-texti
 to = "/fr/organisations/categories/domaines/textile/ennoblisseur-textile/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-habillage-de-fenetres/mecanique-de-stores/index.html"
+to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/mecanique-de-stores/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/concept-ebenist/index.html"
 to = "/fr/organisations/concept-ebenist/"
 
@@ -2097,6 +2493,10 @@ to = "/fr/equipe/categories/administrateurs-re-centre-val-de-loire/"
 [[redirects]]
 from = "/en/directory-of-epv-members/new-tone/index.html"
 to = "/en/organizations/new-tone/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/salon/housse-de-coussin-1/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/salon/housse-de-coussin-1/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/confiserie-de-medicis/index.html"
@@ -2123,6 +2523,10 @@ from = "/en/directory-of-epv-members/ets-roze/index.html"
 to = "/en/organizations/ets-roze/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/mobilier-ebenisterie/fauteuil/index.html"
+to = "/fr/organisations/categories/produits/mobilier-ebenisterie/fauteuil/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-du-verre-et-du-cristal/index.html"
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/"
 
@@ -2139,6 +2543,10 @@ from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impres
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/relieur/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/restauration-gastronomique/index.html"
+to = "/en/organizations/categories/products/restauration-gastronomique/"
+
+[[redirects]]
 from = "/en/team/administrateurs-re-france/index.html"
 to = "/en/team/categories/administrateurs-re-france/"
 
@@ -2147,8 +2555,16 @@ from = "/fr/organisations/marcel-gandit/index.html"
 to = "/fr/organisations/marcel-gandit-hermes/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/electricite-equipements-techniques/index.html"
+to = "/fr/organisations/categories/produits/electricite-equipements-techniques/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-restauration/vitraux/index.html"
 to = "/fr/organisations/categories/domaines/restauration/vitraux/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/art-de-la-table/assiette-verre/index.html"
+to = "/fr/organisations/categories/produits/art-de-la-table/assiette-verre/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-jeux-jouets-et-ouvrages-mecaniques/index.html"
@@ -2167,8 +2583,20 @@ from = "/fr/annuaire/st-dupont-sa/index.html"
 to = "/fr/organisations/s-t-dupont-sa/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/loisirs/jeux/index.html"
+to = "/en/organizations/categories/products/jeux/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/loisirs/billard-baby-foot/index.html"
-to = "/en/organizations/categories/products/loisirs/jeux/billard-baby-foot/"
+to = "/en/organizations/categories/products/jeux/billard-baby-foot/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/index.html"
+to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/produits-alimentaires-transformes/index.html"
+to = "/en/organizations/categories/products/produits-alimentaires-transformes/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/pianos-balleron/index.html"
@@ -2177,6 +2605,14 @@ to = "/fr/organisations/pianos-balleron/"
 [[redirects]]
 from = "/en/posts/2023-12-14-epv-x-wilmotte-industries-evening-meeting/index.html"
 to = "/en/news/2023-12-14-epv-x-wilmotte-industries-evening-meeting/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/ameublement-de-salle-de-bain-1/meubles-de-vasque/index.html"
+to = "/en/organizations/categories/products/ameublement-de-salle-de-bain-1/meubles-de-vasque/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/ameublement-de-salle-de-bain-1/index.html"
+to = "/en/organizations/categories/products/ameublement-de-salle-de-bain-1/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/atelier-thiery/index.html"
@@ -2215,6 +2651,10 @@ from = "/fr/notre-organisation/atelier-auder-dornements/index.html"
 to = "/fr/organisations/atelier-auder-d-ornements/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/fabrication-en-etain/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/fabrication-en-etain/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/charpentier-de-marine/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/charpentier-de-marine/"
 
@@ -2251,6 +2691,10 @@ from = "/fr/annuaire/stuk-sarl/index.html"
 to = "/fr/organisations/stuk-sarl/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/ferrures-1/index.html"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/ferrures-1/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-luminaire/index.html"
 to = "/fr/organisations/categories/domaines/luminaire/"
 
@@ -2271,6 +2715,10 @@ from = "/fr/annuaire/cvl-luminaires/index.html"
 to = "/fr/organisations/cvl-luminaires/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/cuisine/torchon/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/cuisine/torchon/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/conseillers-du-commerce-exterieurs/index.html"
 to = "/fr/organisations/conseillers-du-commerce-exterieurs/"
 
@@ -2287,6 +2735,10 @@ from = "/fr/annuaire/ateliers-jovis/index.html"
 to = "/fr/organisations/ateliers-jovis/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/taille-de-pierre/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/taille-de-pierre/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/maison-gatti/index.html"
 to = "/fr/organisations/maison-gatti/"
 
@@ -2295,8 +2747,16 @@ from = "/fr/annuaire-des-epv-adherentes/ravier-riccoboni/index.html"
 to = "/fr/organisations/ravier-riccoboni/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/alto-1/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/alto-1/"
+
+[[redirects]]
 from = "/en/apply-for-the-label/index.html"
 to = "/en/the-epv-label/apply-for-the-label/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/fonderie/index.html"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/fonderie/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-cuir/maroquinier/index.html"
@@ -2387,8 +2847,16 @@ from = "/en/directory-of-epv-members-v1/bronzes-de-france-bagues/index.html"
 to = "/en/organizations/bronzes-de-france-bagues/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/ferronnerie-technique/index.html"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/ferronnerie-technique/"
+
+[[redirects]]
 from = "/fr/missions/index.html"
 to = "/fr/lassociation/notre-histoire-et-nos-missions/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/ceramique-patrimoniale/index.html"
+to = "/en/organizations/categories/products/ceramique-patrimoniale/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/la-maison-du-vitrail/index.html"
@@ -2399,8 +2867,16 @@ from = "/en/directory-of-epv-members-v1/atelier-promethee/index.html"
 to = "/en/organizations/atelier-promethee/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/serviette-de-table/index.html"
+to = "/en/organizations/categories/products/art-de-la-table/serviette-de-table/"
+
+[[redirects]]
 from = "/fr/annuaire/soca/index.html"
 to = "/fr/organisations/soca/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/bougie/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/bougie/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/atelier-fey/index.html"
@@ -2413,6 +2889,10 @@ to = "/en/organizations/concept-ebenist/"
 [[redirects]]
 from = "/fr/notre-organisation/campus-versailles/index.html"
 to = "/fr/organisations/campus-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/automobile-mecanique/index.html"
+to = "/fr/organisations/categories/produits/automobile-mecanique/"
 
 [[redirects]]
 from = "/en/reseau-excellence-provence-alpes-cote-d-azur/index.html"
@@ -2445,6 +2925,10 @@ to = "/en/organizations/atelier-monier/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/graveur-et-imprimeur-en-gaufrage/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/graveur-et-imprimeur-en-gaufrage/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/fabrication-de-lit/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/fabrication-de-lit/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/imprimeur/index.html"
@@ -2487,6 +2971,10 @@ from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-perrault-freres/index.html"
 to = "/fr/organisations/ateliers-perrault-freres/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/boisson/alcoolisees/index.html"
+to = "/en/organizations/categories/products/boisson/alcoolisees/"
+
+[[redirects]]
 from = "/en/organizations/societe-dexploitation-roque/index.html"
 to = "/en/organizations/societe-d-exploitation-roque/"
 
@@ -2521,6 +3009,10 @@ to = "/fr/organisations/categories/domaines/architecture-et-jardin/maitre-verrie
 [[redirects]]
 from = "/en/our-organization/atelier-coralie-barbe/index.html"
 to = "/en/organizations/atelier-coralie-barbe/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-habillage-de-fenetres/tringles/index.html"
+to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/tringles/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-metal/fondeur/index.html"
@@ -2583,6 +3075,18 @@ from = "/fr/organisations/categories/domaines/domaine-metal/ferronnier-forgeron/
 to = "/fr/organisations/categories/domaines/metal-1/ferronnier-forgeron/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/violon-1/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/violon-1/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/cheminee-1/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/cheminee-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/electricite-equipements-techniques/projecteur/index.html"
+to = "/fr/organisations/categories/produits/electricite-equipements-techniques/projecteur/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-jeux-jouets-et-ouvrages-mecaniques/index.html"
 to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/"
 
@@ -2603,8 +3107,16 @@ from = "/en/organizations/categories/epv-bourgogne-franche-comte/index.html"
 to = "/en/organizations/categories/regions/epv-bourgogne-franche-comte/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/salon/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/salon/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-metal/modeleur-mouleur/index.html"
 to = "/fr/organisations/categories/domaines/metal-1/modeleur-mouleur/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/boiserie/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/boiserie/"
 
 [[redirects]]
 from = "/fr/annuaire/nor-line/index.html"
@@ -2613,6 +3125,10 @@ to = "/fr/organisations/nor-line/"
 [[redirects]]
 from = "/fr/notre-organisation/pianos-balleron/index.html"
 to = "/fr/organisations/pianos-balleron/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/papier-peint-tissu-d-ameublement/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/papier-peint-tissu-d-ameublement/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-bernard-pictet/index.html"
@@ -2631,6 +3147,10 @@ from = "/fr/organisations/categories/savoir-faire-15/verre-et-cristal/index.html
 to = "/fr/organisations/categories/domaines/restauration/verre-et-cristal/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/arts-graphiques-impression-papier/cadres-1/index.html"
+to = "/en/organizations/categories/products/arts-graphiques-impression-papier/cadres-1/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/bronzes-de-france-bagues/index.html"
 to = "/fr/organisations/bronzes-de-france-bagues/"
 
@@ -2639,8 +3159,20 @@ from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/tailleur/
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/tailleur/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/accessoires-de-cuisine/index.html"
+to = "/fr/organisations/categories/produits/accessoires-de-cuisine/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-textile/ennoblisseur-textile/index.html"
 to = "/fr/organisations/categories/domaines/textile/ennoblisseur-textile/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/confiserie-1/index.html"
+to = "/en/organizations/categories/products/confiserie-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/restauration-du-patrimoine/restauration-de-sites-historiques-patrimoniaux/index.html"
+to = "/fr/organisations/categories/produits/restauration-du-patrimoine/restauration-de-sites-historiques-patrimoniaux/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-ameublement-et-decoration/marqueteur-de-pailles/index.html"
@@ -2651,12 +3183,24 @@ from = "/fr/notre-organisation-annuaire/reseau-excellence-auvergne-rhone-alpes/i
 to = "/fr/organisations/reseau-excellence-auvergne-rhone-alpes/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/textile-patrimonial-tapisserie/index.html"
+to = "/en/organizations/categories/products/textile-patrimonial-tapisserie/"
+
+[[redirects]]
 from = "/fr/agenda/2024-01-21-linma-devient-linstitut-pour-les-savoir-faire-francais/index.html"
 to = "/fr/agenda/2024/linma-devient-linstitut-pour-les-savoir-faire-francais/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/escalier/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/escalier/"
+
+[[redirects]]
 from = "/en/our-organization/moulins-de-versailles/index.html"
 to = "/en/organizations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/platrerie/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/platrerie/"
 
 [[redirects]]
 from = "/fr/agenda/2025/reseau-excellence-contract-au-mobilier-national-1/index.html"
@@ -2695,6 +3239,10 @@ from = "/fr/organisations/latelier-patrick-buti/index.html"
 to = "/fr/organisations/l-atelier-patrick-buti/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/chaux/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/chaux/"
+
+[[redirects]]
 from = "/en/organizations/gl-bijoux/index.html"
 to = "/en/organizations/maison-altesse-gl-bijoux/"
 
@@ -2719,6 +3267,14 @@ from = "/en/organizations/societe-azerguoise-de-repoussage-et-demboutissage/inde
 to = "/en/organizations/societe-azerguoise-de-repoussage-et-d-emboutissage/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/loisirs/hotel/index.html"
+to = "/en/organizations/categories/products/hotel/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-habillage-de-fenetres/tissus-d-ameublement-rideaux/index.html"
+to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/tissus-d-ameublement-rideaux/"
+
+[[redirects]]
 from = "/fr/organisations/les-delices-dalienor-croustadoc/index.html"
 to = "/fr/organisations/les-delices-d-alienor-croustad-oc/"
 
@@ -2739,6 +3295,10 @@ from = "/fr/organisations/categories/type-dorganisation/association-regionale/in
 to = "/fr/organisations/categories/type-dorganisation/associations-regionales/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/"
+
+[[redirects]]
 from = "/fr/organisations/dennery-confection/index.html"
 to = "/fr/organisations/d-ennery-confection/"
 
@@ -2749,6 +3309,10 @@ to = "/en/organizations/nortier-emballages/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/facteur-etou-restaurateur-de-pianos/index.html"
 to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-de-pianos/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/tin/index.html"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/tin/"
 
 [[redirects]]
 from = "/fr/organisations/epv-bourgogne-franche-comte/index.html"
@@ -2783,6 +3347,10 @@ from = "/fr/organisations/categories/domaine-mode-et-accessoires/fabricant-de-pa
 to = "/fr/organisations/categories/domaines/mode-et-accessoires/fabricant-de-parapluies-parasols-ombrelles-et-cannes/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/assiette-verre/index.html"
+to = "/en/organizations/categories/products/art-de-la-table/assiette-verre/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/denis-et-fils/index.html"
 to = "/fr/organisations/denis-et-fils/"
 
@@ -2803,8 +3371,24 @@ from = "/en/directory-of-epv-members/nortier-emballages/index.html"
 to = "/en/organizations/nortier-emballages/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/rideaux-stores-habillage-de-fenetres/index.html"
+to = "/en/organizations/categories/products/rideaux-stores-habillage-de-fenetres/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-habillage-de-fenetres/stores/index.html"
+to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/stores/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/reseau-excellence-auvergne-rhone-alpes/index.html"
 to = "/en/organizations/reseau-excellence-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/cheminee-1/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/cheminee-1/"
 
 [[redirects]]
 from = "/en/our-organization/le-papier-darmenie/index.html"
@@ -2835,8 +3419,20 @@ from = "/fr/organisations/categories/domaine-jeux-jouets-et-ouvrages-mecaniques/
 to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/fabricant-etou-restaurateur-de-vehicules-de-collection/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/dorure-finitions/index.html"
+to = "/fr/organisations/categories/produits/dorure-finitions/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-architecture-et-jardin/escalieteur/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/escalieteur/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/rideaux-stores-habillage-de-fenetres/tapis-tapisseries-revetements/index.html"
+to = "/en/organizations/categories/products/rideaux-stores-habillage-de-fenetres/tapis-tapisseries-revetements/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/rideaux-stores-habillage-de-fenetres/tringles/index.html"
+to = "/en/organizations/categories/products/rideaux-stores-habillage-de-fenetres/tringles/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-cuir/malletier/index.html"
@@ -2845,6 +3441,14 @@ to = "/fr/organisations/categories/domaines/cuir/malletier/"
 [[redirects]]
 from = "/en/directory-of-epv-members/moulins-de-versailles/index.html"
 to = "/en/organizations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/textile-patrimonial-tapisserie/index.html"
+to = "/fr/organisations/categories/produits/textile-patrimonial-tapisserie/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/ameublement-de-salle-de-bain-1/receveurs-de-douche/index.html"
+to = "/en/organizations/categories/products/ameublement-de-salle-de-bain-1/receveurs-de-douche/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-verre-et-cristal/doreur-1/index.html"
@@ -2877,6 +3481,10 @@ to = "/en/organizations/atelier-tourtoulou/"
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/bouin-gardon/index.html"
 to = "/fr/organisations/bouin-gardon/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/violon-1/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/violon-1/"
 
 [[redirects]]
 from = "/en/agenda/crt-and-training/index.html"
@@ -2919,6 +3527,10 @@ from = "/en/directory-of-epv-members-v1/gauthier-cie/index.html"
 to = "/en/organizations/gauthier-cie/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/tin/index.html"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/tin/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members/ch-legrand-faconnage/index.html"
 to = "/en/organizations/ch-legrand-faconnage/"
 
@@ -2941,6 +3553,10 @@ to = "/fr/organisations/categories/domaines/restauration/verre-et-cristal/"
 [[redirects]]
 from = "/fr/organisations/categories/domaine/domaine-architecture-et-jardin/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/ameublement-de-salle-de-bain-1/robinetterie/index.html"
+to = "/en/organizations/categories/products/ameublement-de-salle-de-bain-1/robinetterie/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-ameublement-et-decoration/sellier-dameublement/index.html"
@@ -3011,6 +3627,10 @@ from = "/fr/agenda/2025/ceremonie-de-remise-des-diplomes-et-inauguration-exposit
 to = "/fr/agenda/2025/remise-de-diplomes-epv-et-vernissage-d-exposition-photos/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/lave-mains-fontaines-1/index.html"
+to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/lave-mains-fontaines-1/"
+
+[[redirects]]
 from = "/en/news/2025-06-16-back-to-network-excellence-ag/index.html"
 to = "/en/news/2025-06-16-back-to-reseau-excellence-general-meeting/"
 
@@ -3021,6 +3641,10 @@ to = "/fr/organisations/atelier-tourtoulou/"
 [[redirects]]
 from = "/en/directory-of-epv-members/astier-de-villatte/index.html"
 to = "/en/organizations/astier-de-villatte/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/fabrication-en-etain/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/fabrication-en-etain/"
 
 [[redirects]]
 from = "/en/organizations/faiencerie-dart-et-creations-colas/index.html"
@@ -3043,6 +3667,10 @@ from = "/fr/organisations/categories/domaine-metal/index.html"
 to = "/fr/organisations/categories/domaines/metal-1/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/chaudronnerie-metallique/index.html"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/chaudronnerie-metallique/"
+
+[[redirects]]
 from = "/en/our-organization/ateliers-bernard-pictet/index.html"
 to = "/en/organizations/ateliers-bernard-pictet/"
 
@@ -3063,8 +3691,20 @@ from = "/fr/organisations/categories/domaine-ceramique/index.html"
 to = "/fr/organisations/categories/domaines/ceramique-1/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/ornement-en-metal/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/ornement-en-metal/"
+
+[[redirects]]
 from = "/en/our-organization/reseau-excellence-hauts-de-france/index.html"
 to = "/en/organizations/reseau-excellence-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/mobilier-ebenisterie/plans-de-cuisine/index.html"
+to = "/fr/organisations/categories/produits/mobilier-ebenisterie/plans-de-cuisine/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/art-de-la-table/coutellerie-arts-de-la-table/index.html"
+to = "/fr/organisations/categories/produits/art-de-la-table/coutellerie-arts-de-la-table/"
 
 [[redirects]]
 from = "/en/organizations/biscuiterie-de-labbaye/index.html"
@@ -3115,6 +3755,10 @@ from = "/fr/le-reseau-excellence-en-france/reseau-excellence-nouvelle-aquitaine/
 to = "/fr/lassociation/reseau-excellence-en-france/nouvelle-aquitaine/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/loisirs/sport/escrime/index.html"
+to = "/en/organizations/categories/products/sport/escrime/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/luthier-etou-restaurateur-dinstruments-a-cordes-frottees/index.html"
 to = "/fr/organisations/categories/domaines/facture-instrumentale/luthier-etou-restaurateur-dinstruments-a-cordes-frottees/"
 
@@ -3125,6 +3769,10 @@ to = "/en/organizations/artmetal-framex/"
 [[redirects]]
 from = "/fr/organisations/categories/domaine-architecture-et-jardin/parqueteur/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/parqueteur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/"
 
 [[redirects]]
 from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-ile-de-france/index.html"
@@ -3139,6 +3787,10 @@ from = "/en/organizations/partenaires/index.html"
 to = "/en/organizations/categories/organizations-type/partenaires/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/comptoir/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/comptoir/"
+
+[[redirects]]
 from = "/fr/annuaire/pole-des-metiers-dart/index.html"
 to = "/fr/organisations/pole-des-metiers-d-art/"
 
@@ -3149,6 +3801,14 @@ to = "/en/organizations/gauthier-cie/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/pianos-balleron/index.html"
 to = "/fr/organisations/pianos-balleron/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/cloison/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/cloison/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/agriculture-outils-pour-le-sol/index.html"
+to = "/en/organizations/categories/products/agriculture-outils-pour-le-sol/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/phelippeau-tapissier/index.html"
@@ -3243,6 +3903,10 @@ from = "/fr/organisations/sca-oleicole-loulibo/index.html"
 to = "/fr/organisations/sca-oleicole-l-oulibo/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/salon/plaids/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/salon/plaids/"
+
+[[redirects]]
 from = "/fr/organisations/categories/savoir-faire-6/verrier-decorateur/index.html"
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-decorateur/"
 
@@ -3253,6 +3917,10 @@ to = "/fr/organisations/categories/domaines/metal-1/fondeur/"
 [[redirects]]
 from = "/en/organizations/manufacture-de-cuir-de-realmont/index.html"
 to = "/en/organizations/realmont-leather-manufacture/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/index.html"
@@ -3267,12 +3935,20 @@ from = "/en/news/2023-05-30-une-nouvelle-strategie-nationale-en-faveur-des-metie
 to = "/en/news/2023-05-30-a-new-national-strategy-to-promote-the-arts-and-crafts/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/serre-1/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/serre-1/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/reseau-excellence-hauts-de-france/index.html"
 to = "/fr/organisations/reseau-excellence-hauts-de-france/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/loisirs/sport/equitation-1/index.html"
+to = "/fr/organisations/categories/produits/sport/equitation-1/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/tin/index.html"
-to = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/tin/"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/tin/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/moulins-de-versailles/index.html"
@@ -3291,6 +3967,14 @@ from = "/fr/organisations/categories/domaine-ameublement-et-decoration/encadreur
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/encadreur/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/bars-structures-metalliques/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/bars-structures-metalliques/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/bougie/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/bougie/"
+
+[[redirects]]
 from = "/en/organizations/st-dupont-sa/index.html"
 to = "/en/organizations/s-t-dupont-sa/"
 
@@ -3301,6 +3985,14 @@ to = "/fr/organisations/atelier-tourtoulou/"
 [[redirects]]
 from = "/en/organizations/imfpfjkdgfnmosr/index.html"
 to = "/en/organizations/bellon-fils/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/matelas-1/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/matelas-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/loisirs/sport/index.html"
+to = "/fr/organisations/categories/produits/sport/"
 
 [[redirects]]
 from = "/fr/agenda/2024-06-20-matinale-1-1/index.html"
@@ -3321,6 +4013,14 @@ to = "/en/organizations/categories/products/mode-et-accessoires-1/packaging-emba
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-thiery/index.html"
 to = "/fr/organisations/atelier-thiery/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/luminaires-1/index.html"
+to = "/fr/organisations/categories/produits/luminaires-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/guitar/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/guitar/"
 
 [[redirects]]
 from = "/fr/annuaire/carrafont/index.html"
@@ -3351,6 +4051,10 @@ from = "/fr/annuaire/business-france/index.html"
 to = "/fr/organisations/business-france/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/marbrerie/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/marbrerie/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/origine-france-garantie/index.html"
 to = "/en/organizations/origine-france-garantie/"
 
@@ -3375,12 +4079,20 @@ from = "/en/news/2022-09-30-les-epv-sources-d-emplois-en-regions/index.html"
 to = "/en/news/2022-09-30-epvs-sources-of-employment-in-the-regions/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/arts-graphiques-impression-papier/pigments-peinture/index.html"
+to = "/en/organizations/categories/products/arts-graphiques-impression-papier/pigments-peinture/"
+
+[[redirects]]
 from = "/en/posts/news-from-nouvelle-aquitaine/index.html"
 to = "/en/news/news-from-nouvelle-aquitaine/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/mr-cartonnage-numerique/index.html"
 to = "/fr/organisations/mr-cartonnage-numerique/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/tomettes-carreaux-dalles/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/tomettes-carreaux-dalles/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/nor-line/index.html"
@@ -3427,6 +4139,10 @@ from = "/fr/annuaire-des-epv-adherentes-v1/new-tone/index.html"
 to = "/fr/organisations/new-tone/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/coutellerie-arts-de-la-table/index.html"
+to = "/en/organizations/categories/products/art-de-la-table/coutellerie-arts-de-la-table/"
+
+[[redirects]]
 from = "/fr/organisations/partenaires/index.html"
 to = "/fr/organisations/categories/type-dorganisation/partenaires/"
 
@@ -3459,6 +4175,10 @@ from = "/fr/organisations/ministere-de-leconomie-des-finances-et-de-la-souverain
 to = "/fr/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/traiteur-produits-prepares/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/"
+
+[[redirects]]
 from = "/fr/annuaire/john-lobb/index.html"
 to = "/fr/organisations/john-lobb/"
 
@@ -3471,12 +4191,12 @@ from = "/fr/organisations/categories/domaine/domaine-facture-instrumentale/index
 to = "/fr/organisations/categories/domaines/facture-instrumentale/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/papeterie/outils-de-marquage-cuir-papier-bois/index.html"
-to = "/fr/organisations/categories/produits/papeterie-et-ecriture/outils-de-marquage-cuir-papier-bois/"
-
-[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-metal/index.html"
 to = "/fr/organisations/categories/domaines/metal-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-habillage-de-fenetres/index.html"
+to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/bodet-campanaire/index.html"
@@ -3511,6 +4231,10 @@ from = "/fr/annuaire/procedes-chenel-international/index.html"
 to = "/fr/organisations/procedes-chenel-international/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/haut-parleur-et-enceinte/index.html"
+to = "/en/organizations/categories/products/haut-parleur-et-enceinte/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-jovis/index.html"
 to = "/fr/organisations/ateliers-jovis/"
 
@@ -3535,12 +4259,20 @@ from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/ornement-en-metal/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/ornement-en-metal/"
+
+[[redirects]]
 from = "/fr/annuaire/androuet/index.html"
 to = "/fr/organisations/androuet/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/atelier-saint-eloi/index.html"
 to = "/fr/organisations/atelier-saint-eloi/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/rideaux-stores-habillage-de-fenetres/stores/index.html"
+to = "/en/organizations/categories/products/rideaux-stores-habillage-de-fenetres/stores/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/bouin-gardon/index.html"
@@ -3559,6 +4291,10 @@ from = "/fr/organisations/categories/domaines/domaine-ceramique/faiencier/index.
 to = "/fr/organisations/categories/domaines/ceramique-1/faiencier/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/agencement-d-interieur-1/index.html"
+to = "/fr/organisations/categories/produits/agencement-d-interieur-1/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/atelier-patrice-bricout/index.html"
 to = "/fr/organisations/atelier-patrice-bricout/"
 
@@ -3573,6 +4309,14 @@ to = "/fr/organisations/atelier-saint-eloi/"
 [[redirects]]
 from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/graveur/index.html"
 to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/graveur/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/carrelage-mural/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/carrelage-mural/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/arts-graphiques-impression-papier/pigments-peinture/index.html"
+to = "/fr/organisations/categories/produits/arts-graphiques-impression-papier/pigments-peinture/"
 
 [[redirects]]
 from = "/fr/agenda/2024-03-21-linma-devient-linstitut-pour-les-savoir-faire-francais/index.html"
@@ -3595,16 +4339,28 @@ from = "/fr/organisations/bg-france/index.html"
 to = "/fr/organisations/bg-france-franck-bichon/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/toile-d-exterieur-bache/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/toile-d-exterieur-bache/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/peinture-decorative/index.html"
+to = "/en/organizations/categories/products/peinture-decorative/"
+
+[[redirects]]
 from = "/fr/reseau-excellence-occitanie/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/occitanie/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/mode-et-accessoires-1/habillement/index.html"
-to = "/fr/organisations/categories/produits/habillement/"
+from = "/en/organizations/categories/products/art-patrimoine/arts-graphiques-impression-papier/papeterie-ecriture/index.html"
+to = "/en/organizations/categories/products/arts-graphiques-impression-papier/papeterie-ecriture/"
 
 [[redirects]]
 from = "/en/organizations/marcel-gandit/index.html"
 to = "/en/organizations/marcel-gandit-hermes/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/vitrail-arts-du-verre/index.html"
+to = "/en/organizations/categories/products/vitrail-arts-du-verre/"
 
 [[redirects]]
 from = "/fr/actualites/news-from-bourgogne-franche-comte/index.html"
@@ -3627,6 +4383,10 @@ from = "/en/directory-of-epv-members-v1/cruard-menuiserie/index.html"
 to = "/en/organizations/cruard-menuiserie/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/bois-pour-la-lutherie/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/bois-pour-la-lutherie/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/verrier-decorateur/index.html"
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-decorateur/"
 
@@ -3635,12 +4395,24 @@ from = "/fr/organisations/societe-azerguoise-de-repoussage-et-demboutissage/inde
 to = "/fr/organisations/societe-azerguoise-de-repoussage-et-d-emboutissage-sare/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-ameublement-et-decoration/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/"
 
 [[redirects]]
 from = "/en/posts/actualites-d-auvergne-rhone-alpes/index.html"
 to = "/en/news/news-from-auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/couettes/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/couettes/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/restauration-du-patrimoine/index.html"
+to = "/fr/organisations/categories/produits/restauration-du-patrimoine/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/les-ateliers-de-la-chapelle/index.html"
@@ -3669,6 +4441,18 @@ to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/andree-jardin-brosserie-julio/index.html"
 to = "/fr/organisations/andree-jardin-brosserie-julio/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/salon/housse-de-coussin-1/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/salon/housse-de-coussin-1/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/electricite-equipements-techniques/projecteur/index.html"
+to = "/en/organizations/categories/products/electricite-equipements-techniques/projecteur/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/piano-1/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/piano-1/"
 
 [[redirects]]
 from = "/fr/notre-organisation/atelier-coralie-barbe/index.html"
@@ -3707,8 +4491,20 @@ from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fondeur-de-caracteres-1/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/"
+
+[[redirects]]
 from = "/en/organizations/loubiere-la-forge-dart/index.html"
 to = "/en/organizations/loubiere-la-forge-d-art/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/confiserie-1/index.html"
+to = "/fr/organisations/categories/produits/confiserie-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/vasques/index.html"
+to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/vasques/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/muzeo/index.html"
@@ -3743,8 +4539,16 @@ from = "/fr/annuaire-des-epv-adherentes/soca/index.html"
 to = "/fr/organisations/soca/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/automobile-mecanique/index.html"
+to = "/en/organizations/categories/products/automobile-mecanique/"
+
+[[redirects]]
 from = "/en/reseau-excellence-bourgogne-franche-comte/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/bourgogne-franche-comte/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/automobile-mecanique/moteur-mecanique-1/index.html"
+to = "/fr/organisations/categories/produits/automobile-mecanique/moteur-mecanique-1/"
 
 [[redirects]]
 from = "/en/posts/index.html"
@@ -3779,6 +4583,10 @@ from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/cou
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/couvreur-ornemaniste/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/electricite-equipements-techniques/prises-electriques/index.html"
+to = "/en/organizations/categories/products/electricite-equipements-techniques/prises-electriques/"
+
+[[redirects]]
 from = "/en/organizations/societe-dedition-religieuse-et-darticles-de-lourdes-seral/index.html"
 to = "/en/organizations/societe-d-edition-religieuse-et-d-articles-de-lourdes-seral/"
 
@@ -3807,12 +4615,16 @@ from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/polisseur
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/polisseur-1/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/chaussures/index.html"
-to = "/fr/organisations/categories/produits/habillement/chaussures/"
+from = "/fr/organisations/categories/produits/art-patrimoine/ceramique-patrimoniale/index.html"
+to = "/fr/organisations/categories/produits/ceramique-patrimoniale/"
 
 [[redirects]]
 from = "/en/agenda/2024-06-20-matinale-1-1/index.html"
 to = "/en/agenda/2024/matinale-1-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/mobilier-ebenisterie/meubles-1/index.html"
+to = "/fr/organisations/categories/produits/mobilier-ebenisterie/meubles-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/savoir-faire-16/jeux-jouets-et-ouvrages-mecaniques/index.html"
@@ -3827,6 +4639,10 @@ from = "/en/organizations/epv-bretagne/index.html"
 to = "/en/organizations/categories/regions/epv-bretagne/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/boisson/index.html"
+to = "/en/organizations/categories/products/boisson/"
+
+[[redirects]]
 from = "/fr/organisations/bronze-dart-francais/index.html"
 to = "/fr/organisations/bronze-d-art-francais/"
 
@@ -3839,8 +4655,16 @@ from = "/fr/annuaire/maison-fey/index.html"
 to = "/fr/organisations/maison-fey/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/orfevre-2/index.html"
+to = "/en/organizations/categories/products/art-de-la-table/orfevre-2/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/moulins-de-versailles/index.html"
 to = "/en/organizations/moulins-de-versailles/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/bars-structures-metalliques/index.html"
+to = "/fr/organisations/categories/produits/construction-structure-amenagement/bars-structures-metalliques/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/new-tone/index.html"
@@ -3871,6 +4695,14 @@ from = "/fr/annuaire-des-epv-adherentes-v1/andree-jardin-brosserie-julio/index.h
 to = "/fr/organisations/andree-jardin-brosserie-julio/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/ameublement-de-salle-de-bain-1/parois-de-douche/index.html"
+to = "/en/organizations/categories/products/ameublement-de-salle-de-bain-1/parois-de-douche/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/sculpture/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/sculpture/"
+
+[[redirects]]
 from = "/en/posts/2023-06-30-les-epv-bourgogne-franche-comte-en-nombre-aux-rencontres-economiques-des-metiers-dart-rema-a-tonnerr/index.html"
 to = "/en/news/2023-06-30-the-bourgogne-franche-comte-epvs-are-out-in-force-at-the-rencontres-economiques-des-metiers-d-art-re/"
 
@@ -3887,6 +4719,10 @@ from = "/fr/annuaire-des-epv-adherentes-v1/artmetal-framex/index.html"
 to = "/fr/organisations/artmetal-framex/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/mobilier-ebenisterie/meubles-1/index.html"
+to = "/en/organizations/categories/products/mobilier-ebenisterie/meubles-1/"
+
+[[redirects]]
 from = "/en/team/administrateurs-re-pays-de-la-loire/index.html"
 to = "/en/team/categories/administrateurs-re-pays-de-la-loire/"
 
@@ -3895,8 +4731,16 @@ from = "/fr/annuaire/la-maison-du-petit-four/index.html"
 to = "/fr/organisations/la-maison-du-petit-four/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/loisirs/sport/escrime/index.html"
+to = "/fr/organisations/categories/produits/sport/escrime/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/andree-jardin-brosserie-julio/index.html"
 to = "/en/organizations/andree-jardin-brosserie-julio/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/sculpture-objet-d-art/index.html"
+to = "/fr/organisations/categories/produits/sculpture-objet-d-art/"
 
 [[redirects]]
 from = "/fr/notre-organisation/cofrex/index.html"
@@ -3909,6 +4753,10 @@ to = "/fr/organisations/ch-legrand-faconnage/"
 [[redirects]]
 from = "/fr/annuaire/pierrenoel/index.html"
 to = "/fr/organisations/pierrenoel/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/bas-reliefs/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/bas-reliefs/"
 
 [[redirects]]
 from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-auvergne-rhone-alpes/index.html"
@@ -3924,7 +4772,7 @@ to = "/en/organizations/categories/regions/epv-nouvelle-aquitaine/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/loisirs/billard-baby-foot/index.html"
-to = "/fr/organisations/categories/produits/loisirs/jeux/billard-baby-foot/"
+to = "/fr/organisations/categories/produits/jeux/billard-baby-foot/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-tabletterie/index.html"
@@ -3943,8 +4791,20 @@ from = "/fr/organisations/categories/domaine-cuir/megissier/index.html"
 to = "/fr/organisations/categories/domaines/cuir/megissier/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/electricite-equipements-techniques/prises-electriques/index.html"
+to = "/fr/organisations/categories/produits/electricite-equipements-techniques/prises-electriques/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier/index.html"
 to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-horlogerie/bijoutier/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/charpente-1/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/charpente-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/arts-graphiques-impression-papier/papeterie-ecriture/index.html"
+to = "/fr/organisations/categories/produits/arts-graphiques-impression-papier/papeterie-ecriture/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/bodet-campanaire/index.html"
@@ -3967,6 +4827,10 @@ from = "/fr/notre-organisation/inma/index.html"
 to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/sauces/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/sauces/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members/gauthier-cie/index.html"
 to = "/en/organizations/gauthier-cie/"
 
@@ -3975,8 +4839,16 @@ from = "/fr/organisations/categories/domaine-cuir/index.html"
 to = "/fr/organisations/categories/domaines/cuir/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/ferrures-1/index.html"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/ferrures-1/"
+
+[[redirects]]
 from = "/fr/notre-organisation/carrafont/index.html"
 to = "/fr/organisations/carrafont/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/corniches/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/corniches/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/fabricant-dobjets-en-papier-et-ou-carton/index.html"
@@ -4019,6 +4891,10 @@ from = "/en/organizations/poterie-dalbi/index.html"
 to = "/en/organizations/poterie-d-albi/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/ferronnerie-decorative/index.html"
+to = "/en/organizations/categories/products/ferronnerie-decorative/"
+
+[[redirects]]
 from = "/fr/annuaire/digital-packaging/index.html"
 to = "/fr/organisations/digital-packaging/"
 
@@ -4035,6 +4911,10 @@ from = "/fr/offres-d-emploi/index.html"
 to = "/fr/appels-a-candidature/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/chaudronnerie-metallique/index.html"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/chaudronnerie-metallique/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-papier-du-graphisme-et-de-l-impression/imprimeur/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/imprimeur/"
 
@@ -4044,19 +4924,31 @@ to = "/fr/organisations/categories/domaines/architecture-et-jardin/metallier/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/tin/index.html"
-to = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/tin/"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/tin/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/menuisier-en-sieges/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/menuisier-en-sieges/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/art-de-la-table/nappes/index.html"
+to = "/fr/organisations/categories/produits/art-de-la-table/nappes/"
+
+[[redirects]]
 from = "/fr/notre-organisation/ch-legrand-faconnage/index.html"
 to = "/fr/organisations/ch-legrand-faconnage/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/boisson/alcoolisees/index.html"
+to = "/fr/organisations/categories/produits/boisson/alcoolisees/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/inma/index.html"
 to = "/en/organizations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/rideaux-stores-habillage-de-fenetres/mecanique-de-stores/index.html"
+to = "/en/organizations/categories/products/rideaux-stores-habillage-de-fenetres/mecanique-de-stores/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/campus-versailles/index.html"
@@ -4079,8 +4971,16 @@ from = "/fr/organisations/categories/domaines/domaine-restauration/verre-et-cris
 to = "/fr/organisations/categories/domaines/restauration/verre-et-cristal/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/restauration-du-patrimoine/restauration-de-livres-et-d-arts-graphiques/index.html"
+to = "/fr/organisations/categories/produits/restauration-du-patrimoine/restauration-de-livres-et-d-arts-graphiques/"
+
+[[redirects]]
 from = "/en/posts/2024-03-01-32-nouveaux-laureats-du-label-entreprises-du-patrimoine-vivant-en-hauts-de-france/index.html"
 to = "/en/news/2024-03-01-32-nouveaux-laureats-du-label-entreprises-du-patrimoine-vivant-en-hauts-de-france/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-habillage-de-fenetres/rideaux-sur-mesure/index.html"
+to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/rideaux-sur-mesure/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/index.html"
@@ -4089,6 +4989,10 @@ to = "/fr/organisations/"
 [[redirects]]
 from = "/en/reseau-excellence-auvergne-rhone-alpes/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/auvergne-rhone-alpes/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/vinaigre-1/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/vinaigre-1/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members/index.html"
@@ -4107,6 +5011,18 @@ from = "/en/directory-of-epv-members/atelier-fey/index.html"
 to = "/en/organizations/atelier-fey/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/bois-pour-la-lutherie/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/bois-pour-la-lutherie/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/sculpture-objet-d-art/index.html"
+to = "/en/organizations/categories/products/sculpture-objet-d-art/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/maquette-prototypage/index.html"
+to = "/fr/organisations/categories/produits/maquette-prototypage/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/astier-de-villatte/index.html"
 to = "/fr/organisations/astier-de-villatte/"
 
@@ -4117,6 +5033,14 @@ to = "/fr/equipe/reseau-excellence/actualites/"
 [[redirects]]
 from = "/en/organizations/categories/type-dorganisation/partenaires/index.html"
 to = "/en/organizations/categories/organizations-type/partenaires/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/jam/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/jam/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/"
 
 [[redirects]]
 from = "/en/reseau-excellence-in-france/index.html"
@@ -4139,8 +5063,16 @@ from = "/fr/annuaire/conseillers-du-commerce-exterieurs/index.html"
 to = "/fr/organisations/conseillers-du-commerce-exterieurs/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/mobilier-ebenisterie/banquette-1/index.html"
+to = "/en/organizations/categories/products/mobilier-ebenisterie/banquette-1/"
+
+[[redirects]]
 from = "/fr/organisations/epv-nouvelle-aquitaine/index.html"
 to = "/fr/organisations/categories/regions/epv-nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/piano-1/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/piano-1/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/reseau-excellence-hauts-de-france/index.html"
@@ -4157,6 +5089,10 @@ to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/impri
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/maison-fey/index.html"
 to = "/fr/organisations/maison-fey/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/ferronnerie-technique/index.html"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/ferronnerie-technique/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/verrier-a-la-main/index.html"
@@ -4183,12 +5119,20 @@ from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/fabric
 to = "/fr/organisations/categories/domaines/mode-et-accessoires/fabricant-de-parapluies-parasols-ombrelles-et-cannes/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/agriculture-outils-pour-le-sol/index.html"
+to = "/fr/organisations/categories/produits/agriculture-outils-pour-le-sol/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/reseau-excellence-auvergne-rhone-alpes/index.html"
 to = "/fr/organisations/reseau-excellence-auvergne-rhone-alpes/"
 
 [[redirects]]
 from = "/fr/annuaire/phelippeau-tapissier/index.html"
 to = "/fr/organisations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/renovation-et-amenagement-interieur/index.html"
+to = "/en/organizations/categories/products/renovation-et-amenagement-interieur/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/phelippeau-tapissier/index.html"
@@ -4205,6 +5149,10 @@ to = "/fr/organisations/categories/domaines/textile/brodeur-sur-machine-guidee-m
 [[redirects]]
 from = "/fr/notre-organisation/le-papier-darmenie/index.html"
 to = "/fr/organisations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/receveurs-de-douche/index.html"
+to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/receveurs-de-douche/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/les-ateliers-de-la-chapelle/index.html"
@@ -4243,16 +5191,24 @@ from = "/en/organizations/categories/epv-centre-val-de-loire/index.html"
 to = "/en/organizations/categories/regions/epv-centre-val-de-loire/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/vegetation-decorative/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/vegetation-decorative/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/filet-cordage-textile-technique/index.html"
+to = "/fr/organisations/categories/produits/filet-cordage-textile-technique/"
+
+[[redirects]]
 from = "/en/organizations/molinelli-metallerie-dart/index.html"
 to = "/en/organizations/molinelli-metallerie-d-art/"
 
 [[redirects]]
-from = "/fr/organisations/categories/domaine-facture-instrumentale/facteur-etou-restaurateur-de-pianos/index.html"
-to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-de-pianos/"
+from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/decor-lumineux/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/decor-lumineux/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/produits-laitiers/fromages/index.html"
-to = "/fr/organisations/categories/produits/alimentation/fromages/"
+from = "/fr/organisations/categories/domaine-facture-instrumentale/facteur-etou-restaurateur-de-pianos/index.html"
+to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-de-pianos/"
 
 [[redirects]]
 from = "/en/posts/news-from-normandie/index.html"
@@ -4269,6 +5225,10 @@ to = "/en/lassociation/reseau-excellence-in-france/hauts-de-france/"
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/atelier-patrice-bricout/index.html"
 to = "/en/organizations/atelier-patrice-bricout/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/serre-1/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/serre-1/"
 
 [[redirects]]
 from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-brittany/index.html"
@@ -4295,6 +5255,10 @@ from = "/en/directory-of-epv-members/ministere-de-l-economie-des-finances-et-de-
 to = "/en/organizations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/mobilier-ebenisterie/index.html"
+to = "/fr/organisations/categories/produits/mobilier-ebenisterie/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/sellier-dameublement/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/sellier-dameublement/"
 
@@ -4313,6 +5277,10 @@ to = "/fr/organisations/ch-legrand-faconnage/"
 [[redirects]]
 from = "/fr/organisations/categories/type-dorganisation/entreprise-du-patrimoine-vivant/index.html"
 to = "/fr/organisations/categories/type-dorganisation/entreprises-du-patrimoine-vivant/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-habillage-de-fenetres/tapis-tapisseries-revetements/index.html"
+to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/tapis-tapisseries-revetements/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/cruard-menuiserie/index.html"
@@ -4343,6 +5311,10 @@ from = "/fr/annuaire-des-epv-adherentes/cvl-luminaires/index.html"
 to = "/fr/organisations/cvl-luminaires/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/rideaux-stores-habillage-de-fenetres/rideaux-sur-mesure/index.html"
+to = "/en/organizations/categories/products/rideaux-stores-habillage-de-fenetres/rideaux-sur-mesure/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-ceramique/ceramique/index.html"
 to = "/fr/organisations/categories/domaines/ceramique-1/ceramique/"
 
@@ -4363,12 +5335,20 @@ from = "/fr/organisations/categories/domaines/domaine-tabletterie/brosserie/inde
 to = "/fr/organisations/categories/domaines/tabletterie/brosserie/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-textile/tisserand/index.html"
 to = "/fr/organisations/categories/domaines/textile/tisserand/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/culture-dobjet/index.html"
 to = "/fr/organisations/culture-d-objet/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/taille-de-pierre/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/taille-de-pierre/"
 
 [[redirects]]
 from = "/fr/annuaire/societe-francaise-de-marbrerie-cochois/index.html"
@@ -4381,6 +5361,10 @@ to = "/fr/organisations/categories/type-dorganisation/partenaires/"
 [[redirects]]
 from = "/fr/annuaire/institut-pour-les-savoir-faire-francais/index.html"
 to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/guitar/index.html"
+to = "/en/organizations/categories/products/instruments-de-musique-1/guitar/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-bijouterie-joaillerie-orfevrerie-et-horlogerie/index.html"
@@ -4431,6 +5415,10 @@ from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabricant-dobjets-en-papier-et-ou-carton/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/vitrail-arts-du-verre/index.html"
+to = "/fr/organisations/categories/produits/vitrail-arts-du-verre/"
+
+[[redirects]]
 from = "/en/agenda/2024-05-14-presentielle-au-chantier-des-ileaux/index.html"
 to = "/en/agenda/2024/presentielle-au-chantier-des-ileaux/"
 
@@ -4463,6 +5451,10 @@ from = "/fr/organisations/categories/domaine-luminaire/fabricant-de-luminaires/i
 to = "/fr/organisations/categories/domaines/luminaire/fabricant-de-luminaires/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/accessoires-de-cuisine/index.html"
+to = "/en/organizations/categories/products/accessoires-de-cuisine/"
+
+[[redirects]]
 from = "/fr/reseau-excellence-en-france/reseau-excellence-normandie/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/normandie/"
 
@@ -4489,6 +5481,10 @@ to = "/fr/organisations/ets-roze/"
 [[redirects]]
 from = "/en/directory-of-epv-members/le-papier-darmenie/index.html"
 to = "/en/organizations/le-papier-d-armenie/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/jam/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/jam/"
 
 [[redirects]]
 from = "/fr/organisations/atelier-auder-dornements/index.html"
@@ -4535,6 +5531,10 @@ from = "/fr/notre-organisation-annuaire/andree-jardin-brosserie-julio/index.html
 to = "/fr/organisations/andree-jardin-brosserie-julio/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/gastronomie-2/produits-laitiers/index.html"
+to = "/en/organizations/categories/products/produits-laitiers/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-auder-dornements/index.html"
 to = "/fr/organisations/atelier-auder-d-ornements/"
 
@@ -4563,6 +5563,14 @@ from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/fabricant-de-serrures/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/mustard/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/mustard/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/serrures/index.html"
+to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/serrures/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/procedes-chenel-international/index.html"
 to = "/en/organizations/procedes-chenel-international/"
 
@@ -4573,6 +5581,10 @@ to = "/fr/organisations/categories/domaines/textile/tricoteur/"
 [[redirects]]
 from = "/fr/lassociation/nos-missions/index.html"
 to = "/fr/lassociation/notre-histoire-et-nos-missions/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/serrures/index.html"
+to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/serrures/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-restauration/ceramiques/index.html"
@@ -4607,12 +5619,28 @@ from = "/fr/organisations/categories/domaine/domaine-papier-du-graphisme-et-de-l
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/mobilier-ebenisterie/fauteuil/index.html"
+to = "/en/organizations/categories/products/mobilier-ebenisterie/fauteuil/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-cuir/bottier-main/index.html"
 to = "/fr/organisations/categories/domaines/cuir/bottier-main/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/loisirs/jeux/billard-baby-foot/index.html"
+to = "/fr/organisations/categories/produits/jeux/billard-baby-foot/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/"
+
+[[redirects]]
 from = "/fr/annuaire/rinck/index.html"
 to = "/fr/organisations/rinck/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/automobile-mecanique/moteur-mecanique-1/index.html"
+to = "/en/organizations/categories/products/automobile-mecanique/moteur-mecanique-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/sculpteur/index.html"
@@ -4637,6 +5665,14 @@ to = "/fr/organisations/categories/domaines/cuir/"
 [[redirects]]
 from = "/fr/organisations/st-dupont-sa/index.html"
 to = "/fr/organisations/s-t-dupont-sa/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/loisirs/sport/index.html"
+to = "/en/organizations/categories/products/sport/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/luminaires-1/index.html"
+to = "/en/organizations/categories/products/luminaires-1/"
 
 [[redirects]]
 from = "/fr/agenda/2025/les-rendez-vous-cook-share-by-la-filiere-france-maisonobjet-sept-2025-hall-4/index.html"
@@ -4669,6 +5705,18 @@ to = "/en/agenda/2024/matinale-1/"
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/la-maison-du-petit-four/index.html"
 to = "/en/organizations/la-maison-du-petit-four/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/index.html"
+to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/vegetation-decorative/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/vegetation-decorative/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/marbrerie/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/marbrerie/"
 
 [[redirects]]
 from = "/fr/agenda/2025/campagne-de-promotion-a-destination-du-grand-public-de-la-visite-dentreprise-et-du-tourisme-de-savoi/index.html"
@@ -4719,6 +5767,10 @@ from = "/fr/reseau-excellence-pays-de-la-loire/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/pays-de-la-loire/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/"
+
+[[redirects]]
 from = "/fr/le-reseau-excellence-en-france/reseau-excellence-bourgogne-franche-comte/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/bourgogne-franche-comte/"
 
@@ -4735,12 +5787,24 @@ from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/relieur/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/art-patrimoine/restauration-du-patrimoine/index.html"
+to = "/en/organizations/categories/products/restauration-du-patrimoine/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/giovanna-chittoda-brescia-antoine-vittori-laulhere/index.html"
 to = "/fr/organisations/giovanna-chitto-da-brescia-antoine-vittori-laulhere/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/comptoir/index.html"
+to = "/en/organizations/categories/products/construction-structure-amenagement/comptoir/"
+
+[[redirects]]
 from = "/fr/annuaire/atelier-auder-dornements/index.html"
 to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/matelas-1/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/matelas-1/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/atelier-coralie-barbe/index.html"
@@ -4759,16 +5823,36 @@ from = "/fr/annuaire-des-epv-adherentes/bodet-campanaire/index.html"
 to = "/fr/organisations/bodet-campanaire/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/loisirs/jeux/billard-baby-foot/index.html"
+to = "/en/organizations/categories/products/jeux/billard-baby-foot/"
+
+[[redirects]]
 from = "/en/reseau-excellence-centre-val-de-la-loire/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/salon/plaids/index.html"
+to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/salon/plaids/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-tabletterie/index.html"
 to = "/fr/organisations/categories/domaines/tabletterie/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/industrie-equipements/automobile-mecanique/moteur-thermique-1/index.html"
+to = "/en/organizations/categories/products/automobile-mecanique/moteur-thermique-1/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/maison-gatti/index.html"
 to = "/en/organizations/maison-gatti/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/huile-d-olive/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/huile-d-olive/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/violoncelle-1/index.html"
+to = "/fr/organisations/categories/produits/instruments-de-musique-1/violoncelle-1/"
 
 [[redirects]]
 from = "/fr/annuaire/atelier-patrice-bricout/index.html"
