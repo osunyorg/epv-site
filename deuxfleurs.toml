@@ -455,10 +455,6 @@ from = "/fr/annuaire-des-epv-adherentes/de-lor-dans-les-mains/index.html"
 to = "/fr/organisations/de-l-or-dans-les-mains/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/salon/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/salon/"
-
-[[redirects]]
 from = "/fr/annuaire/cruard-charpente/index.html"
 to = "/fr/organisations/cruard-charpente/"
 
@@ -575,10 +571,6 @@ from = "/en/reseau-excellence-ile-de-france/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/ile-de-france/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/cuisine/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/cuisine/"
-
-[[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/habillement-1/vetements/index.html"
 to = "/en/organizations/categories/products/habillement-1/vetements/"
 
@@ -673,10 +665,6 @@ to = "/fr/organisations/categories/domaines/restauration/"
 [[redirects]]
 from = "/en/the-epv-label/index.html"
 to = "/en/our-epvs/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/oreillers/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/oreillers/"
 
 [[redirects]]
 from = "/fr/annuaire/ateliers-bernard-pictet/index.html"
@@ -1115,10 +1103,6 @@ from = "/fr/reseau-excellence-en-france/reseau-excellence-ile-de-france/index.ht
 to = "/fr/lassociation/reseau-excellence-en-france/ile-de-france/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/cuisine/torchon/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/cuisine/torchon/"
-
-[[redirects]]
 from = "/en/directory-of-epv-members/carrafont/index.html"
 to = "/en/organizations/carrafont/"
 
@@ -1181,10 +1165,6 @@ to = "/fr/organisations/de-l-or-dans-les-mains/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/atelier-patrice-bricout/index.html"
 to = "/fr/organisations/atelier-patrice-bricout/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/oreillers/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/oreillers/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-ceramique/peintre-sur-faience/index.html"
@@ -1703,10 +1683,6 @@ from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-pays-de-l
 to = "/en/lassociation/reseau-excellence-in-france/pays-de-la-loire/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/couettes/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/couettes/"
-
-[[redirects]]
 from = "/fr/le-label-epv/index.html"
 to = "/fr/nos-epv/"
 
@@ -1781,10 +1757,6 @@ to = "/fr/organisations/fonderie-d-art-bocquel/"
 [[redirects]]
 from = "/en/organizations/lartisan-costumier/index.html"
 to = "/en/organizations/l-artisan-costumier/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/cuisine/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/cuisine/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/nyckelharpa/index.html"
@@ -2069,10 +2041,6 @@ to = "/en/organizations/nortier-emballages/"
 [[redirects]]
 from = "/fr/organisations/categories/domaine-cuir/gainier/index.html"
 to = "/fr/organisations/categories/domaines/cuir/gainier/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/fabrication-de-lit/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/fabrication-de-lit/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-jeux-jouets-et-ouvrages-mecaniques/carrossier/index.html"
@@ -2611,10 +2579,6 @@ from = "/en/directory-of-epv-members/new-tone/index.html"
 to = "/en/organizations/new-tone/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/salon/housse-de-coussin-1/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/salon/housse-de-coussin-1/"
-
-[[redirects]]
 from = "/en/directory-of-epv-members-v1/confiserie-de-medicis/index.html"
 to = "/en/organizations/confiserie-de-medicis/"
 
@@ -2847,10 +2811,6 @@ from = "/fr/annuaire/cvl-luminaires/index.html"
 to = "/fr/organisations/cvl-luminaires/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/cuisine/torchon/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/cuisine/torchon/"
-
-[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/conseillers-du-commerce-exterieurs/index.html"
 to = "/fr/organisations/conseillers-du-commerce-exterieurs/"
 
@@ -3071,10 +3031,6 @@ from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impres
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/graveur-et-imprimeur-en-gaufrage/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/fabrication-de-lit/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/fabrication-de-lit/"
-
-[[redirects]]
 from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/imprimeur/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/imprimeur/"
 
@@ -3257,10 +3213,6 @@ to = "/fr/organisations/categories/domaines/ameublement-et-decoration/vannier/"
 [[redirects]]
 from = "/en/organizations/categories/epv-bourgogne-franche-comte/index.html"
 to = "/en/organizations/categories/regions/epv-bourgogne-franche-comte/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/salon/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/salon/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-metal/modeleur-mouleur/index.html"
@@ -3539,10 +3491,6 @@ from = "/en/directory-of-epv-members-v1/reseau-excellence-auvergne-rhone-alpes/i
 to = "/en/organizations/reseau-excellence-auvergne-rhone-alpes/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/"
-
-[[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/cheminee-1/index.html"
 to = "/fr/organisations/categories/produits/construction-structure-amenagement/cheminee-1/"
 
@@ -3605,10 +3553,6 @@ to = "/en/organizations/moulins-de-versailles/"
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/textile-patrimonial-tapisserie/index.html"
 to = "/fr/organisations/categories/produits/textile-patrimonial-tapisserie/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/ameublement-de-salle-de-bain-1/receveurs-de-douche/index.html"
-to = "/en/organizations/categories/products/ameublement-de-salle-de-bain-1/receveurs-de-douche/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-verre-et-cristal/doreur-1/index.html"
@@ -4075,10 +4019,6 @@ from = "/fr/organisations/sca-oleicole-loulibo/index.html"
 to = "/fr/organisations/sca-oleicole-l-oulibo/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/salon/plaids/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/salon/plaids/"
-
-[[redirects]]
 from = "/fr/organisations/categories/savoir-faire-6/verrier-decorateur/index.html"
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-decorateur/"
 
@@ -4161,10 +4101,6 @@ to = "/en/organizations/categories/products/packaging-emballage/emballage-en-boi
 [[redirects]]
 from = "/en/organizations/imfpfjkdgfnmosr/index.html"
 to = "/en/organizations/bellon-fils/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/matelas-1/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/matelas-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/loisirs/sport/index.html"
@@ -4603,10 +4539,6 @@ from = "/en/posts/actualites-d-auvergne-rhone-alpes/index.html"
 to = "/en/news/news-from-auvergne-rhone-alpes/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/couettes/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/couettes/"
-
-[[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/restauration-du-patrimoine/index.html"
 to = "/fr/organisations/categories/produits/restauration-du-patrimoine/"
 
@@ -4641,10 +4573,6 @@ to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/andree-jardin-brosserie-julio/index.html"
 to = "/fr/organisations/andree-jardin-brosserie-julio/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/salon/housse-de-coussin-1/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/salon/housse-de-coussin-1/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/electricite-equipements-techniques/projecteur/index.html"
@@ -5371,10 +5299,6 @@ from = "/fr/notre-organisation/le-papier-darmenie/index.html"
 to = "/fr/organisations/le-papier-d-armenie/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/receveurs-de-douche/index.html"
-to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/receveurs-de-douche/"
-
-[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/les-ateliers-de-la-chapelle/index.html"
 to = "/fr/organisations/les-ateliers-de-la-chapelle/"
 
@@ -5935,10 +5859,6 @@ from = "/fr/organisations/categories/produits/mode-et-accessoires-1/packaging-em
 to = "/fr/organisations/categories/produits/packaging-emballage/emballage-en-bois-1/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/chambre/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/chambre/"
-
-[[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/habillement-1/glasses/index.html"
 to = "/fr/organisations/categories/produits/habillement-1/glasses/"
 
@@ -6039,10 +5959,6 @@ from = "/fr/annuaire/atelier-auder-dornements/index.html"
 to = "/fr/organisations/atelier-auder-d-ornements/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/chambre/matelas-1/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/chambre/matelas-1/"
-
-[[redirects]]
 from = "/fr/notre-organisation-annuaire/atelier-coralie-barbe/index.html"
 to = "/fr/organisations/atelier-coralie-barbe/"
 
@@ -6065,10 +5981,6 @@ to = "/en/organizations/categories/products/jeux/billard-baby-foot/"
 [[redirects]]
 from = "/en/reseau-excellence-centre-val-de-la-loire/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/salon/plaids/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/salon/plaids/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-tabletterie/index.html"
