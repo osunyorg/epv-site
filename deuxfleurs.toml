@@ -1495,6 +1495,10 @@ from = "/fr/organisations/categories/domaine-des-jeux-jouets-et-ouvrages-mecaniq
 to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/ferronnerie-decorative/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/ferronnerie-decorative/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/maroquinerie-1/index.html"
 to = "/en/organizations/categories/products/maroquinerie-1/"
 
@@ -2004,7 +2008,7 @@ to = "/fr/organisations/astier-de-villatte/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/maison-decoration/ferronnerie-decorative/index.html"
-to = "/fr/organisations/categories/produits/ferronnerie-decorative/"
+to = "/fr/organisations/categories/produits/decoration-ambiance/ferronnerie-decorative/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/index.html"
@@ -3105,6 +3109,10 @@ to = "/fr/organisations/maison-d-histoire/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/tailleur-1/index.html"
 to = "/fr/organisations/categories/domaines/mode-et-accessoires/tailleur-1/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/ferronnerie-decorative/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/ferronnerie-decorative/"
 
 [[redirects]]
 from = "/fr/organisations/categories/savoir-faire/maitre-verrier-vitrailliste/index.html"
@@ -5036,7 +5044,7 @@ to = "/en/organizations/poterie-d-albi/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/maison-decoration/ferronnerie-decorative/index.html"
-to = "/en/organizations/categories/products/ferronnerie-decorative/"
+to = "/en/organizations/categories/products/decoration-ambiance/ferronnerie-decorative/"
 
 [[redirects]]
 from = "/fr/annuaire/digital-packaging/index.html"
