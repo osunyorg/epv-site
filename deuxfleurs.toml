@@ -863,6 +863,10 @@ from = "/en/news/2024-10-25-the-chair-fair-of-hagetmau-landes/index.html"
 to = "/en/news/2024-10-21-the-chair-fair-of-hagetmau-landes/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/peinture-decorative/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/peinture-decorative/"
+
+[[redirects]]
 from = "/fr/organisations/fonderie-dart-macheret/index.html"
 to = "/fr/organisations/fonderie-d-art-macheret/"
 
@@ -1448,7 +1452,7 @@ to = "/fr/organisations/atout-france/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/peinture-decorative/index.html"
-to = "/fr/organisations/categories/produits/peinture-decorative/"
+to = "/fr/organisations/categories/produits/decoration-ambiance/peinture-decorative/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/abc-leroyer/index.html"
@@ -1644,7 +1648,7 @@ to = "/en/organizations/categories/products/habillement-1/malle/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/dorure-finitions/index.html"
-to = "/en/organizations/categories/products/dorure-finitions/"
+to = "/en/organizations/categories/products/architecture-decorative/dorure-finitions/"
 
 [[redirects]]
 from = "/fr/notre-organisation/ravier-riccoboni/index.html"
@@ -1905,6 +1909,10 @@ to = "/en/lassociation/reseau-excellence-in-france/brittany/"
 [[redirects]]
 from = "/en/directory-of-epv-members/fonderie-sylvain-compagnon/index.html"
 to = "/en/organizations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/dorure-finitions/index.html"
+to = "/en/organizations/categories/products/architecture-decorative/dorure-finitions/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/la-maison-du-petit-four/index.html"
@@ -3544,7 +3552,7 @@ to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/f
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/dorure-finitions/index.html"
-to = "/fr/organisations/categories/produits/dorure-finitions/"
+to = "/fr/organisations/categories/produits/architecture-decorative/dorure-finitions/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-architecture-et-jardin/escalieteur/index.html"
@@ -4492,7 +4500,7 @@ to = "/fr/organisations/categories/produits/construction-structure-amenagement/t
 
 [[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/peinture-decorative/index.html"
-to = "/en/organizations/categories/products/peinture-decorative/"
+to = "/en/organizations/categories/products/decoration-ambiance/peinture-decorative/"
 
 [[redirects]]
 from = "/fr/reseau-excellence-occitanie/index.html"
@@ -4589,6 +4597,10 @@ to = "/en/organizations/categories/regions/epv-nouvelle-aquitaine/"
 [[redirects]]
 from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-centre-val-de-loire/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/dorure-finitions/index.html"
+to = "/fr/organisations/categories/produits/architecture-decorative/dorure-finitions/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/andree-jardin-brosserie-julio/index.html"
@@ -5529,6 +5541,10 @@ to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-
 [[redirects]]
 from = "/en/directory-of-epv-members/cofrex/index.html"
 to = "/en/organizations/cofrex/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/peinture-decorative/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/peinture-decorative/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/filet-cordage-textile-technique/index.html"
