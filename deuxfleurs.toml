@@ -475,10 +475,6 @@ from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impres
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/cartonnier/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/gastronomie-2/produits-alimentaires-transformes/index.html"
-to = "/fr/organisations/categories/produits/produits-alimentaires-transformes/"
-
-[[redirects]]
 from = "/en/directory-of-epv-members-v1/phelippeau-tapissier/index.html"
 to = "/en/organizations/phelippeau-tapissier/"
 
@@ -2705,10 +2701,6 @@ to = "/en/organizations/categories/products/jeux/billard-baby-foot/"
 [[redirects]]
 from = "/fr/organisations/categories/produits/maison-decoration/ameublement-de-salle-de-bain-1/index.html"
 to = "/fr/organisations/categories/produits/ameublement-de-salle-de-bain-1/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/gastronomie-2/produits-alimentaires-transformes/index.html"
-to = "/en/organizations/categories/products/produits-alimentaires-transformes/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/pianos-balleron/index.html"
