@@ -479,6 +479,10 @@ from = "/en/directory-of-epv-members-v1/phelippeau-tapissier/index.html"
 to = "/en/organizations/phelippeau-tapissier/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/objets-techniques/haut-parleur-et-enceinte/index.html"
+to = "/fr/organisations/categories/produits/electricite-equipements-techniques/haut-parleur-et-enceinte/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine/domaine-restauration/index.html"
 to = "/fr/organisations/categories/domaines/restauration/"
 
@@ -1576,7 +1580,7 @@ to = "/en/organizations/categories/products/instruments-de-musique-1/violoncelle
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/haut-parleur-et-enceinte/index.html"
-to = "/fr/organisations/categories/produits/objets-techniques/haut-parleur-et-enceinte/"
+to = "/fr/organisations/categories/produits/electricite-equipements-techniques/haut-parleur-et-enceinte/"
 
 [[redirects]]
 from = "/fr/notre-organisation/origine-france-garantie/index.html"
@@ -2576,7 +2580,7 @@ to = "/en/organizations/atelier-du-meuble-contemporain/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/haut-parleur-et-enceinte/index.html"
-to = "/fr/organisations/categories/produits/objets-techniques/haut-parleur-et-enceinte/"
+to = "/fr/organisations/categories/produits/electricite-equipements-techniques/haut-parleur-et-enceinte/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/menuisier/index.html"
@@ -3001,6 +3005,10 @@ to = "/en/organizations/categories/products/packaging-emballage/packaging-fabric
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/atelier-fey/index.html"
 to = "/fr/organisations/atelier-fey/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/objets-techniques/haut-parleur-et-enceinte/index.html"
+to = "/en/organizations/categories/products/electricite-equipements-techniques/haut-parleur-et-enceinte/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/concept-ebenist/index.html"
@@ -4376,7 +4384,7 @@ to = "/fr/organisations/procedes-chenel-international/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/haut-parleur-et-enceinte/index.html"
-to = "/en/organizations/categories/products/objets-techniques/haut-parleur-et-enceinte/"
+to = "/en/organizations/categories/products/electricite-equipements-techniques/haut-parleur-et-enceinte/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-jovis/index.html"
@@ -5604,7 +5612,7 @@ to = "/en/organizations/astier-de-villatte/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/haut-parleur-et-enceinte/index.html"
-to = "/en/organizations/categories/products/objets-techniques/haut-parleur-et-enceinte/"
+to = "/en/organizations/categories/products/electricite-equipements-techniques/haut-parleur-et-enceinte/"
 
 [[redirects]]
 from = "/en/reseau-excellence-occitanie/index.html"
