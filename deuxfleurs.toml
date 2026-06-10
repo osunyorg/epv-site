@@ -312,7 +312,7 @@ to = "/en/organizations/les-delices-d-alienor-croustad-oc/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/produits-laitiers/index.html"
-to = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-restauration/peintures/index.html"
@@ -2059,6 +2059,10 @@ from = "/fr/organisations/categories/domaines/domaine-jeux-jouets-et-ouvrages-me
 to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/carrossier/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/traiteur-produits-prepares/produits-laitiers/index.html"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-laitiers/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-textile/tisserand/index.html"
 to = "/fr/organisations/categories/domaines/textile/tisserand/"
 
@@ -2481,6 +2485,10 @@ to = "/fr/organisations/categories/domaines/architecture-et-jardin/macon-du-patr
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/atelier-fey/index.html"
 to = "/en/organizations/atelier-fey/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/index.html"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/"
 
 [[redirects]]
 from = "/en/news/2023-06-30-les-epv-bourgogne-franche-comte-en-nombre-aux-rencontres-economiques-des-metiers-dart-rema-a-tonnerr/index.html"
@@ -3100,7 +3108,7 @@ to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabri
 
 [[redirects]]
 from = "/en/organizations/categories/products/produits-laitiers/index.html"
-to = "/en/organizations/categories/products/traiteur-produits-prepares/produits-laitiers/"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/maison-dhistoire/index.html"
@@ -4440,7 +4448,7 @@ to = "/fr/organisations/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/produits-laitiers/index.html"
-to = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/"
+to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-saint-eloi/index.html"
@@ -5692,7 +5700,7 @@ to = "/fr/organisations/andree-jardin-brosserie-julio/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/produits-laitiers/index.html"
-to = "/en/organizations/categories/products/traiteur-produits-prepares/produits-laitiers/"
+to = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-auder-dornements/index.html"
