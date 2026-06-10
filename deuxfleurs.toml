@@ -203,6 +203,10 @@ from = "/fr/annuaire/le-papier-darmenie/index.html"
 to = "/fr/organisations/le-papier-d-armenie/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/filet-cordage-textile-technique/index.html"
+to = "/fr/organisations/categories/produits/objets-techniques/filet-cordage-textile-technique/"
+
+[[redirects]]
 from = "/fr/organisations/molinelli-metallerie-dart/index.html"
 to = "/fr/organisations/molinelli-metallerie-d-art/"
 
@@ -265,6 +269,10 @@ to = "/en/team/categories/administrateurs-re-hauts-de-france/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/chantier-des-ileaux/index.html"
 to = "/fr/organisations/chantier-des-ileaux/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/horloge/index.html"
+to = "/fr/organisations/categories/produits/bijouterie-horlogerie/horloge/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/packaging-emballage/palettes-de-maquillage/index.html"
@@ -908,7 +916,7 @@ to = "/en/organizations/sca-oleicole-l-oulibo/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/filet-cordage-textile-technique/index.html"
-to = "/en/organizations/categories/products/filet-cordage-textile-technique/"
+to = "/en/organizations/categories/products/objets-techniques/filet-cordage-textile-technique/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/sculpteur-sur-pierre/index.html"
@@ -1632,7 +1640,7 @@ to = "/fr/equipe/benoit-besnault/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/horloge/index.html"
-to = "/fr/organisations/categories/produits/horloge/"
+to = "/fr/organisations/categories/produits/bijouterie-horlogerie/horloge/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/accessoires-de-mode/malle/index.html"
@@ -2955,10 +2963,6 @@ from = "/fr/missions/index.html"
 to = "/fr/lassociation/notre-histoire-et-nos-missions/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/art-patrimoine/ceramique-patrimoniale/index.html"
-to = "/en/organizations/categories/products/ceramique-patrimoniale/"
-
-[[redirects]]
 from = "/en/directory-of-epv-members-v1/la-maison-du-vitrail/index.html"
 to = "/en/organizations/la-maison-du-vitrail/"
 
@@ -3572,7 +3576,7 @@ to = "/fr/organisations/categories/domaines/verre-et-cristal-1/doreur-1/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/horloge/index.html"
-to = "/en/organizations/categories/products/horloge/"
+to = "/en/organizations/categories/products/bijouterie-horlogerie/horloge/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/new-tone/index.html"
@@ -4763,10 +4767,6 @@ from = "/fr/organisations/categories/produits/mode-et-accessoires-1/textile-cout
 to = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/couture/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/art-patrimoine/ceramique-patrimoniale/index.html"
-to = "/fr/organisations/categories/produits/ceramique-patrimoniale/"
-
-[[redirects]]
 from = "/en/agenda/2024-06-20-matinale-1-1/index.html"
 to = "/en/agenda/2024/matinale-1-1/"
 
@@ -5352,7 +5352,7 @@ to = "/fr/organisations/categories/produits/decoration-ambiance/vegetation-decor
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/filet-cordage-textile-technique/index.html"
-to = "/fr/organisations/categories/produits/filet-cordage-textile-technique/"
+to = "/fr/organisations/categories/produits/objets-techniques/filet-cordage-textile-technique/"
 
 [[redirects]]
 from = "/en/organizations/molinelli-metallerie-dart/index.html"
@@ -5529,6 +5529,10 @@ to = "/fr/organisations/categories/domaines/bijouterie-joaillerie-orfevrerie-et-
 [[redirects]]
 from = "/en/directory-of-epv-members/cofrex/index.html"
 to = "/en/organizations/cofrex/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/filet-cordage-textile-technique/index.html"
+to = "/en/organizations/categories/products/objets-techniques/filet-cordage-textile-technique/"
 
 [[redirects]]
 from = "/fr/agenda/2025/save-the-date-les-epv-bougent-dans-le-grand-est/index.html"
@@ -5905,6 +5909,10 @@ to = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/textile-
 [[redirects]]
 from = "/fr/annuaire/drac-pays-de-la-loire/index.html"
 to = "/fr/organisations/drac-pays-de-la-loire/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/horloge/index.html"
+to = "/en/organizations/categories/products/bijouterie-horlogerie/horloge/"
 
 [[redirects]]
 from = "/fr/notre-organisation/andree-jardin-brosserie-julio/index.html"
