@@ -1195,6 +1195,10 @@ from = "/fr/annuaire-des-epv-adherentes-v1/la-maison-du-vitrail/index.html"
 to = "/fr/organisations/la-maison-du-vitrail/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/textile-patrimonial-tapisserie/index.html"
+to = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/"
+
+[[redirects]]
 from = "/en/organizations/categories/association-regionales/index.html"
 to = "/en/organizations/categories/organizations-type/association-regionales/"
 
@@ -3151,6 +3155,10 @@ from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-h
 to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/tringles/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/textile-patrimonial-tapisserie/index.html"
+to = "/en/organizations/categories/products/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-metal/fondeur/index.html"
 to = "/fr/organisations/categories/domaines/metal-1/fondeur/"
 
@@ -3320,7 +3328,7 @@ to = "/en/organizations/categories/products/objets-techniques/parapluie/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/textile-patrimonial-tapisserie/index.html"
-to = "/en/organizations/categories/products/textile-patrimonial-tapisserie/"
+to = "/en/organizations/categories/products/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/"
 
 [[redirects]]
 from = "/fr/agenda/2024-01-21-linma-devient-linstitut-pour-les-savoir-faire-francais/index.html"
@@ -3584,7 +3592,7 @@ to = "/en/organizations/moulins-de-versailles/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/textile-patrimonial-tapisserie/index.html"
-to = "/fr/organisations/categories/produits/textile-patrimonial-tapisserie/"
+to = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-verre-et-cristal/doreur-1/index.html"
