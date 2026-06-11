@@ -4995,6 +4995,14 @@ from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/miroitier
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/miroitier-argenteur/"
 
 [[redirects]]
+from = "/en/agenda/2027/sirha-2027/index.html"
+to = "/en/agenda/2026/sirha-2027/"
+
+[[redirects]]
+from = "/fr/agenda/2027/sirha-2027/index.html"
+to = "/fr/agenda/2026/sirha-2027/"
+
+[[redirects]]
 from = "/fr/notre-organisation/inma/index.html"
 to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
 
