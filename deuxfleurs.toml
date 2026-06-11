@@ -4587,10 +4587,6 @@ from = "/fr/organisations/categories/produits/art-patrimoine/restauration-du-pat
 to = "/fr/organisations/categories/produits/restauration-du-patrimoine/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/mode-et-accessoires-1/textile-couture-arts-du-fil/couture/index.html"
-to = "/en/organizations/categories/products/textile-couture-arts-du-fil/couture/"
-
-[[redirects]]
 from = "/en/directory-of-epv-members-v1/les-ateliers-de-la-chapelle/index.html"
 to = "/en/organizations/les-ateliers-de-la-chapelle/"
 
@@ -4789,10 +4785,6 @@ to = "/fr/organisations/categories/domaines/mode-et-accessoires/tailleur-1/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-verre-et-cristal/polisseur-1/index.html"
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/polisseur-1/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/mode-et-accessoires-1/textile-couture-arts-du-fil/couture/index.html"
-to = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/couture/"
 
 [[redirects]]
 from = "/en/agenda/2024-06-20-matinale-1-1/index.html"
