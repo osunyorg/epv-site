@@ -955,6 +955,10 @@ from = "/fr/organisations/epv-occitanie/index.html"
 to = "/fr/organisations/categories/regions/epv-occitanie/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/poterie-ceramique/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/poterie-ceramique/"
+
+[[redirects]]
 from = "/fr/organisations/categories/architecture-et-jardin/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
 
@@ -1305,10 +1309,6 @@ to = "/fr/organisations/categories/domaines/tabletterie/tabletier/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/bronzes-de-france-bagues/index.html"
 to = "/fr/organisations/bronzes-de-france-bagues/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/decoration-ambiance/ceramique-decorative/index.html"
-to = "/fr/organisations/categories/produits/decoration-ambiance/ceramique-decorative/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/marqueteur/index.html"
@@ -1928,7 +1928,7 @@ to = "/fr/organisations/la-maison-du-petit-four/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/poterie-ceramique/index.html"
-to = "/en/organizations/categories/products/poterie-ceramique/"
+to = "/en/organizations/categories/products/decoration-ambiance/poterie-ceramique/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/moulures/index.html"
@@ -3233,6 +3233,10 @@ to = "/fr/organisations/categories/produits/electricite-equipements-techniques/p
 [[redirects]]
 from = "/fr/organisations/categories/domaine-jeux-jouets-et-ouvrages-mecaniques/index.html"
 to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/poterie-ceramique/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/poterie-ceramique/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/campus-versailles/index.html"
@@ -4911,10 +4915,6 @@ from = "/en/organizations/categories/products/mode-et-accessoires-1/packaging-em
 to = "/en/organizations/categories/products/packaging-emballage/ecrin-coffret/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/art-patrimoine/sculpture-objet-d-art/index.html"
-to = "/fr/organisations/categories/produits/sculpture-objet-d-art/"
-
-[[redirects]]
 from = "/fr/notre-organisation/cofrex/index.html"
 to = "/fr/organisations/cofrex/"
 
@@ -5197,10 +5197,6 @@ to = "/en/organizations/atelier-fey/"
 [[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/bois-pour-la-lutherie/index.html"
 to = "/en/organizations/categories/products/instruments-de-musique-1/bois-pour-la-lutherie/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/art-patrimoine/sculpture-objet-d-art/index.html"
-to = "/en/organizations/categories/products/sculpture-objet-d-art/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/maquette-prototypage/index.html"
@@ -5752,7 +5748,7 @@ to = "/en/agenda/2024/matinale-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/poterie-ceramique/index.html"
-to = "/fr/organisations/categories/produits/poterie-ceramique/"
+to = "/fr/organisations/categories/produits/decoration-ambiance/poterie-ceramique/"
 
 [[redirects]]
 from = "/en/posts/news-from-auvergne-rhone-alpes/index.html"
