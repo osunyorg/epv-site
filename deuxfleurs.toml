@@ -943,10 +943,6 @@ from = "/fr/notre-organisation-annuaire/moulins-de-versailles/index.html"
 to = "/fr/organisations/moulins-de-versailles/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/renovation-et-amenagement-interieur/index.html"
-to = "/fr/organisations/categories/produits/renovation-et-amenagement-interieur/"
-
-[[redirects]]
 from = "/fr/notre-organisation-annuaire/origine-france-garantie/index.html"
 to = "/fr/organisations/origine-france-garantie/"
 
@@ -5325,10 +5321,6 @@ to = "/fr/organisations/reseau-excellence-auvergne-rhone-alpes/"
 [[redirects]]
 from = "/fr/annuaire/phelippeau-tapissier/index.html"
 to = "/fr/organisations/phelippeau-tapissier/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/renovation-et-amenagement-interieur/index.html"
-to = "/en/organizations/categories/products/renovation-et-amenagement-interieur/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/phelippeau-tapissier/index.html"
