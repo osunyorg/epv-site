@@ -2155,6 +2155,10 @@ from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musi
 to = "/en/organizations/categories/products/instruments-de-musique-1/trompette-1/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/luminaires-1/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/luminaires-1/"
+
+[[redirects]]
 from = "/fr/actions-et-engagements/reseau-excellence-contract/index.html"
 to = "/fr/nos-actions/reseau-excellence-contract/"
 
@@ -4172,7 +4176,7 @@ to = "/fr/organisations/atelier-thiery/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/maison-decoration/luminaires-1/index.html"
-to = "/fr/organisations/categories/produits/luminaires-1/"
+to = "/fr/organisations/categories/produits/decoration-ambiance/luminaires-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/guitar/index.html"
@@ -4273,6 +4277,10 @@ to = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/fils-rub
 [[redirects]]
 from = "/fr/organisations/categories/epv-grand-est/index.html"
 to = "/fr/organisations/categories/regions/epv-grand-est/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/luminaires-1/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/luminaires-1/"
 
 [[redirects]]
 from = "/fr/organisations/faiencerie-dart-et-creations-colas/index.html"
@@ -5880,7 +5888,7 @@ to = "/en/organizations/categories/products/sport/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/maison-decoration/luminaires-1/index.html"
-to = "/en/organizations/categories/products/luminaires-1/"
+to = "/en/organizations/categories/products/decoration-ambiance/luminaires-1/"
 
 [[redirects]]
 from = "/fr/agenda/2025/les-rendez-vous-cook-share-by-la-filiere-france-maisonobjet-sept-2025-hall-4/index.html"
