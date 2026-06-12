@@ -1927,6 +1927,10 @@ from = "/en/organizations/categories/products/mode-et-accessoires-1/poterie-cera
 to = "/en/organizations/categories/products/decoration-ambiance/poterie-ceramique/"
 
 [[redirects]]
+from = "/fr/agenda/2026/reseau-excellence-contract-au-mobilier-national-1-1-1/index.html"
+to = "/fr/agenda/2026/maison-objet-x-reseau-excellence-contract-janvier-2027/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/moulures/index.html"
 to = "/fr/organisations/categories/produits/architecture-decorative/moulures/"
 
@@ -2800,7 +2804,7 @@ to = "/fr/organisations/ateliers-perrault-freres/"
 
 [[redirects]]
 from = "/fr/agenda/2025/reseau-excellence-contract-au-mobilier-national-1-1-1/index.html"
-to = "/fr/agenda/2026/reseau-excellence-contract-au-mobilier-national-1-1-1/"
+to = "/fr/agenda/2026/maison-objet-x-reseau-excellence-contract-janvier-2027/"
 
 [[redirects]]
 from = "/fr/presentation-du-label/candidater-au-label/index.html"
