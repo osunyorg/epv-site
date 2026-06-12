@@ -1,5 +1,5 @@
-theme: epv-hugo-theme
 _merge: deep
+theme: epv-hugo-theme
 params:
   debug:
     productionUrl: https://www.reseauexcellence.fr
