@@ -1723,6 +1723,10 @@ from = "/fr/organisations/categories/domaines/domaine-cuir/gainier/index.html"
 to = "/fr/organisations/categories/domaines/cuir/gainier/"
 
 [[redirects]]
+from = "/fr/nos-epv/annuaire-des-epv-adherentes/index.html"
+to = "/fr/nos-epv/ancien-annuaire/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/construction-structure-amenagement/index.html"
 to = "/fr/organisations/categories/produits/construction-structure-amenagement/"
 
