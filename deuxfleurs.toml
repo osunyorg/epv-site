@@ -55,6 +55,10 @@ from = "/fr/organisations/categories/produits/mode-et-accessoires-1/bijouterie-h
 to = "/fr/organisations/categories/produits/bijouterie-horlogerie/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/chicory/index.html"
+to = "/en/organizations/categories/products/boisson/chicory/"
+
+[[redirects]]
 from = "/fr/organisations/categories/epv-bourgogne-franche-comte/index.html"
 to = "/fr/organisations/categories/regions/epv-bourgogne-franche-comte/"
 
@@ -89,6 +93,10 @@ to = "/fr/organisations/categories/produits/habillement-1/bottes-1/"
 [[redirects]]
 from = "/fr/organisations/categories/domaine/domaine-ameublement-et-decoration/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/mustard/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/mustard/"
 
 [[redirects]]
 from = "/fr/equipe/administrateurs-re-hauts-de-france/index.html"
@@ -131,12 +139,16 @@ from = "/fr/notre-organisation/nortier-emballages/index.html"
 to = "/fr/organisations/nortier-emballages/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/fruits-confits/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/fruits-confits/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/graveur-et-imprimeur-en-gaufrage/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/graveur-et-imprimeur-en-gaufrage/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/mustard/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/mustard/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/mustard/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/staffeur-stucateur/index.html"
@@ -312,7 +324,7 @@ to = "/en/organizations/les-delices-d-alienor-croustad-oc/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/produits-laitiers/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/"
+to = "/fr/organisations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-restauration/peintures/index.html"
@@ -508,7 +520,7 @@ to = "/en/agenda/2024/visit-to-gravor/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/sauces/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/sauces/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/sauces/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/accessoires-de-mode/sac/index.html"
@@ -516,7 +528,7 @@ to = "/en/organizations/categories/products/habillement-1/sac/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/vinaigre-1/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/vinaigre-1/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/vinaigre-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-ameublement-et-decoration/marqueteur/index.html"
@@ -631,6 +643,10 @@ from = "/en/organizations/categories/epv-normandie/index.html"
 to = "/en/organizations/categories/regions/epv-normandie/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/foie-gras/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/foie-gras/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/atout-france/index.html"
 to = "/en/organizations/atout-france/"
 
@@ -640,7 +656,7 @@ to = "/fr/organisations/categories/domaines/cuir/parcheminier/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/farine/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/farine/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/farine/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/conseillers-du-commerce-exterieurs/index.html"
@@ -673,6 +689,10 @@ to = "/fr/organisations/les-ateliers-de-la-chapelle/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-restauration/index.html"
 to = "/fr/organisations/categories/domaines/restauration/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/sauces/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/sauces/"
 
 [[redirects]]
 from = "/en/the-epv-label/index.html"
@@ -1091,6 +1111,10 @@ from = "/fr/organisations/categories/produits/industrie-equipements/automobile-m
 to = "/fr/organisations/categories/produits/automobile-mecanique/moteur-thermique-1/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/charcuterie/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/charcuterie/"
+
+[[redirects]]
 from = "/fr/equipe/administrateurs-re-aura/index.html"
 to = "/fr/equipe/categories/administrateurs-re-aura/"
 
@@ -1125,6 +1149,10 @@ to = "/en/organizations/carrafont/"
 [[redirects]]
 from = "/fr/actualites/2024-01-09-signature-de-la-convention-cofrex/index.html"
 to = "/fr/actualites/2024-01-09-osaka-2025-signature-d-une-convention-tripartite-de-partenariat/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/charcuterie/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/charcuterie/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/business-france/index.html"
@@ -1316,7 +1344,7 @@ to = "/fr/organisations/categories/domaines/ameublement-et-decoration/marqueteur
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/huile-d-olive/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/huile-d-olive/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/huile-d-olive/"
 
 [[redirects]]
 from = "/fr/actualites/2023-06-28-rencontre-des-epv-d-ile-de-france-chez-remy-garnier-1/index.html"
@@ -1333,6 +1361,14 @@ to = "/en/organizations/maison-gatti/"
 [[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/electricite-equipements-techniques/index.html"
 to = "/en/organizations/categories/products/electricite-equipements-techniques/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/jam/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/jam/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/huile-d-olive/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/huile-d-olive/"
 
 [[redirects]]
 from = "/fr/equipe/administrateurs-re-pays-de-la-loire/index.html"
@@ -1353,6 +1389,10 @@ to = "/fr/lassociation/reseau-excellence-en-france/occitanie/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/pianos-balleron/index.html"
 to = "/fr/organisations/pianos-balleron/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/fruits-confits/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/fruits-confits/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/fontaine/index.html"
@@ -1576,7 +1616,7 @@ to = "/en/our-epvs/outstanding-projects/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/aromes-naturels/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/aromes-naturels/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/aromes-naturels/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musique-1/violoncelle-1/index.html"
@@ -1848,7 +1888,7 @@ to = "/en/lassociation/reseau-excellence-in-france/brittany/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/aromes-naturels/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/aromes-naturels/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/aromes-naturels/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/vernisseur/index.html"
@@ -1857,6 +1897,10 @@ to = "/fr/organisations/categories/domaines/ameublement-et-decoration/vernisseur
 [[redirects]]
 from = "/fr/organisations/epv-centre-val-de-loire/index.html"
 to = "/fr/organisations/categories/regions/epv-centre-val-de-loire/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/conserverie-de-fruits-legumes/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/conserverie-de-fruits-legumes/"
 
 [[redirects]]
 from = "/fr/annuaire/reseau-excellence-hauts-de-france/index.html"
@@ -1915,6 +1959,10 @@ from = "/en/reseau-excellence-brittany/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/brittany/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/conserverie-de-fruits-de-mer/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/conserverie-de-fruits-de-mer/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members/fonderie-sylvain-compagnon/index.html"
 to = "/en/organizations/fonderie-sylvain-compagnon/"
 
@@ -1937,6 +1985,10 @@ to = "/fr/agenda/2026/maison-objet-x-reseau-excellence-contract-janvier-2027/"
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decorative/moulures/index.html"
 to = "/fr/organisations/categories/produits/architecture-decorative/moulures/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/aromes-naturels/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/aromes-naturels/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-verre-et-cristal/miroitier-argenteur/index.html"
@@ -2007,12 +2059,20 @@ from = "/fr/organisations/categories/domaine-verre-et-cristal/verrier-decorateur
 to = "/fr/organisations/categories/domaines/verre-et-cristal-1/verrier-decorateur/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/farine/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/farine/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/laqueur/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/laqueur/"
 
 [[redirects]]
 from = "/fr/actualites/2023-06-15-comment-faire-briller-demain-les-metiers-d-art-decryptage-du-plan-gouvernemental-et-panorama-breton/index.html"
 to = "/fr/actualites/2023-06-15-comment-faire-briller-demain-les-metiers-d-art/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/mustard/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/mustard/"
 
 [[redirects]]
 from = "/en/reseau-excellence-in-france/reseau-excellence-occitanie/index.html"
@@ -2080,7 +2140,7 @@ to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/c
 
 [[redirects]]
 from = "/en/organizations/categories/products/traiteur-produits-prepares/produits-laitiers/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-laitiers/"
+to = "/en/organizations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-textile/tisserand/index.html"
@@ -2141,6 +2201,10 @@ to = "/en/news/2021-10-26-6eme-edition-du-salon-international-des-metiers-dart/"
 [[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/outils-industriels/index.html"
 to = "/fr/organisations/categories/produits/outils-industriels/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-a-l-amande/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-a-l-amande/"
 
 [[redirects]]
 from = "/fr/equipe/epv-pays-de-la-loire-communication/index.html"
@@ -2219,6 +2283,10 @@ from = "/fr/notre-organisation/maison-fey/index.html"
 to = "/fr/organisations/maison-fey/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/pates/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/pates/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-gastronomie/traiteur/index.html"
 to = "/fr/organisations/categories/domaines/gastronomie-1/traiteur/"
 
@@ -2295,6 +2363,10 @@ from = "/en/directory-of-epv-members-v1/delta-meca/index.html"
 to = "/en/organizations/delta-meca/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/aromes-naturels/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/aromes-naturels/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/habillement-1/chaussures-1/index.html"
 to = "/en/organizations/categories/products/habillement-1/chaussures-1/"
 
@@ -2317,10 +2389,6 @@ to = "/fr/organisations/categories/produits/architecture-decorative/bas-reliefs/
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/ateliers-jovis/index.html"
 to = "/en/organizations/ateliers-jovis/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/"
 
 [[redirects]]
 from = "/en/organizations/distillerie-les-fils-demile-pernot/index.html"
@@ -2512,7 +2580,7 @@ to = "/en/organizations/atelier-fey/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/"
+to = "/fr/organisations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/en/news/2023-06-30-les-epv-bourgogne-franche-comte-en-nombre-aux-rencontres-economiques-des-metiers-dart-rema-a-tonnerr/index.html"
@@ -2520,7 +2588,7 @@ to = "/en/news/2023-06-30-the-bourgogne-franche-comte-epvs-are-out-in-force-at-t
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/farine/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/farine/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/farine/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members/phelippeau-tapissier/index.html"
@@ -2807,6 +2875,10 @@ from = "/fr/notre-organisation-annuaire/ateliers-perrault-freres/index.html"
 to = "/fr/organisations/ateliers-perrault-freres/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/pates/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/pates/"
+
+[[redirects]]
 from = "/fr/agenda/2025/reseau-excellence-contract-au-mobilier-national-1-1-1/index.html"
 to = "/fr/agenda/2026/maison-objet-x-reseau-excellence-contract-janvier-2027/"
 
@@ -2991,6 +3063,10 @@ from = "/fr/missions/index.html"
 to = "/fr/lassociation/notre-histoire-et-nos-missions/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/vinaigre-1/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/vinaigre-1/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/la-maison-du-vitrail/index.html"
 to = "/en/organizations/la-maison-du-vitrail/"
 
@@ -3037,6 +3113,10 @@ to = "/fr/organisations/campus-versailles/"
 [[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/automobile-mecanique/index.html"
 to = "/fr/organisations/categories/produits/automobile-mecanique/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/coffee/index.html"
+to = "/fr/organisations/categories/produits/boisson/coffee/"
 
 [[redirects]]
 from = "/en/reseau-excellence-provence-alpes-cote-d-azur/index.html"
@@ -3099,6 +3179,10 @@ from = "/fr/annuaire/atelier-coralie-barbe/index.html"
 to = "/fr/organisations/atelier-coralie-barbe/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/foie-gras/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/foie-gras/"
+
+[[redirects]]
 from = "/fr/annuaire/societe-dencouragement-pour-lindustrie-nationale/index.html"
 to = "/fr/organisations/societe-d-encouragement-pour-l-industrie-nationale/"
 
@@ -3109,6 +3193,10 @@ to = "/fr/actualites/2026-02-23-programme-artiste-et-savoir-faire-au-frac-artoth
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-perrault-freres/index.html"
 to = "/fr/organisations/ateliers-perrault-freres/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/conserverie-de-fruits-legumes/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/conserverie-de-fruits-legumes/"
 
 [[redirects]]
 from = "/en/organizations/societe-dexploitation-roque/index.html"
@@ -3140,7 +3228,7 @@ to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabri
 
 [[redirects]]
 from = "/en/organizations/categories/products/produits-laitiers/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-laitiers/"
+to = "/en/organizations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/maison-dhistoire/index.html"
@@ -3475,6 +3563,10 @@ from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/fact
 to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-de-pianos/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/index.html"
+to = "/fr/organisations/categories/domaines/gastronomie-1/produits-laitiers/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/tin/index.html"
 to = "/en/organizations/categories/products/metallerie-ferronerie-usinage/tin/"
 
@@ -3489,6 +3581,10 @@ to = "/fr/organisations/k-jacques/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/couvreur-du-patrimoine-bati/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/couvreur-du-patrimoine-bati/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/sauces/index.html"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/sauces/"
 
 [[redirects]]
 from = "/fr/annuaire/atout-france/index.html"
@@ -3509,6 +3605,10 @@ to = "/fr/organisations/cvl-luminaires/"
 [[redirects]]
 from = "/fr/organisations/categories/domaine-mode-et-accessoires/fabricant-de-parapluies-parasols-ombrelles-et-cannes/index.html"
 to = "/fr/organisations/categories/domaines/mode-et-accessoires/fabricant-de-parapluies-parasols-ombrelles-et-cannes/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-laitiers/index.html"
+to = "/en/organizations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/assiette-verre/index.html"
@@ -4219,6 +4319,10 @@ from = "/fr/organisations/categories/produits/art-patrimoine/architecture-decora
 to = "/fr/organisations/categories/produits/architecture-decorative/marbrerie/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/coffee/index.html"
+to = "/en/organizations/categories/products/boisson/coffee/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/habillement-1/chaussettes-collants/index.html"
 to = "/fr/organisations/categories/produits/habillement-1/chaussettes-collants/"
 
@@ -4492,7 +4596,7 @@ to = "/fr/organisations/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/produits-laitiers/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/"
+to = "/fr/organisations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-saint-eloi/index.html"
@@ -4681,10 +4785,6 @@ to = "/en/agenda/2024/rendez-vous-d-exception-european-crafts-days-jema/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-l-impression/fondeur-de-caracteres-1/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fondeur-de-caracteres-1/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/"
 
 [[redirects]]
 from = "/en/organizations/loubiere-la-forge-dart/index.html"
@@ -4927,6 +5027,10 @@ from = "/en/directory-of-epv-members-v1/andree-jardin-brosserie-julio/index.html
 to = "/en/organizations/andree-jardin-brosserie-julio/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/huile-d-olive/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/huile-d-olive/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/packaging-emballage/ecrin-coffret/index.html"
 to = "/en/organizations/categories/products/packaging-emballage/ecrin-coffret/"
 
@@ -5024,7 +5128,7 @@ to = "/fr/organisations/institut-pour-les-savoir-faire-francais/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/sauces/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/sauces/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/sauces/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members/gauthier-cie/index.html"
@@ -5171,6 +5275,10 @@ from = "/fr/organisations/categories/domaines/domaine-restauration/verre-et-cris
 to = "/fr/organisations/categories/domaines/restauration/verre-et-cristal/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/conserverie-de-fruits-de-mer/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/conserverie-de-fruits-de-mer/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/restauration-du-patrimoine/restauration-de-livres-et-d-arts-graphiques/index.html"
 to = "/fr/organisations/categories/produits/restauration-du-patrimoine/restauration-de-livres-et-d-arts-graphiques/"
 
@@ -5192,7 +5300,7 @@ to = "/en/lassociation/reseau-excellence-in-france/auvergne-rhone-alpes/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/vinaigre-1/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/vinaigre-1/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/vinaigre-1/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members/index.html"
@@ -5232,7 +5340,7 @@ to = "/en/organizations/categories/organizations-type/partenaires/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/jam/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/jam/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/jam/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/maison-decoration/decoration-ambiance/index.html"
@@ -5261,6 +5369,10 @@ to = "/fr/organisations/conseillers-du-commerce-exterieurs/"
 [[redirects]]
 from = "/en/organizations/categories/products/maison-decoration/mobilier-ebenisterie/banquette-1/index.html"
 to = "/en/organizations/categories/products/mobilier-ebenisterie/banquette-1/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/farine/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/farine/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/textile-couture-arts-du-fil/aiguilles-epingles/index.html"
@@ -5491,6 +5603,10 @@ from = "/en/reseau-excellence-centre-val-de-loire/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/centre-val-de-loire/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/vinaigre-1/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/vinaigre-1/"
+
+[[redirects]]
 from = "/fr/le-reseau-excellence-en-france/reseau-excellence-ile-de-france/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/ile-de-france/"
 
@@ -5688,7 +5804,7 @@ to = "/en/organizations/le-papier-d-armenie/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/jam/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/jam/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/jam/"
 
 [[redirects]]
 from = "/fr/organisations/atelier-auder-dornements/index.html"
@@ -5735,16 +5851,24 @@ from = "/en/directory-of-epv-members/bouin-gardon/index.html"
 to = "/en/organizations/bouin-gardon/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/chicory/index.html"
+to = "/fr/organisations/categories/produits/boisson/chicory/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/andree-jardin-brosserie-julio/index.html"
 to = "/fr/organisations/andree-jardin-brosserie-julio/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/produits-laitiers/index.html"
-to = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-laitiers/"
+to = "/en/organizations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-auder-dornements/index.html"
 to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/traiteur-produits-prepares/coffee/index.html"
+to = "/fr/organisations/categories/produits/boisson/coffee/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/ardoisier/index.html"
@@ -5753,6 +5877,10 @@ to = "/fr/organisations/categories/domaines/architecture-et-jardin/ardoisier/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/cruard-charpente/index.html"
 to = "/fr/organisations/cruard-charpente/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-a-l-amande/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/produits-a-l-amande/"
 
 [[redirects]]
 from = "/en/agenda/2024-06-27-matinale-1/index.html"
@@ -5776,7 +5904,7 @@ to = "/fr/organisations/categories/domaines/ameublement-et-decoration/fabricant-
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/mustard/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/mustard/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/mustard/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/serrures/index.html"
@@ -5825,6 +5953,10 @@ to = "/fr/organisations/categories/univers/loisirs-transports/"
 [[redirects]]
 from = "/en/organizations/gravor/index.html"
 to = "/en/organizations/grav-or/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/traiteur-produits-prepares/coffee/index.html"
+to = "/en/organizations/categories/products/boisson/coffee/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine/domaine-papier-du-graphisme-et-de-l-impression/index.html"
@@ -6015,6 +6147,10 @@ from = "/fr/organisations/categories/domaines/domaine-papier-du-graphisme-et-de-
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/relieur/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/condiments-ingredients-culinaires/jam/index.html"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/jam/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/restauration-du-patrimoine/index.html"
 to = "/en/organizations/categories/products/restauration-du-patrimoine/"
 
@@ -6068,7 +6204,7 @@ to = "/en/organizations/maison-gatti/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/condiments-ingredients-culinaires/huile-d-olive/index.html"
-to = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/huile-d-olive/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/huile-d-olive/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/instruments-de-musique-1/violoncelle-1/index.html"
