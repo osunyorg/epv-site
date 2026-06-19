@@ -1412,7 +1412,7 @@ to = "/en/lassociation/reseau-excellence-in-france/provence-alpes-cote-d-azur/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/maroquinerie-1/index.html"
-to = "/fr/organisations/categories/produits/maroquinerie-1/"
+to = "/fr/organisations/categories/produits/habillement-1/maroquinerie-1/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/toile-d-exterieur-bache/index.html"
@@ -1556,7 +1556,7 @@ to = "/en/organizations/categories/products/decoration-ambiance/ferronnerie-deco
 
 [[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/maroquinerie-1/index.html"
-to = "/en/organizations/categories/products/maroquinerie-1/"
+to = "/en/organizations/categories/products/habillement-1/maroquinerie-1/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/packaging-emballage/palettes-de-maquillage/index.html"
@@ -1685,6 +1685,10 @@ to = "/en/organizations/maison-d-histoire/"
 [[redirects]]
 from = "/fr/equipe/benoit-besnault-1/index.html"
 to = "/fr/equipe/benoit-besnault/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/maroquinerie-1/index.html"
+to = "/fr/organisations/categories/produits/habillement-1/maroquinerie-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/horloge/index.html"
@@ -5749,6 +5753,10 @@ to = "/fr/organisations/equ-inox-49/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/digital-packaging/index.html"
 to = "/fr/organisations/digital-packaging/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/maroquinerie-1/index.html"
+to = "/en/organizations/categories/products/habillement-1/maroquinerie-1/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-luminaire/fabricant-de-luminaires/index.html"
