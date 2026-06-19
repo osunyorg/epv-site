@@ -3087,6 +3087,10 @@ from = "/fr/organisations/categories/produits/mode-et-accessoires-1/objets-techn
 to = "/fr/organisations/categories/produits/objets-techniques/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/chambre/literie-couette-oreiller-edredon/matelas-sommier/index.html"
+to = "/fr/organisations/categories/produits/chambre/matelas-sommier/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/packaging-emballage/packaging-fabricant-1/index.html"
 to = "/en/organizations/categories/products/packaging-emballage/packaging-fabricant-1/"
 
@@ -4276,7 +4280,7 @@ to = "/fr/organisations/atelier-thiery/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/matelas-sommier/index.html"
-to = "/fr/organisations/categories/produits/chambre/literie-couette-oreiller-edredon/matelas-sommier/"
+to = "/fr/organisations/categories/produits/chambre/matelas-sommier/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/maison-decoration/luminaires-1/index.html"
