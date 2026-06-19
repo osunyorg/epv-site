@@ -1971,6 +1971,10 @@ from = "/en/directory-of-epv-members/fonderie-sylvain-compagnon/index.html"
 to = "/en/organizations/fonderie-sylvain-compagnon/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/vitrail-arts-du-verre/index.html"
+to = "/en/organizations/categories/products/vitrail-arts-du-verre-1/vitrail-arts-du-verre/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/dorure-finitions/index.html"
 to = "/en/organizations/categories/products/architecture-decorative/dorure-finitions/"
 
@@ -4652,7 +4656,7 @@ to = "/en/organizations/marcel-gandit-hermes/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/vitrail-arts-du-verre/index.html"
-to = "/en/organizations/categories/products/vitrail-arts-du-verre/"
+to = "/en/organizations/categories/products/vitrail-arts-du-verre-1/vitrail-arts-du-verre/"
 
 [[redirects]]
 from = "/fr/actualites/news-from-bourgogne-franche-comte/index.html"
@@ -5347,6 +5351,10 @@ from = "/en/organizations/categories/products/maison-decoration/decoration-ambia
 to = "/en/organizations/categories/products/decoration-ambiance/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/vitrail-arts-du-verre/index.html"
+to = "/fr/organisations/categories/produits/vitrail-arts-du-verre-1/vitrail-arts-du-verre/"
+
+[[redirects]]
 from = "/en/reseau-excellence-in-france/index.html"
 to = "/en/lassociation/reseau-excellence-in-france/"
 
@@ -5732,7 +5740,7 @@ to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabri
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/vitrail-arts-du-verre/index.html"
-to = "/fr/organisations/categories/produits/vitrail-arts-du-verre/"
+to = "/fr/organisations/categories/produits/vitrail-arts-du-verre-1/vitrail-arts-du-verre/"
 
 [[redirects]]
 from = "/en/agenda/2024-05-14-presentielle-au-chantier-des-ileaux/index.html"
