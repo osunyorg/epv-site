@@ -324,7 +324,7 @@ to = "/en/organizations/les-delices-d-alienor-croustad-oc/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/gastronomie-2/produits-laitiers/index.html"
-to = "/fr/organisations/categories/domaines/gastronomie-1/produits-laitiers/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-restauration/peintures/index.html"
@@ -1899,10 +1899,6 @@ from = "/fr/organisations/epv-centre-val-de-loire/index.html"
 to = "/fr/organisations/categories/regions/epv-centre-val-de-loire/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/condiments-ingredients-culinaires/conserverie-de-fruits-legumes/index.html"
-to = "/en/organizations/categories/products/traiteur-produits-prepares/conserverie-de-fruits-legumes/"
-
-[[redirects]]
 from = "/fr/annuaire/reseau-excellence-hauts-de-france/index.html"
 to = "/fr/organisations/reseau-excellence-hauts-de-france/"
 
@@ -2137,10 +2133,6 @@ to = "/fr/organisations/categories/domaines/cuir/gainier/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-jeux-jouets-et-ouvrages-mecaniques/carrossier/index.html"
 to = "/fr/organisations/categories/domaines/jeux-jouets-et-ouvrages-mecaniques/carrossier/"
-
-[[redirects]]
-from = "/en/organizations/categories/products/traiteur-produits-prepares/produits-laitiers/index.html"
-to = "/en/organizations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-textile/tisserand/index.html"
@@ -2577,10 +2569,6 @@ to = "/fr/organisations/categories/domaines/architecture-et-jardin/macon-du-patr
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/atelier-fey/index.html"
 to = "/en/organizations/atelier-fey/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/index.html"
-to = "/fr/organisations/categories/domaines/gastronomie-1/produits-laitiers/"
 
 [[redirects]]
 from = "/en/news/2023-06-30-les-epv-bourgogne-franche-comte-en-nombre-aux-rencontres-economiques-des-metiers-dart-rema-a-tonnerr/index.html"
@@ -3195,10 +3183,6 @@ from = "/fr/annuaire-des-epv-adherentes-v1/ateliers-perrault-freres/index.html"
 to = "/fr/organisations/ateliers-perrault-freres/"
 
 [[redirects]]
-from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/conserverie-de-fruits-legumes/index.html"
-to = "/fr/organisations/categories/produits/traiteur-produits-prepares/conserverie-de-fruits-legumes/"
-
-[[redirects]]
 from = "/en/organizations/societe-dexploitation-roque/index.html"
 to = "/en/organizations/societe-d-exploitation-roque/"
 
@@ -3228,7 +3212,7 @@ to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabri
 
 [[redirects]]
 from = "/en/organizations/categories/products/produits-laitiers/index.html"
-to = "/en/organizations/categories/domaines/gastronomie-1/produits-laitiers/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/organisations/maison-dhistoire/index.html"
@@ -3564,7 +3548,7 @@ to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-r
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/index.html"
-to = "/fr/organisations/categories/domaines/gastronomie-1/produits-laitiers/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/metallerie-ferronerie-usinage/tin/index.html"
@@ -3608,7 +3592,7 @@ to = "/fr/organisations/categories/domaines/mode-et-accessoires/fabricant-de-par
 
 [[redirects]]
 from = "/en/organizations/categories/products/condiments-ingredients-culinaires/produits-laitiers/index.html"
-to = "/en/organizations/categories/domaines/gastronomie-1/produits-laitiers/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/produits-laitiers/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/assiette-verre/index.html"
@@ -4596,7 +4580,7 @@ to = "/fr/organisations/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/produits-laitiers/index.html"
-to = "/fr/organisations/categories/domaines/gastronomie-1/produits-laitiers/"
+to = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-saint-eloi/index.html"
@@ -5860,7 +5844,7 @@ to = "/fr/organisations/andree-jardin-brosserie-julio/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/produits-laitiers/index.html"
-to = "/en/organizations/categories/domaines/gastronomie-1/produits-laitiers/"
+to = "/en/organizations/categories/products/traiteur-produits-prepares/produits-laitiers/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes/atelier-auder-dornements/index.html"
