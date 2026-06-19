@@ -3543,10 +3543,6 @@ from = "/fr/organisations/categories/type-dorganisation/association-regionale/in
 to = "/fr/organisations/categories/type-dorganisation/associations-regionales/"
 
 [[redirects]]
-from = "/en/organizations/categories/products/maison-decoration/linge-de-maison-textile-d-interieur/index.html"
-to = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/"
-
-[[redirects]]
 from = "/fr/organisations/dennery-confection/index.html"
 to = "/fr/organisations/d-ennery-confection/"
 
@@ -4037,10 +4033,6 @@ to = "/en/organizations/artmetal-framex/"
 [[redirects]]
 from = "/fr/organisations/categories/domaine-architecture-et-jardin/parqueteur/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/parqueteur/"
-
-[[redirects]]
-from = "/fr/organisations/categories/produits/maison-decoration/linge-de-maison-textile-d-interieur/index.html"
-to = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/"
 
 [[redirects]]
 from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-ile-de-france/index.html"
