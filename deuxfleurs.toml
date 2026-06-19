@@ -1471,6 +1471,10 @@ from = "/fr/actualites/2024-03-14-decouvrez-la-mission-d-export-pendant-l-exposi
 to = "/fr/actualites/2021-07-28-decouvrez-la-mission-d-export-pendant-l-exposition-universelle-de-dubai/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/tissu-d-ameublement/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/tissu-d-ameublement/"
+
+[[redirects]]
 from = "/en/posts/2023-05-30-une-nouvelle-strategie-nationale-en-faveur-des-metiers-dart/index.html"
 to = "/en/news/2023-05-30-a-new-national-strategy-to-promote-the-arts-and-crafts/"
 
@@ -3227,6 +3231,10 @@ from = "/fr/organisations/categories/domaines/domaine-mode-et-accessoires/taille
 to = "/fr/organisations/categories/domaines/mode-et-accessoires/tailleur-1/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/linge-de-table/index.html"
+to = "/fr/organisations/categories/produits/art-de-la-table/linge-de-table/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/ferronnerie-decorative/index.html"
 to = "/fr/organisations/categories/produits/decoration-ambiance/ferronnerie-decorative/"
 
@@ -4267,6 +4275,10 @@ from = "/fr/annuaire-des-epv-adherentes/atelier-thiery/index.html"
 to = "/fr/organisations/atelier-thiery/"
 
 [[redirects]]
+from = "/fr/organisations/categories/produits/linge-de-maison-textile-d-interieur/matelas-sommier/index.html"
+to = "/fr/organisations/categories/produits/chambre/literie-couette-oreiller-edredon/matelas-sommier/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/maison-decoration/luminaires-1/index.html"
 to = "/fr/organisations/categories/produits/decoration-ambiance/luminaires-1/"
 
@@ -5203,6 +5215,10 @@ from = "/fr/offres-d-emploi/index.html"
 to = "/fr/appels-a-candidature/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/tissu-d-ameublement/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/tissu-d-ameublement/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/metallerie-ferronerie-usinage/chaudronnerie-metallique/index.html"
 to = "/fr/organisations/categories/produits/metallerie-ferronerie-usinage/chaudronnerie-metallique/"
 
@@ -5941,6 +5957,10 @@ to = "/fr/organisations/categories/domaines/mode-et-accessoires/"
 [[redirects]]
 from = "/fr/organisations/categories/univers/loirsirs-transports/index.html"
 to = "/fr/organisations/categories/univers/loisirs-transports/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/linge-de-maison-textile-d-interieur/linge-de-table/index.html"
+to = "/en/organizations/categories/products/art-de-la-table/linge-de-table/"
 
 [[redirects]]
 from = "/en/organizations/gravor/index.html"
