@@ -3639,6 +3639,10 @@ from = "/en/organizations/categories/products/maison-decoration/rideaux-stores-h
 to = "/en/organizations/categories/products/rideaux-stores-habillage-de-fenetres/"
 
 [[redirects]]
+from = "/fr/organisations/sodopac/index.html"
+to = "/fr/organisations/sodopac-marque-airplum/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-habillage-de-fenetres/stores/index.html"
 to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/stores/"
 
