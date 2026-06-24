@@ -1228,7 +1228,7 @@ to = "/fr/organisations/la-maison-du-vitrail/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/textile-patrimonial-tapisserie/index.html"
-to = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/"
+to = "/fr/organisations/categories/produits/decoration-ambiance/textile-patrimonial-tapisserie/"
 
 [[redirects]]
 from = "/en/organizations/categories/association-regionales/index.html"
@@ -3260,7 +3260,7 @@ to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres
 
 [[redirects]]
 from = "/en/organizations/categories/products/textile-patrimonial-tapisserie/index.html"
-to = "/en/organizations/categories/products/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/"
+to = "/en/organizations/categories/products/decoration-ambiance/textile-patrimonial-tapisserie/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-metal/fondeur/index.html"
@@ -3436,7 +3436,7 @@ to = "/en/organizations/categories/products/objets-techniques/parapluie/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/textile-patrimonial-tapisserie/index.html"
-to = "/en/organizations/categories/products/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/"
+to = "/en/organizations/categories/products/decoration-ambiance/textile-patrimonial-tapisserie/"
 
 [[redirects]]
 from = "/fr/agenda/2024-01-21-linma-devient-linstitut-pour-les-savoir-faire-francais/index.html"
@@ -3712,7 +3712,7 @@ to = "/en/organizations/moulins-de-versailles/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/art-patrimoine/textile-patrimonial-tapisserie/index.html"
-to = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/"
+to = "/fr/organisations/categories/produits/decoration-ambiance/textile-patrimonial-tapisserie/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-verre-et-cristal/doreur-1/index.html"
@@ -4077,6 +4077,10 @@ to = "/fr/organisations/pianos-balleron/"
 [[redirects]]
 from = "/en/organizations/categories/products/industrie-equipements/construction-structure-amenagement/cloison/index.html"
 to = "/en/organizations/categories/products/construction-structure-amenagement/cloison/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/index.html"
+to = "/en/organizations/categories/products/decoration-ambiance/textile-patrimonial-tapisserie/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/phelippeau-tapissier/index.html"
@@ -5985,6 +5989,10 @@ to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/"
 [[redirects]]
 from = "/en/organizations/categories/products/maison-decoration/mobilier-ebenisterie/fauteuil/index.html"
 to = "/en/organizations/categories/products/mobilier-ebenisterie/fauteuil/"
+
+[[redirects]]
+from = "/fr/organisations/categories/produits/textile-couture-arts-du-fil/textile-patrimonial-tapisserie/index.html"
+to = "/fr/organisations/categories/produits/decoration-ambiance/textile-patrimonial-tapisserie/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaine-cuir/bottier-main/index.html"
