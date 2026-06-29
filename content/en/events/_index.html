@@ -9,7 +9,7 @@ breadcrumb_title: >-
 url: "/en/agenda/"
 slug: "agenda"
 date: 2024-03-18T17:39:35+01:00
-lastmod: 2025-12-23T17:04:32+01:00
+lastmod: 2026-06-29T14:20:53+02:00
 meta:
   hugo:
     permalink: "/en/agenda/"
@@ -18,7 +18,7 @@ meta:
     slug: "agenda"
   dates:
     created_at: 2024-01-10T17:56:23+01:00
-    updated_at: 2025-12-23T17:04:32+01:00
+    updated_at: 2026-06-29T14:20:53+02:00
     published_at: 2024-03-18T17:39:35+01:00
 search:
   id: "035fe63e-fbb0-4da6-855c-beee29e42fa9"
@@ -31,7 +31,7 @@ search:
   summary: >-
     <p>In the regions, in France or abroad, find here the dates of our next not-to-be-missed events.</p>
   body: >-
-    <p>Future calls for applications </p>  <p>There are no calls for projects or applications at this time</p>
+    <p>Future calls for applications or projects  <br> Future calls for applications </p>  <p>There are no calls for projects or applications at this time</p>  <p> Our agenda  </p>
 
 breadcrumbs:
   - title: >-
@@ -43,7 +43,7 @@ breadcrumbs:
 design:
   full_width: true
   toc:
-    present: false
+    present: true
     offcanvas: true
 
 next_months:
@@ -156,7 +156,7 @@ next_months:
       - day: 2026-06-26
         cwday: 5
         current: false
-        events: 2
+        events: 3
       - day: 2026-06-27
         cwday: 6
         current: false
@@ -555,7 +555,7 @@ section_taxonomies:
         file: "content/en/events_categories/agenda-gastronomie/_index.html"
         name: >-
           Diary Gastronomy
-        count: 1
+        count: 2
       - permalink: "/en/agenda/agenda-mode-et-beaute/"
         path: "/events_categories/agenda-mode-et-beaute"
         slug: "agenda-mode-et-beaute"
@@ -566,10 +566,30 @@ section_taxonomies:
 
 
 contents_reading_time:
-  seconds: 4
+  seconds: 6
   text: >-
     less than a minute
 contents:
+  - kind: block
+    template: title
+    title: >-
+      Future calls for applications or projects
+    slug: >-
+      future-calls-for-applications-or-projects
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Future calls for applications or projects
+        heading: 2
+
+    data:
+      layout: classic
+
+
   - kind: block
     template: agenda
     title: >-
@@ -577,15 +597,15 @@ contents:
     slug: >-
       future-calls-for-applications
     ranks:
-      base: 2
-      self: 2
-      children: 3
+      base: 3
+      self: 3
+      children: 4
     top:
       active: true
       title: 
         value: >-
           Future calls for applications
-        heading: 2
+        heading: 3
 
     data:
       mode: category
@@ -601,26 +621,70 @@ contents:
         summary: true
         status: false
 
-      layout: list
+      layout: grid
 
       no_event_message: >-
         There are no calls for projects or applications at this time
       title_link: ""
       events:
+        - permalink: "/en/agenda/2026/la-grande-enquete-epv-vos-besoins-de-formation/"
+          path: "/events/2026/02/04-la-grande-enquete-epv-vos-besoins-de-formation"
+          slug: "la-grande-enquete-epv-vos-besoins-de-formation"
+          file: "content/en/events/2026/02/04-la-grande-enquete-epv-vos-besoins-de-formation.html"
+          name: >-
+            The Large EPV Survey: Your training needs
+        - permalink: "/en/agenda/2026/appel-a-projet-revelations-china/"
+          path: "/events/2026/03/16-appel-a-projet-revelations-china"
+          slug: "appel-a-projet-revelations-china"
+          file: "content/en/events/2026/03/16-appel-a-projet-revelations-china.html"
+          name: >-
+            Call for proposals - China Revelations
+        - permalink: "/en/agenda/2026/appel-a-candidature-artisans-dexcellence/"
+          path: "/events/2026/03/16-appel-a-candidature-artisans-dexcellence"
+          slug: "appel-a-candidature-artisans-dexcellence"
+          file: "content/en/events/2026/03/16-appel-a-candidature-artisans-dexcellence.html"
+          name: >-
+            Call for applications - Artisans of Excellence
+        - permalink: "/en/agenda/2026/appel-a-candidature-epv-participez-aux-rendez-vous-de-la-matiere-by-formae/"
+          path: "/events/2026/03/25-appel-a-candidature-epv-participez-aux-rendez-vous-de-la-matiere-by-formae"
+          slug: "appel-a-candidature-epv-participez-aux-rendez-vous-de-la-matiere-by-formae"
+          file: "content/en/events/2026/03/25-appel-a-candidature-epv-participez-aux-rendez-vous-de-la-matiere-by-formae.html"
+          name: >-
+            Call for applications - 12th meeting of matter
+        - permalink: "/en/agenda/2026/appel-a-projet-sirha-2027-1/"
+          path: "/events/2026/06/26-appel-a-projet-sirha-2027-1"
+          slug: "appel-a-projet-sirha-2027-1"
+          file: "content/en/events/2026/06/26-appel-a-projet-sirha-2027-1.html"
+          name: >-
+            Call of Proposals - SIRHA 2027
         - permalink: "/en/agenda/2026/appel-a-candidature-exposition-epv-global-industrie-2026-1-1/"
           path: "/events/2026/07/03-appel-a-candidature-exposition-epv-global-industrie-2026-1-1"
           slug: "appel-a-candidature-exposition-epv-global-industrie-2026-1-1"
           file: "content/en/events/2026/07/03-appel-a-candidature-exposition-epv-global-industrie-2026-1-1.html"
           name: >-
             Call for Applications - Living Heritage Companies of Occitanie to be Featured at SEPEM Toulouse 2026
-        - permalink: "/en/agenda/2026/appel-a-candidature-exposition-epv-global-industrie-2026-1-1-1/"
-          path: "/events/2026/08/28-appel-a-candidature-exposition-epv-global-industrie-2026-1-1-1"
-          slug: "appel-a-candidature-exposition-epv-global-industrie-2026-1-1-1"
-          file: "content/en/events/2026/08/28-appel-a-candidature-exposition-epv-global-industrie-2026-1-1-1.html"
-          name: >-
-            Call for Applications - Living Heritage Companies of Auvergne-Rhône-Alpes to be Featured at SEPEM Grenoble 2026
 
-      quantity: 2
+      quantity: 6
+
+  - kind: block
+    template: title
+    title: >-
+      Our agenda
+    slug: >-
+      our-agenda
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Our agenda
+        heading: 2
+
+    data:
+      layout: classic
+
 
 
 ---
