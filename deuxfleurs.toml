@@ -1919,6 +1919,10 @@ from = "/en/agenda/2025/webinaire-tout-savoir-sur-le-label-epv-1/index.html"
 to = "/en/agenda/2026/webinaire-tout-savoir-sur-le-label-epv-1/"
 
 [[redirects]]
+from = "/fr/agenda/2027/appel-a-projet-sirha-2027-1/index.html"
+to = "/fr/agenda/2026/appel-a-projet-sirha-2027-1/"
+
+[[redirects]]
 from = "/en/organizations/atelier-auder-dornements/index.html"
 to = "/en/organizations/atelier-auder-d-ornements/"
 
