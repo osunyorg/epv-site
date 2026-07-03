@@ -5611,6 +5611,10 @@ from = "/fr/organisations/categories/produits/maison-decoration/rideaux-stores-h
 to = "/fr/organisations/categories/produits/rideaux-stores-habillage-de-fenetres/tapis-tapisseries-revetements/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/literie-couette-oreiller-edredon/index.html"
+to = "/en/organizations/categories/products/chambre/literie-couette-oreiller-edredon/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/cruard-menuiserie/index.html"
 to = "/fr/organisations/cruard-menuiserie/"
 
@@ -6149,6 +6153,10 @@ to = "/fr/organisations/categories/regions/epv-normandie/"
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/fonderie-sylvain-compagnon/index.html"
 to = "/en/organizations/fonderie-sylvain-compagnon/"
+
+[[redirects]]
+from = "/en/organizations/categories/products/linge-de-lit-plaid/index.html"
+to = "/en/organizations/categories/products/chambre/linge-de-lit-plaid/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-luminaire/fabricant-de-luminaires/index.html"
