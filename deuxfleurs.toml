@@ -911,6 +911,10 @@ from = "/en/organizations/categories/products/mode-et-accessoires-1/packaging-em
 to = "/en/organizations/categories/products/packaging-emballage/"
 
 [[redirects]]
+from = "/en/organizations/categories/products/matelas-sommier/index.html"
+to = "/en/organizations/categories/products/chambre/matelas-sommier/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/automobile-mecanique/vehicule-automobile-1/index.html"
 to = "/fr/organisations/categories/produits/automobile-mecanique/vehicule-automobile-1/"
 
