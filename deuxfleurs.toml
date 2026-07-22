@@ -67,6 +67,10 @@ from = "/fr/reseau-excellence-auvergne-rhone-alpes/index.html"
 to = "/fr/lassociation/reseau-excellence-en-france/auvergne-rhone-alpes/"
 
 [[redirects]]
+from = "/fr/organisations/societe-bruno-delgrange/index.html"
+to = "/fr/organisations/bruno-delgrange/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/arthema/index.html"
 to = "/fr/organisations/arthema/"
 
@@ -3673,6 +3677,10 @@ to = "/fr/agenda/2025/lancement-de-reseau-excellence-contract/"
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/phelippeau-tapissier/index.html"
 to = "/fr/organisations/phelippeau-tapissier/"
+
+[[redirects]]
+from = "/en/organizations/societe-bruno-delgrange/index.html"
+to = "/en/organizations/bruno-delgrange/"
 
 [[redirects]]
 from = "/en/directory-of-epv-members/ateliers-bernard-pictet/index.html"
