@@ -4611,6 +4611,10 @@ from = "/fr/organisations/categories/produits/maison-decoration/agencement-d-int
 to = "/fr/organisations/categories/produits/agencement-d-interieur-1/"
 
 [[redirects]]
+from = "/fr/organisations/sellerie-vassou/index.html"
+to = "/fr/organisations/sellerie-cassou/"
+
+[[redirects]]
 from = "/fr/notre-organisation-annuaire/atelier-patrice-bricout/index.html"
 to = "/fr/organisations/atelier-patrice-bricout/"
 
