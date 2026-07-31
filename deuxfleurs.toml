@@ -5831,10 +5831,6 @@ from = "/fr/organisations/hugotag/index.html"
 to = "/fr/organisations/hugotag-ennoblissement/"
 
 [[redirects]]
-from = "/fr/equipe/gregory-manoukian/index.html"
-to = "/fr/equipe/gregory-laurent-1/"
-
-[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-ameublement-et-decoration/ebeniste/index.html"
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/ebeniste/"
 
