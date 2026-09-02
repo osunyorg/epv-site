@@ -195,6 +195,10 @@ from = "/fr/notre-organisation/maison-gatti/index.html"
 to = "/fr/organisations/maison-gatti/"
 
 [[redirects]]
+from = "/en/2026/260204-cp-pvp-epv-csf---v3pdf/index.html"
+to = "/en/files/2026/260204-cp-pvp-epv-csf---v3pdf/"
+
+[[redirects]]
 from = "/en/our-organization/maison-fey/index.html"
 to = "/en/organizations/maison-fey/"
 
@@ -333,6 +337,10 @@ to = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-
 [[redirects]]
 from = "/fr/organisations/categories/domaine-restauration/peintures/index.html"
 to = "/fr/organisations/categories/domaines/restauration/peintures/"
+
+[[redirects]]
+from = "/en/2026/presentation-drouaultpdf/index.html"
+to = "/en/files/2026/presentation-drouaultpdf/"
 
 [[redirects]]
 from = "/fr/organisations/categories/produits/industrie-equipements/electricite-equipements-techniques/interrupteurs-electriques/index.html"
@@ -891,6 +899,10 @@ from = "/en/news/2024-10-25-the-chair-fair-of-hagetmau-landes/index.html"
 to = "/en/news/2024-10-21-the-chair-fair-of-hagetmau-landes/"
 
 [[redirects]]
+from = "/en/2026/communique-de-presse-plan-metiers-d-art-epv-2025-2026-1pdf/index.html"
+to = "/en/files/2026/communique-de-presse-plan-metiers-d-art-epv-2025-2026-1pdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/peinture-decorative/index.html"
 to = "/fr/organisations/categories/produits/decoration-ambiance/peinture-decorative/"
 
@@ -1177,6 +1189,10 @@ to = "/fr/lassociation/reseau-excellence-en-france/"
 [[redirects]]
 from = "/en/organizations/categories/products/art-patrimoine/architecture-decorative/moulures/index.html"
 to = "/en/organizations/categories/products/architecture-decorative/moulures/"
+
+[[redirects]]
+from = "/en/2026/informations-utilespdf/index.html"
+to = "/en/files/2026/informations-utilespdf/"
 
 [[redirects]]
 from = "/fr/notre-organisation/astier-de-villatte/index.html"
@@ -1487,6 +1503,10 @@ from = "/en/posts/2023-05-30-une-nouvelle-strategie-nationale-en-faveur-des-meti
 to = "/en/news/2023-05-30-a-new-national-strategy-to-promote-the-arts-and-crafts/"
 
 [[redirects]]
+from = "/en/2026/invitation-4juinpdf/index.html"
+to = "/en/files/2026/invitation-4juinpdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/mode-et-accessoires-1/habillement-1/vetements/index.html"
 to = "/fr/organisations/categories/produits/habillement-1/vetements/"
 
@@ -1655,6 +1675,10 @@ from = "/fr/notre-organisation-annuaire/carrafont/index.html"
 to = "/fr/organisations/carrafont/"
 
 [[redirects]]
+from = "/en/2026/formulaire-de-candidature-epvdocx/index.html"
+to = "/en/files/2026/formulaire-de-candidature-epvdocx/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/maison-decoration/agencement-d-interieur-1/index.html"
 to = "/en/organizations/categories/products/agencement-d-interieur-1/"
 
@@ -1683,6 +1707,10 @@ from = "/fr/organisations/categories/domaine-restauration/textiles/index.html"
 to = "/fr/organisations/categories/domaines/restauration/textiles/"
 
 [[redirects]]
+from = "/en/2026/std-11-12-25pdf/index.html"
+to = "/en/files/2026/std-11-12-25pdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-cuir/tanneur/index.html"
 to = "/fr/organisations/categories/domaines/cuir/tanneur/"
 
@@ -1693,6 +1721,10 @@ to = "/en/agenda/2024/rendez-vous-d-exception-european-crafts-days-jema/"
 [[redirects]]
 from = "/en/organizations/maison-dhistoire/index.html"
 to = "/en/organizations/maison-d-histoire/"
+
+[[redirects]]
+from = "/en/2026/candidature--prototypepdf/index.html"
+to = "/en/files/2026/candidature--prototypepdf/"
 
 [[redirects]]
 from = "/fr/equipe/benoit-besnault-1/index.html"
@@ -1825,6 +1857,18 @@ to = "/en/organizations/categories/regions/epv-centre-val-de-loire/"
 [[redirects]]
 from = "/en/directory-of-epv-members-v1/abc-leroyer/index.html"
 to = "/en/organizations/abc-leroyer/"
+
+[[redirects]]
+from = "/en/2026/index.html"
+to = "/en/files/2026/catalogue-final-distribue-le-9-juilletpdf/"
+
+[[redirects]]
+from = "/en/2026/2023-04-04-infographie-vfpdf/index.html"
+to = "/en/files/2026/2023-04-04-infographie-vfpdf/"
+
+[[redirects]]
+from = "/en/2026/annexe-au-communique-de-pressepdf/index.html"
+to = "/en/files/2026/annexe-au-communique-de-pressepdf/"
 
 [[redirects]]
 from = "/en/news/2024-09-30-the-epv-texaa-hosts-the-new-aquitaine-vte-regional-association/index.html"
@@ -1995,6 +2039,10 @@ from = "/fr/annuaire-des-epv-adherentes-v1/la-maison-du-petit-four/index.html"
 to = "/fr/organisations/la-maison-du-petit-four/"
 
 [[redirects]]
+from = "/fr/fichiers/2026/index.html"
+to = "/fr/fichiers/2026/catalogue-epv-v-def-99mbpdf/"
+
+[[redirects]]
 from = "/en/organizations/categories/products/mode-et-accessoires-1/poterie-ceramique/index.html"
 to = "/en/organizations/categories/products/decoration-ambiance/poterie-ceramique/"
 
@@ -2101,6 +2149,10 @@ to = "/en/lassociation/reseau-excellence-in-france/occitanie/"
 [[redirects]]
 from = "/fr/notre-organisation/digital-packaging/index.html"
 to = "/fr/organisations/digital-packaging/"
+
+[[redirects]]
+from = "/en/2026/etude-epv-2024pdf/index.html"
+to = "/en/files/2026/etude-epv-2024pdf/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/etablissement-martinenq/index.html"
@@ -3003,6 +3055,10 @@ from = "/fr/reseau-excellence-contract/index.html"
 to = "/fr/nos-actions/reseau-excellence-contract/"
 
 [[redirects]]
+from = "/en/2026/dossier-de-presse-association-epv-grand-est-2-1pdf/index.html"
+to = "/en/files/2026/dossier-de-presse-association-epv-grand-est-2-1pdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-luminaire/fabricant-dabat-jour/index.html"
 to = "/fr/organisations/categories/domaines/luminaire/fabricant-dabat-jour/"
 
@@ -3033,6 +3089,10 @@ to = "/fr/organisations/categories/domaines/cuir/coupeur/"
 [[redirects]]
 from = "/fr/projets/epv-occitanie/index.html"
 to = "/fr/projets/epv-bretagne/"
+
+[[redirects]]
+from = "/en/2026/bel-ouvrage-venise-2026-frpdf/index.html"
+to = "/en/files/2026/bel-ouvrage-venise-2026-frpdf/"
 
 [[redirects]]
 from = "/fr/notre-organisation/phelippeau-tapissier/index.html"
@@ -3235,6 +3295,10 @@ from = "/en/organizations/de-lor-dans-les-mains/index.html"
 to = "/en/organizations/de-l-or-dans-les-mains/"
 
 [[redirects]]
+from = "/en/2026/plaquette-exposition-art-de-vivre-a-la-francaise-inde-2027-vdefpdf/index.html"
+to = "/en/files/2026/plaquette-exposition-art-de-vivre-a-la-francaise-inde-2027-vdefpdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/papier-du-graphisme-et-de-l-impression/fabricant-dobjets-en-papier-et-ou-carton/index.html"
 to = "/fr/organisations/categories/domaines/papier-graphisme-et-impression/fabricant-dobjets-en-papier-et-ou-carton/"
 
@@ -3257,6 +3321,10 @@ to = "/fr/organisations/categories/produits/art-de-la-table/linge-de-table/"
 [[redirects]]
 from = "/fr/organisations/categories/produits/ferronnerie-decorative/index.html"
 to = "/fr/organisations/categories/produits/decoration-ambiance/ferronnerie-decorative/"
+
+[[redirects]]
+from = "/en/2026/revelations-china-2026-compressedpdf/index.html"
+to = "/en/files/2026/revelations-china-2026-compressedpdf/"
 
 [[redirects]]
 from = "/fr/organisations/categories/savoir-faire/maitre-verrier-vitrailliste/index.html"
@@ -3575,6 +3643,10 @@ from = "/fr/organisations/categories/domaines/domaine-facture-instrumentale/fact
 to = "/fr/organisations/categories/domaines/facture-instrumentale/facteur-etou-restaurateur-de-pianos/"
 
 [[redirects]]
+from = "/en/2026/plaquette-lambert-manufilpdf/index.html"
+to = "/en/files/2026/plaquette-lambert-manufilpdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/produits/condiments-ingredients-culinaires/produits-laitiers/index.html"
 to = "/fr/organisations/categories/produits/traiteur-produits-prepares/produits-laitiers/"
 
@@ -3771,6 +3843,10 @@ from = "/en/organizations/categories/products/art-patrimoine/instruments-de-musi
 to = "/en/organizations/categories/products/instruments-de-musique-1/violon-1/"
 
 [[redirects]]
+from = "/en/2026/cousins-associes-tapissiers-plaquette-web-2025pdf/index.html"
+to = "/en/files/2026/cousins-associes-tapissiers-plaquette-web-2025pdf/"
+
+[[redirects]]
 from = "/en/agenda/crt-and-training/index.html"
 to = "/en/agenda/csr-and-training/"
 
@@ -3797,6 +3873,10 @@ to = "/fr/actions-et-engagements/federer/"
 [[redirects]]
 from = "/fr/agenda/2025/reseau-excellence-contract/index.html"
 to = "/fr/agenda/2025/soiree-ambassadeurs-fauchon-hospitality/"
+
+[[redirects]]
+from = "/en/2026/v2-atelier-manufactures-d-excellence-j27-m-o-030726pdf/index.html"
+to = "/en/files/2026/v2-atelier-manufactures-d-excellence-j27-m-o-030726pdf/"
 
 [[redirects]]
 from = "/en/reseau-excellence-in-france/reseau-excellence-pays-de-la-loire/index.html"
@@ -4131,6 +4211,10 @@ from = "/fr/annuaire-des-epv-adherentes-v1/ebenisterie-generale/index.html"
 to = "/fr/organisations/ebenisterie-generale/"
 
 [[redirects]]
+from = "/en/2026/ami-epv-milan-2026-vfpdf/index.html"
+to = "/en/files/2026/ami-epv-milan-2026-vfpdf/"
+
+[[redirects]]
 from = "/en/organizations/megisserie-alran/index.html"
 to = "/en/organizations/megisserie-alran-sas/"
 
@@ -4439,6 +4523,10 @@ from = "/fr/organisations/categories/domaine-ameublement-et-decoration/peintre-e
 to = "/fr/organisations/categories/domaines/ameublement-et-decoration/peintre-en-decor/"
 
 [[redirects]]
+from = "/en/2026/catalogue-final-distribue-le-9-juilletpdf/index.html"
+to = "/en/files/2026/catalogue-final-distribue-le-9-juilletpdf/"
+
+[[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/new-tone/index.html"
 to = "/fr/organisations/new-tone/"
 
@@ -4453,6 +4541,10 @@ to = "/fr/organisations/categories/type-dorganisation/partenaires/"
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/digital-packaging/index.html"
 to = "/fr/organisations/digital-packaging/"
+
+[[redirects]]
+from = "/en/2026/epv-formulairepdf/index.html"
+to = "/en/files/2026/epv-formulairepdf/"
 
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-textile/dentellier/index.html"
@@ -4807,6 +4899,10 @@ from = "/fr/organisations/categories/domaine-architecture-et-jardin/charpentier-
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/charpentier-de-marine/"
 
 [[redirects]]
+from = "/en/2026/cp-senatpdf/index.html"
+to = "/en/files/2026/cp-senatpdf/"
+
+[[redirects]]
 from = "/en/agenda/2024-04-02-rendez-vous-d-exception-european-crafts-days-jema/index.html"
 to = "/en/agenda/2024/rendez-vous-d-exception-european-crafts-days-jema/"
 
@@ -4899,6 +4995,10 @@ from = "/fr/organisations/epv-bretagne/index.html"
 to = "/fr/organisations/categories/regions/epv-bretagne/"
 
 [[redirects]]
+from = "/en/2026/plaquette-expo-art-de-vivre-a-la-francaise-bresil-2027-vdef-1pdf/index.html"
+to = "/en/files/2026/plaquette-expo-art-de-vivre-a-la-francaise-bresil-2027-vdef-1pdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/couvreur-ornemaniste/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/couvreur-ornemaniste/"
 
@@ -4957,6 +5057,10 @@ to = "/en/organizations/categories/regions/epv-bretagne/"
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/boisson/index.html"
 to = "/en/organizations/categories/products/boisson/"
+
+[[redirects]]
+from = "/en/2026/programmation-sne-a4pdf/index.html"
+to = "/en/files/2026/programmation-sne-a4pdf/"
 
 [[redirects]]
 from = "/fr/organisations/bronze-dart-francais/index.html"
@@ -5083,6 +5187,10 @@ from = "/en/lassociation/reseau-excellence-in-france/reseau-excellence-auvergne-
 to = "/en/lassociation/reseau-excellence-in-france/auvergne-rhone-alpes/"
 
 [[redirects]]
+from = "/en/2026/fdia-2025-cp-laureats-sept25pdf/index.html"
+to = "/en/files/2026/fdia-2025-cp-laureats-sept25pdf/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaine-restauration/meubles/index.html"
 to = "/fr/organisations/categories/domaines/restauration/meubles/"
 
@@ -5129,6 +5237,10 @@ to = "/fr/organisations/categories/produits/arts-graphiques-impression-papier/pa
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/bodet-campanaire/index.html"
 to = "/fr/organisations/bodet-campanaire/"
+
+[[redirects]]
+from = "/en/2026/paris-deco-home-2027-metiers-d-artpdf/index.html"
+to = "/en/files/2026/paris-deco-home-2027-metiers-d-artpdf/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/denis-et-fils/index.html"
@@ -5339,6 +5451,10 @@ from = "/en/directory-of-epv-members/index.html"
 to = "/en/organizations/"
 
 [[redirects]]
+from = "/en/2026/eh26-webinar-exclusive-collectionpdf/index.html"
+to = "/en/files/2026/eh26-webinar-exclusive-collectionpdf/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/digital-packaging/index.html"
 to = "/en/organizations/digital-packaging/"
 
@@ -5369,6 +5485,10 @@ to = "/fr/equipe/reseau-excellence/actualites/"
 [[redirects]]
 from = "/en/organizations/categories/type-dorganisation/partenaires/index.html"
 to = "/en/organizations/categories/organizations-type/partenaires/"
+
+[[redirects]]
+from = "/en/2026/cogitech-presentation-2026pdf/index.html"
+to = "/en/files/2026/cogitech-presentation-2026pdf/"
 
 [[redirects]]
 from = "/en/organizations/categories/products/gastronomie-2/condiments-ingredients-culinaires/jam/index.html"
@@ -6217,6 +6337,10 @@ to = "/en/organizations/categories/products/construction-structure-amenagement/c
 [[redirects]]
 from = "/fr/annuaire/atelier-auder-dornements/index.html"
 to = "/fr/organisations/atelier-auder-d-ornements/"
+
+[[redirects]]
+from = "/en/2026/812-cp-clairetabouret-x-atelier-mondineupdf/index.html"
+to = "/en/files/2026/812-cp-clairetabouret-x-atelier-mondineupdf/"
 
 [[redirects]]
 from = "/fr/notre-organisation-annuaire/atelier-coralie-barbe/index.html"
