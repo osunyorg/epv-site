@@ -5079,6 +5079,10 @@ from = "/en/organizations/categories/products/maison-decoration/art-de-la-table/
 to = "/en/organizations/categories/products/art-de-la-table/orfevre-2/"
 
 [[redirects]]
+from = "/fr/equipe/noemie-eekhout/index.html"
+to = "/fr/equipe/gregory-laurent-1/"
+
+[[redirects]]
 from = "/en/directory-of-epv-members-v1/moulins-de-versailles/index.html"
 to = "/en/organizations/moulins-de-versailles/"
 
