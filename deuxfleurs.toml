@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/fr/organisations/yves-combes-sarl/index.html"
+to = "/fr/organisations/maison-combes-roquefort-le-vieux-berger/"
+
+[[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-architecture-et-jardin/index.html"
 to = "/fr/organisations/categories/domaines/architecture-et-jardin/"
 
@@ -5813,6 +5817,10 @@ to = "/en/organizations/categories/products/instruments-de-musique-1/"
 [[redirects]]
 from = "/fr/organisations/categories/domaines/domaine-textile/tisserand/index.html"
 to = "/fr/organisations/categories/domaines/textile/tisserand/"
+
+[[redirects]]
+from = "/en/organizations/yves-combes-sarl/index.html"
+to = "/en/organizations/maison-combes-roquefort-le-vieux-berger/"
 
 [[redirects]]
 from = "/fr/annuaire-des-epv-adherentes-v1/culture-dobjet/index.html"
