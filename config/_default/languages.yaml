@@ -12,9 +12,9 @@ en:
       emails:
         email:
           label: >-
-            contact@anepv.fr
+            contact@reseauexcellence.fr
           value: >-
-            mailto:contact@anepv.fr
+            mailto:contact@reseauexcellence.fr
       social_networks:
         linkedin:
           label: >-
@@ -23,9 +23,9 @@ en:
             https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant/
         youtube:
           label: >-
-            associationnationaleepv3156
+            reseauexcellenceEPV20ans
           value: >-
-            https://www.youtube.com/@associationnationaleepv3156
+            https://www.youtube.com/@reseauexcellenceEPV20ans
 
   taxonomies:
     administrator: administrators
@@ -54,9 +54,9 @@ fr:
       emails:
         email:
           label: >-
-            contact@anepv.fr
+            contact@reseauexcellence.fr
           value: >-
-            mailto:contact@anepv.fr
+            mailto:contact@reseauexcellence.fr
       social_networks:
         linkedin:
           label: >-
@@ -65,9 +65,9 @@ fr:
             https://www.linkedin.com/company/association-national-des-entreprises-du-patrimoine-vivant/
         youtube:
           label: >-
-            associationnationaleepv3156
+            reseauexcellenceEPV20ans
           value: >-
-            https://www.youtube.com/@associationnationaleepv3156
+            https://www.youtube.com/@reseauexcellenceEPV20ans
 
   taxonomies:
     administrator: administrators
